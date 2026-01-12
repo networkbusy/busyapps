@@ -1,147 +1,181 @@
-[
-    {
-        "url": "assets/wallpapers/ChristmasWallpaper_785.jpeg",
-        "category": "Seasonal",
-        "description": "Abstract arts",
-        "tags": [
-            "red",
-            "pattern"
-        ]
-    },
-    {
-        "url": "assets/wallpapers/ChristmasWallpaper_789.jpeg",
-        "category": "Seasonal",
-        "description": "Abstract arts",
-        "tags": [
-            "red",
-            "pattern"
-        ]
-    },
-    {
-        "url": "assets/wallpapers/ChristmasWallpaper_824.jpeg",
-        "category": "Seasonal",
-        "description": "Abstract arts",
-        "tags": [
-            "red",
-            "pattern"
-        ]
-    },
-    {
-        "url": "assets/wallpapers/ChristmasWallpaper_978.jpeg",
-        "category": "Seasonal",
-        "description": "Abstract arts",
-        "tags": [
-            "red",
-            "pattern"
-        ]
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791409/1_29_zfjtbj.jpg",
-        "category": "Abstract",
-        "description": "Abstract arts",
-        "tags": [
-            "red",
-            "pattern"
-        ]
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791404/1_27_jxkdkt.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791403/1_26_psmskq.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791402/1_25_pbq62a.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791401/1_24_vikkge.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791398/1_23_blelks.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791397/1_21_kiypsb.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791395/1_20_gqkruj.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791393/1_19_kgvo7h.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791392/1_18_ex7p8q.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791390/1_17_ko0pul.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791389/1_16_ndkczt.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791389/1_15_jwkemp.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791377/1_14_xhovrw.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791376/1_13_tddt5j.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791374/1_12_hjehxp.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791374/1_11_v7rbta.jpg",
-        "category": "Nature"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791373/1_10_hngr16.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791372/1_9_yloco9.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791371/1_8_rtpfls.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791370/1_5_i9pflo.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791370/1_7_xqny6i.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791369/1_6_jidgya.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791369/1_2_w9twiv.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791369/1_4_iyvwoc.jpg",
-        "category": "Abstract"
-    },
-    {
-        "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791368/1_1_yhnq0j.jpg",
-        "category": "Abstract"
-    }
-]
+{
+    "updatedAt": "2024-05-20",
+    "version": "1.0",
+    "wallpapers": [
+        {
+            "id": "0",
+            "url": "assets/wallpapers/ChristmasWallpaper_785.jpeg",
+            "category": "Seasonal",
+            "description": "Abstract arts",
+            "tags": [
+                "red",
+                "pattern"
+            ]
+        },
+        {
+            "id": "1",
+            "url": "assets/wallpapers/ChristmasWallpaper_789.jpeg",
+            "category": "Seasonal",
+            "description": "Abstract arts",
+            "tags": [
+                "red",
+                "pattern"
+            ]
+        },
+        {
+            "id": "2",
+            "url": "assets/wallpapers/ChristmasWallpaper_824.jpeg",
+            "category": "Seasonal",
+            "description": "Abstract arts",
+            "tags": [
+                "red",
+                "pattern"
+            ]
+        },
+        {
+            "id": "3",
+            "url": "assets/wallpapers/ChristmasWallpaper_978.jpeg",
+            "category": "Seasonal",
+            "description": "Abstract arts",
+            "tags": [
+                "red",
+                "pattern"
+            ]
+        },
+        {
+            "id": "4",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791409/1_29_zfjtbj.jpg",
+            "category": "Abstract",
+            "description": "Abstract arts",
+            "tags": [
+                "red",
+                "pattern"
+            ]
+        },
+        {
+            "id": "5",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791404/1_27_jxkdkt.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "6",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791403/1_26_psmskq.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "7",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791402/1_25_pbq62a.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "8",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791401/1_24_vikkge.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "9",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791398/1_23_blelks.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "10",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791397/1_21_kiypsb.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "11",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791395/1_20_gqkruj.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "12",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791393/1_19_kgvo7h.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "13",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791392/1_18_ex7p8q.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "14",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791390/1_17_ko0pul.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "15",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791389/1_16_ndkczt.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "16",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791389/1_15_jwkemp.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "17",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791377/1_14_xhovrw.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "18",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791376/1_13_tddt5j.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "19",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791374/1_12_hjehxp.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "20",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791374/1_11_v7rbta.jpg",
+            "category": "Nature"
+        },
+        {
+            "id": "21",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791373/1_10_hngr16.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "22",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791372/1_9_yloco9.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "23",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791371/1_8_rtpfls.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "24",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791370/1_5_i9pflo.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "25",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791370/1_7_xqny6i.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "26",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791369/1_6_jidgya.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "27",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791369/1_2_w9twiv.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "28",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791369/1_4_iyvwoc.jpg",
+            "category": "Abstract"
+        },
+        {
+            "id": "29",
+            "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1767791368/1_1_yhnq0j.jpg",
+            "category": "Abstract"
+        }
+    ]
+}
