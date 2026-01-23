@@ -1,0 +1,60 @@
+{
+    "updatedAt": "2025-01-05",
+    "version": "1.0",
+    "categories": [
+        {
+            "id": "1",
+            "name": "Abstract",
+            "description": "Abstract wallpapers",
+            "img": "assets/categories/thumbnails/abstract_thumbnail.jpg",
+            "jpath": "assets/categories/json/abstract.json",
+            "show": true,
+            "pos": "6"
+        },
+        {
+            "id": "2",
+            "name": "Artistic",
+            "description": "Artistic wallpapers",
+            "img": "assets/categories/thumbnails/artistic_thumbnail.jpg",
+            "jpath": "assets/categories/json/artistic.json",
+            "show": true,
+            "pos": "5"
+        },
+        {
+            "id": "3",
+            "name": "Minimalist",
+            "description": "Minimalist wallpapers",
+            "img": "assets/categories/thumbnails/minimalist_thumbnail.jpg",
+            "jpath": "assets/categories/json/minimalist.json",
+            "show": false,
+            "pos": "4"
+        },
+        {
+            "id": "4",
+            "name": "Nature",
+            "description": "Nature wallpapers",
+            "img": "assets/categories/thumbnails/nature_thumbnail.jpg",
+            "jpath": "assets/categories/json/nature.json",
+            "show": true,
+            "pos": "3"
+        },
+        {
+            "id": "5",
+            "name": "Vibe",
+            "description": "Vibe wallpapers",
+            "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/vibe_thumbnail.jpg",
+            "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/vibe.json",
+            "show": true,
+            "pos": "2"
+        },
+        {
+            "id": "6",
+            "name": "Creative",
+            "description": "Creative wallpapers",
+            "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/creative_thumbnail.jpg",
+            "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/creative.json",
+            "show": true,
+            "pos": "1"
+        }
+    ]
+}
