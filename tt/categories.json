@@ -1,0 +1,96 @@
+{
+    "updatedAt": "2026-01-28",
+    "version": "2.0",
+    "categories": [
+        {
+            "id": "1",
+            "name": "Abstract",
+            "description": "Non-real designs with shapes, colors, and patterns for a modern look.",
+            "img": "assets/categories/thumbnails/abstract.png",
+            "jpath": "assets/categories/json/abstract.json",
+            "show": false,
+            "pos": ""
+        },
+        {
+            "id": "2",
+            "name": "Artistic",
+            "description": "Creative artwork styles like paintings, sketches, and illustrated designs.",
+            "img": "assets/categories/thumbnails/artistic.png",
+            "jpath": "assets/categories/json/artistic.json",
+            "show": false,
+            "pos": ""
+        },
+        {
+            "id": "3",
+            "name": "Creative",
+            "description": "Original, imaginative wallpapers with unique concepts and designs.",
+            "img": "assets/categories/thumbnails/creative.png",
+            "jpath": "assets/categories/json/creative.json",
+            "show": true,
+            "pos": "4"
+        },
+        {
+            "id": "4",
+            "name": "Cute",
+            "description": "Adorable characters, soft colors, and playful designs that feel sweet.",
+            "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/cute.png",
+            "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/cute.json",
+            "show": true,
+            "pos": "1"
+        },
+        {
+            "id": "5",
+            "name": "Digital",
+            "description": "Modern digital art with neon, tech, futuristic, or clean graphic styles.",
+            "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/digital.png",
+            "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/digital.json",
+            "show": false,
+            "pos": ""
+        },
+        {
+            "id": "6",
+            "name": "Games",
+            "description": "Gaming-inspired wallpapers from characters, worlds, and game-style graphics.",
+            "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/games.png",
+            "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/games.json",
+            "show": false,
+            "pos": ""
+        },
+        {
+            "id": "7",
+            "name": "Minimalist",
+            "description": "Simple, clean designs with fewer details for a neat, calm screen.",
+            "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/minimalist.png",
+            "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/minimalist.json",
+            "show": false,
+            "pos": ""
+        },
+        {
+            "id": "8",
+            "name": "Nature",
+            "description": "Landscapes, plants, skies, and outdoor scenes inspired by the real world.",
+            "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/nature.png",
+            "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/nature.json",
+            "show": false,
+            "pos": ""
+        },
+        {
+            "id": "9",
+            "name": "Stylish",
+            "description": "Trendy, aesthetic designs with a fashionable and premium feel.",
+            "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/stylish.png",
+            "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/stylish.json",
+            "show": true,
+            "pos": "2"
+        },
+        {
+            "id": "10",
+            "name": "Vibe",
+            "description": "Mood-based wallpapers that match feelings like chill, dark, cozy, or hype.",
+            "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/vibe.png",
+            "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/vibe.json",
+            "show": true,
+            "pos": "3"
+        }
+    ]
+}

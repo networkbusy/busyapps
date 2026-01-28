@@ -1,0 +1,1345 @@
+{
+  "updatedAt": "2026-01-28",
+  "version": "1.0",
+  "wallpapers": [
+    {
+      "id": 1,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580283/wall_pix_9_16_games_99_srhfyl.jpg",
+      "category": "games",
+      "description": "A 3D render of Mario with his hat floating above his head, set against a red background.",
+      "tags": [
+        "mario",
+        "3d render",
+        "nintendo",
+        "character",
+        "red"
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580280/wall_pix_9_16_games_97_fbyrke.jpg",
+      "category": "games",
+      "description": "Mario jumps with his fist raised against a blue sky and a bright sun.",
+      "tags": [
+        "mario",
+        "jumping",
+        "cartoon",
+        "bright",
+        "video game"
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580278/wall_pix_9_16_games_96_hoapnl.jpg",
+      "category": "games",
+      "description": "Two Goombas are walking on a green platform with a blue sky and green hills in the background.",
+      "tags": [
+        "goomba",
+        "video game",
+        "green",
+        "blue",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580276/wall_pix_9_16_games_95_rawglg.jpg",
+      "category": "games",
+      "description": "A police officer in uniform stands on a flat surface and salutes against a clear blue sky.",
+      "tags": [
+        "police officer",
+        "uniform",
+        "salute",
+        "blue sky",
+        "outdoors"
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580275/wall_pix_9_16_games_94_cwca3f.jpg",
+      "category": "games",
+      "description": "A 3D render of Mario standing with his hand outstretched against a blue background.",
+      "tags": [
+        "mario",
+        "nintendo",
+        "character",
+        "3d render",
+        "blue"
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580273/wall_pix_9_16_games_93_dhhgaq.jpg",
+      "category": "games",
+      "description": "A pixelated 3D rendering of the video game character Mario stands against a blue gradient background.",
+      "tags": [
+        "mario",
+        "pixel art",
+        "3d render",
+        "video game",
+        "character"
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580272/wall_pix_9_16_games_92_wxntnu.jpg",
+      "category": "games",
+      "description": "Mario and Yoshi stand together against a blue background with white bokeh.",
+      "tags": [
+        "mario",
+        "yoshi",
+        "video game",
+        "cartoon",
+        "characters"
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580269/wall_pix_9_16_games_90_us5rqb.jpg",
+      "category": "games",
+      "description": "A 3D render of Mario with his fist raised, wearing his classic red hat and blue overalls.",
+      "tags": [
+        "mario",
+        "3d render",
+        "video game",
+        "cartoon",
+        "character"
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580267/wall_pix_9_16_games_9_f4xnnw.jpg",
+      "category": "games",
+      "description": "A cartoon man with blue eyes is wearing a red sweater and blue overalls with white gloves.",
+      "tags": [
+        "cartoon",
+        "man",
+        "overalls",
+        "gloves",
+        "portrait"
+      ]
+    },
+    {
+      "id": 10,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580266/wall_pix_9_16_games_89_soclvi.jpg",
+      "category": "games",
+      "description": "Mario and Yoshi are running through a bright, colorful landscape with coins in the air.",
+      "tags": [
+        "mario",
+        "yoshi",
+        "coins",
+        "bright",
+        "landscape"
+      ]
+    },
+    {
+      "id": 11,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580264/wall_pix_9_16_games_88_qeraj4.jpg",
+      "category": "games",
+      "description": "A pixelated character jumps across a low-poly landscape with trees and cliffs.",
+      "tags": [
+        "pixelated",
+        "low-poly",
+        "landscape",
+        "adventure",
+        "trees"
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580263/wall_pix_9_16_games_87_oymobr.jpg",
+      "category": "games",
+      "description": "Mario is driving a kart on a rainbow road with a loop in the background.",
+      "tags": [
+        "mario",
+        "kart",
+        "rainbow road",
+        "racing",
+        "video game"
+      ]
+    },
+    {
+      "id": 13,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580261/wall_pix_9_16_games_86_h0rlup.jpg",
+      "category": "games",
+      "description": "A 3D rendering of Mario in his classic outfit against a space background.",
+      "tags": [
+        "mario",
+        "3d render",
+        "space",
+        "cartoon",
+        "character"
+      ]
+    },
+    {
+      "id": 14,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580260/wall_pix_9_16_games_85_rynypi.jpg",
+      "category": "games",
+      "description": "A cartoon-style character with big blue eyes, wearing a red cap, yellow and red shirt, and blue pants, is set against a red background.",
+      "tags": [
+        "cartoon",
+        "character",
+        "red",
+        "blue",
+        "cute"
+      ]
+    },
+    {
+      "id": 15,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580258/wall_pix_9_16_games_84_y2asm3.jpg",
+      "category": "games",
+      "description": "A 3D render of Mario standing with his hat floating above his head on a red background.",
+      "tags": [
+        "mario",
+        "3d render",
+        "cartoon",
+        "red",
+        "character"
+      ]
+    },
+    {
+      "id": 16,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580255/wall_pix_9_16_games_82_cnfola.jpg",
+      "category": "games",
+      "description": "A bearded character in overalls and a hard hat holds a glowing fist.",
+      "tags": [
+        "fantasy",
+        "character",
+        "overalls",
+        "glowing",
+        "beard"
+      ]
+    },
+    {
+      "id": 17,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580253/wall_pix_9_16_games_81_j6hz14.jpg",
+      "category": "games",
+      "description": "Mario and Yoshi are jumping in a sunny, colorful, outdoor environment with coins.",
+      "tags": [
+        "mario",
+        "yoshi",
+        "coins",
+        "bright",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 18,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580251/wall_pix_9_16_games_80_twdfmd.jpg",
+      "category": "games",
+      "description": "A cartoon character in overalls holds a question mark box and a hammer.",
+      "tags": [
+        "cartoon",
+        "overalls",
+        "hammer",
+        "question box",
+        "character"
+      ]
+    },
+    {
+      "id": 19,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580250/wall_pix_9_16_games_8_gnqxr3.jpg",
+      "category": "games",
+      "description": "A 3D rendering of Mario in mid-jump, wearing his signature overalls and gloves, with a blurred background.",
+      "tags": [
+        "mario",
+        "3d render",
+        "jumping",
+        "cartoon",
+        "character"
+      ]
+    },
+    {
+      "id": 20,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580248/wall_pix_9_16_games_79_eiovsr.jpg",
+      "category": "games",
+      "description": "Two elven warriors stand in a cloudy, futuristic cityscape with bubbles floating around them.",
+      "tags": [
+        "elf",
+        "warriors",
+        "fantasy",
+        "futuristic",
+        "clouds"
+      ]
+    },
+    {
+      "id": 21,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580246/wall_pix_9_16_games_78_hkoicq.jpg",
+      "category": "games",
+      "description": "A pixelated character stands on a long, golden brick path next to a high wall under a clear sky.",
+      "tags": [
+        "pixelated",
+        "character",
+        "golden",
+        "brick",
+        "path"
+      ]
+    },
+    {
+      "id": 22,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580245/wall_pix_9_16_games_77_utvjyp.jpg",
+      "category": "games",
+      "description": "Mario is driving a go-kart on a rainbow road with a loop in the background.",
+      "tags": [
+        "mario",
+        "go-kart",
+        "rainbow road",
+        "nintendo",
+        "video game"
+      ]
+    },
+    {
+      "id": 23,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580243/wall_pix_9_16_games_76_ah1z2d.jpg",
+      "category": "games",
+      "description": "Mario holds a shark-shaped gun with a determined expression, standing in a colorful, block-filled environment.",
+      "tags": [
+        "mario",
+        "shark gun",
+        "cartoon",
+        "playful",
+        "bright"
+      ]
+    },
+    {
+      "id": 24,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580240/wall_pix_9_16_games_74_cubdvu.jpg",
+      "category": "games",
+      "description": "A pixelated character in red and green clothing stands under a bright light.",
+      "tags": [
+        "pixelated",
+        "character",
+        "red",
+        "green",
+        "3d"
+      ]
+    },
+    {
+      "id": 25,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580238/wall_pix_9_16_games_73_fh555f.jpg",
+      "category": "games",
+      "description": "Mario, the video game character, is smiling with his arms outstretched against a space background.",
+      "tags": [
+        "mario",
+        "character",
+        "space",
+        "cartoon",
+        "smiling"
+      ]
+    },
+    {
+      "id": 26,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580237/wall_pix_9_16_games_72_w15kyu.jpg",
+      "category": "games",
+      "description": "A 3D render of Mario stands on a blue surface with his hand outstretched.",
+      "tags": [
+        "mario",
+        "3d render",
+        "video game",
+        "cartoon",
+        "character"
+      ]
+    },
+    {
+      "id": 27,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580235/wall_pix_9_16_games_71_sskrwx.jpg",
+      "category": "games",
+      "description": "Close-up of a person's face with blue eyes and a red beanie.",
+      "tags": [
+        "close-up",
+        "blue eyes",
+        "red beanie",
+        "portrait",
+        "person"
+      ]
+    },
+    {
+      "id": 28,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580233/wall_pix_9_16_games_70_ruopyo.jpg",
+      "category": "games",
+      "description": "Two women in tattered dresses face each other, one holding a hammer and the other holding claw-like blades, against a sunset backdrop.",
+      "tags": [
+        "women",
+        "sunset",
+        "fantasy",
+        "battle",
+        "dresses"
+      ]
+    },
+    {
+      "id": 29,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580232/wall_pix_9_16_games_7_ceinmu.jpg",
+      "category": "games",
+      "description": "Mario is joyfully playing a golden trumpet on a stage with Bowser and drums.",
+      "tags": [
+        "mario",
+        "trumpet",
+        "bowser",
+        "stage",
+        "music"
+      ]
+    },
+    {
+      "id": 30,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580230/wall_pix_9_16_games_68_uegzgj.jpg",
+      "category": "games",
+      "description": "Mario winks and smiles in a bright, colorful, cartoonish landscape with floating islands and mushrooms.",
+      "tags": [
+        "mario",
+        "cartoon",
+        "bright",
+        "landscape",
+        "whimsical"
+      ]
+    },
+    {
+      "id": 31,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580230/wall_pix_9_16_games_69_yp6zxt.jpg",
+      "category": "games",
+      "description": "A 3D rendering of Mario holding a question block and a hammer, looking determined.",
+      "tags": [
+        "mario",
+        "3d render",
+        "question block",
+        "hammer",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 32,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580227/wall_pix_9_16_games_67_tjjcdg.jpg",
+      "category": "games",
+      "description": "An elf woman in armor runs through a colorful landscape holding a staff with a glowing orb.",
+      "tags": [
+        "elf",
+        "armor",
+        "fantasy",
+        "landscape",
+        "staff"
+      ]
+    },
+    {
+      "id": 33,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580225/wall_pix_9_16_games_66_hgbbxf.jpg",
+      "category": "games",
+      "description": "Mario plays the trumpet in front of Bowser and a drum set on a stage.",
+      "tags": [
+        "mario",
+        "trumpet",
+        "bowser",
+        "drum set",
+        "stage"
+      ]
+    },
+    {
+      "id": 34,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580224/wall_pix_9_16_games_65_ilhg17.jpg",
+      "category": "games",
+      "description": "A 3D render of Mario with a determined expression, wearing his signature red cap and blue overalls.",
+      "tags": [
+        "mario",
+        "3d render",
+        "video game",
+        "character",
+        "portrait"
+      ]
+    },
+    {
+      "id": 35,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580221/wall_pix_9_16_games_63_z5orsh.jpg",
+      "category": "games",
+      "description": "Two women face each other in a desert landscape, one wielding a hammer and the other swords.",
+      "tags": [
+        "women",
+        "desert",
+        "sunset",
+        "fantasy",
+        "battle"
+      ]
+    },
+    {
+      "id": 36,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580219/wall_pix_9_16_games_62_badouo.jpg",
+      "category": "games",
+      "description": "Close-up of Mario's face with a blue cap, large nose, and thick mustache against a red background.",
+      "tags": [
+        "mario",
+        "cartoon",
+        "character",
+        "portrait",
+        "close-up"
+      ]
+    },
+    {
+      "id": 37,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580217/wall_pix_9_16_games_61_jmkrws.jpg",
+      "category": "games",
+      "description": "Close-up of Mario pointing upwards with a bright light on his finger, set against a red background with a mushroom silhouette.",
+      "tags": [
+        "mario",
+        "pointing",
+        "red",
+        "cartoon",
+        "video game"
+      ]
+    },
+    {
+      "id": 38,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580214/wall_pix_9_16_games_6_vnjmzc.jpg",
+      "category": "games",
+      "description": "A muscular man in overalls and a hard hat holds a glowing blue fist under a spotlight.",
+      "tags": [
+        "man",
+        "overalls",
+        "spotlight",
+        "blue glow",
+        "construction"
+      ]
+    },
+    {
+      "id": 39,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580212/wall_pix_9_16_games_59_fkxukg.jpg",
+      "category": "games",
+      "description": "A 3D rendering of Mario wearing his signature red hat and blue overalls.",
+      "tags": [
+        "mario",
+        "3d render",
+        "video game",
+        "cartoon",
+        "character"
+      ]
+    },
+    {
+      "id": 40,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580207/wall_pix_9_16_games_56_azekgm.jpg",
+      "category": "games",
+      "description": "Mario is floating in space near a star and above a planet.",
+      "tags": [
+        "mario",
+        "space",
+        "star",
+        "planet",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 41,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580206/wall_pix_9_16_games_55_vhpokt.jpg",
+      "category": "games",
+      "description": "A piranha plant from the Mario video game series sits in a green pipe in a grassy field with a castle in the background.",
+      "tags": [
+        "piranha plant",
+        "green pipe",
+        "grassy field",
+        "castle",
+        "video game"
+      ]
+    },
+    {
+      "id": 42,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580204/wall_pix_9_16_games_54_g0imy3.jpg",
+      "category": "games",
+      "description": "A pixelated Mario character stands in a green landscape with pipes, under a bright sun and blue sky.",
+      "tags": [
+        "mario",
+        "pixelated",
+        "landscape",
+        "green pipes",
+        "sunny"
+      ]
+    },
+    {
+      "id": 43,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580199/wall_pix_9_16_games_51_eqzjr3.jpg",
+      "category": "games",
+      "description": "The image shows two groups of people, one in red and one in blue, with a man in the red group having flames on his head.",
+      "tags": [
+        "characters",
+        "red",
+        "blue",
+        "fire",
+        "guns"
+      ]
+    },
+    {
+      "id": 44,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580198/wall_pix_9_16_games_50_kqsioy.jpg",
+      "category": "games",
+      "description": "A 3D render of Mario with a mustache, red hat, and blue overalls against a blue background.",
+      "tags": [
+        "mario",
+        "3d render",
+        "cartoon",
+        "nintendo",
+        "character"
+      ]
+    },
+    {
+      "id": 45,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580196/wall_pix_9_16_games_5_mx25u3.jpg",
+      "category": "games",
+      "description": "A close-up of Mario's face with a blue cap against a red background.",
+      "tags": [
+        "mario",
+        "character",
+        "blue cap",
+        "red",
+        "close-up"
+      ]
+    },
+    {
+      "id": 46,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580195/wall_pix_9_16_games_49_svnvwa.jpg",
+      "category": "games",
+      "description": "A group of Nintendo characters including Mario, Luigi, Princess Peach, Donkey Kong, and Bowser stand on green grass under a blue sky.",
+      "tags": [
+        "nintendo",
+        "characters",
+        "grass",
+        "sky",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 47,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580193/wall_pix_9_16_games_48_lkfhv1.jpg",
+      "category": "games",
+      "description": "A vertical shot of a Super Mario Bros. level with pipes, bricks, and question mark blocks against a blue sky with clouds.",
+      "tags": [
+        "video game",
+        "mario bros",
+        "green pipe",
+        "brick blocks",
+        "blue sky"
+      ]
+    },
+    {
+      "id": 48,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580191/wall_pix_9_16_games_47_i2tsdw.jpg",
+      "category": "games",
+      "description": "Mario is driving a kart on a racetrack with other characters and a crowd in the background.",
+      "tags": [
+        "mario",
+        "kart",
+        "racing",
+        "track",
+        "crowd"
+      ]
+    },
+    {
+      "id": 49,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580190/wall_pix_9_16_games_46_vc8muj.jpg",
+      "category": "games",
+      "description": "A cartoon man with a red cap, red shirt, and blue overalls stands against a blue background with mushroom outlines.",
+      "tags": [
+        "cartoon",
+        "character",
+        "overalls",
+        "red cap",
+        "blue"
+      ]
+    },
+    {
+      "id": 50,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580188/wall_pix_9_16_games_45_lu7crx.jpg",
+      "category": "games",
+      "description": "Mario in overalls and a red shirt is jumping with his arms raised.",
+      "tags": [
+        "mario",
+        "character",
+        "jumping",
+        "overalls",
+        "gloves"
+      ]
+    },
+    {
+      "id": 51,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580186/wall_pix_9_16_games_44_qplxd9.jpg",
+      "category": "games",
+      "description": "A 3D rendering of Mario standing with his hands behind his back against a blue background.",
+      "tags": [
+        "mario",
+        "3d render",
+        "nintendo",
+        "cartoon",
+        "character"
+      ]
+    },
+    {
+      "id": 52,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580185/wall_pix_9_16_games_43_rhvfgx.jpg",
+      "category": "games",
+      "description": "A 3D-rendered image of Mario jumping in a green field with a blue sky.",
+      "tags": [
+        "mario",
+        "3d render",
+        "jumping",
+        "video game",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 53,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580183/wall_pix_9_16_games_42_j4ztvv.jpg",
+      "category": "games",
+      "description": "A 3D cartoon man with blue overalls, a red shirt, and a red cap stands against a blue background with mushroom shapes.",
+      "tags": [
+        "cartoon",
+        "3d render",
+        "man",
+        "overalls",
+        "mushrooms"
+      ]
+    },
+    {
+      "id": 54,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580181/wall_pix_9_16_games_41_pkxb38.jpg",
+      "category": "games",
+      "description": "A cartoon-style man with a mustache and blue eyes is driving a red go-kart.",
+      "tags": [
+        "cartoon",
+        "go-kart",
+        "mustache",
+        "red",
+        "helmet"
+      ]
+    },
+    {
+      "id": 55,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580180/wall_pix_9_16_games_40_imsuev.jpg",
+      "category": "games",
+      "description": "Close-up of a person's face with bright blue eyes wearing a red beanie against a black background.",
+      "tags": [
+        "close-up",
+        "blue eyes",
+        "red beanie",
+        "portrait",
+        "dark"
+      ]
+    },
+    {
+      "id": 56,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580178/wall_pix_9_16_games_4_seuzne.jpg",
+      "category": "games",
+      "description": "Two elven warriors stand back-to-back in armor, one holding a staff and the other a sword, against a cloudy, futuristic backdrop.",
+      "tags": [
+        "elf",
+        "warriors",
+        "armor",
+        "fantasy",
+        "futuristic"
+      ]
+    },
+    {
+      "id": 57,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580176/wall_pix_9_16_games_39_kqpnzy.jpg",
+      "category": "games",
+      "description": "A Piranha Plant from the Mario video game series is in a green pipe in a grassy field with a castle in the background.",
+      "tags": [
+        "piranha plant",
+        "video game",
+        "green pipe",
+        "castle",
+        "sunset"
+      ]
+    },
+    {
+      "id": 58,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580175/wall_pix_9_16_games_38_b7h8oj.jpg",
+      "category": "games",
+      "description": "A pixelated character stands on a brick structure in a blocky, grassy landscape with floating coins under a blue sky.",
+      "tags": [
+        "pixel art",
+        "game scenery",
+        "blocky",
+        "character",
+        "outdoor"
+      ]
+    },
+    {
+      "id": 59,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580171/wall_pix_9_16_games_36_whzusi.jpg",
+      "category": "games",
+      "description": "Mario jumps in the air with a fist raised against a sunny, blue sky and green hills.",
+      "tags": [
+        "mario",
+        "jumping",
+        "cartoon",
+        "bright",
+        "sunny"
+      ]
+    },
+    {
+      "id": 60,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580168/wall_pix_9_16_games_34_grurt5.jpg",
+      "category": "games",
+      "description": "A pixelated Mario character stands in a green landscape with pipes and a blue sky.",
+      "tags": [
+        "mario",
+        "pixel art",
+        "green hills",
+        "video game",
+        "3d render"
+      ]
+    },
+    {
+      "id": 61,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580167/wall_pix_9_16_games_33_lfnuvx.jpg",
+      "category": "games",
+      "description": "A pixelated character jumps across platforms in a video game setting with a blue sky and clouds.",
+      "tags": [
+        "pixel art",
+        "video game",
+        "platformer",
+        "character",
+        "sky"
+      ]
+    },
+    {
+      "id": 62,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580165/wall_pix_9_16_games_32_egqmyw.jpg",
+      "category": "games",
+      "description": "Mario wearing a baseball uniform and glove is catching a baseball on a grassy field.",
+      "tags": [
+        "mario",
+        "baseball",
+        "glove",
+        "cartoon",
+        "field"
+      ]
+    },
+    {
+      "id": 63,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580163/wall_pix_9_16_games_31_epabgo.jpg",
+      "category": "games",
+      "description": "A cartoon image shows Mario jumping in front of a red and white striped background.",
+      "tags": [
+        "mario",
+        "cartoon",
+        "jumping",
+        "red",
+        "white"
+      ]
+    },
+    {
+      "id": 64,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580161/wall_pix_9_16_games_30_ghfhoy.jpg",
+      "category": "games",
+      "description": "Two Goombas stand on a green tiled surface under a blue sky with a floating brick and '1-1'.",
+      "tags": [
+        "goomba",
+        "video game",
+        "3d render",
+        "blue sky",
+        "green tiles"
+      ]
+    },
+    {
+      "id": 65,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580160/wall_pix_9_16_games_3_e8ylac.jpg",
+      "category": "games",
+      "description": "Mario is jumping and playing a golden trumpet in front of a drum set.",
+      "tags": [
+        "mario",
+        "trumpet",
+        "drums",
+        "cartoon",
+        "stage"
+      ]
+    },
+    {
+      "id": 66,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580158/wall_pix_9_16_games_29_hk2lkx.jpg",
+      "category": "games",
+      "description": "A 3D render of Mario jumping across a green and brown platform with cartoon clouds in the background.",
+      "tags": [
+        "mario",
+        "3d render",
+        "platform",
+        "clouds",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 67,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580157/wall_pix_9_16_games_28_ab4emm.jpg",
+      "category": "games",
+      "description": "A 3D render of Mario pointing upwards with a bright light at the tip of his finger.",
+      "tags": [
+        "mario",
+        "3d render",
+        "pointing",
+        "red",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 68,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580156/wall_pix_9_16_games_27_wbkgfa.jpg",
+      "category": "games",
+      "description": "A pixelated Mario character stands against a blue gradient background.",
+      "tags": [
+        "mario",
+        "pixelated",
+        "character",
+        "blue",
+        "game"
+      ]
+    },
+    {
+      "id": 69,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580155/wall_pix_9_16_games_26_icheas.jpg",
+      "category": "games",
+      "description": "A cartoon-style image of Mario jumping in front of a red and white striped background.",
+      "tags": [
+        "mario",
+        "cartoon",
+        "jumping",
+        "red",
+        "white"
+      ]
+    },
+    {
+      "id": 70,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580152/wall_pix_9_16_games_25_smzshx.jpg",
+      "category": "games",
+      "description": "A group of four cartoon characters are exploring a canyon, with one character jumping over a gap.",
+      "tags": [
+        "cartoon",
+        "canyon",
+        "adventure",
+        "group",
+        "characters"
+      ]
+    },
+    {
+      "id": 71,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580150/wall_pix_9_16_games_24_jvkgqq.jpg",
+      "category": "games",
+      "description": "Mario holds a shark-shaped gun with an angry expression, standing on a colorful surface with gold coins.",
+      "tags": [
+        "mario",
+        "shark gun",
+        "angry",
+        "cartoon",
+        "bright"
+      ]
+    },
+    {
+      "id": 72,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580145/wall_pix_9_16_games_21_r1o5gl.jpg",
+      "category": "games",
+      "description": "A video game-inspired scene with green pipes, question mark blocks, and a layered ground against a blue sky with clouds.",
+      "tags": [
+        "video game",
+        "green pipes",
+        "question blocks",
+        "blue sky",
+        "clouds"
+      ]
+    },
+    {
+      "id": 73,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580144/wall_pix_9_16_games_20_xytwfi.jpg",
+      "category": "games",
+      "description": "A Mario figurine stands against a cracked concrete wall in a dimly lit setting.",
+      "tags": [
+        "mario",
+        "figurine",
+        "concrete",
+        "dark",
+        "gritty"
+      ]
+    },
+    {
+      "id": 74,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769580087/wall_pix_9_16_games_2_k50x0w.jpg",
+      "category": "games",
+      "description": "A 3D rendering shows Mario and Yoshi standing together against a blue, star-filled background.",
+      "tags": [
+        "3d render",
+        "mario",
+        "yoshi",
+        "video game",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 75,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579984/wall_pix_9_16_games_19_hgthrc.jpg",
+      "category": "games",
+      "description": "A 3D rendering of a Super Mario Bros. level with a brick castle, green hills, pipes, and white clouds.",
+      "tags": [
+        "3d render",
+        "mario bros",
+        "brick castle",
+        "green hills",
+        "blue sky"
+      ]
+    },
+    {
+      "id": 76,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579883/wall_pix_9_16_games_18_hm2mw2.jpg",
+      "category": "games",
+      "description": "A row of Mario figurines are lined up with the front one raising its fist in the air, reflected on a black surface.",
+      "tags": [
+        "mario",
+        "figurines",
+        "reflection",
+        "red hat",
+        "black background"
+      ]
+    },
+    {
+      "id": 77,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579781/wall_pix_9_16_games_17_sdpjkf.jpg",
+      "category": "games",
+      "description": "A Mario figurine stands against a cracked wall in a dimly lit setting.",
+      "tags": [
+        "mario",
+        "figurine",
+        "cracked wall",
+        "dim light",
+        "video game"
+      ]
+    },
+    {
+      "id": 78,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579680/wall_pix_9_16_games_16_tgnbaa.jpg",
+      "category": "games",
+      "description": "A group of Mario characters including Donkey Kong, Luigi, and Princess Peach stand together on a grassy field under a bright sky.",
+      "tags": [
+        "video game",
+        "characters",
+        "group",
+        "cartoon",
+        "bright"
+      ]
+    },
+    {
+      "id": 79,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579599/wall_pix_9_16_games_15_znpada.jpg",
+      "category": "games",
+      "description": "Four colorful cartoon figures display different emotions: anger, joy, sadness, and shock.",
+      "tags": [
+        "cartoon",
+        "emotions",
+        "colorful",
+        "figures",
+        "anger"
+      ]
+    },
+    {
+      "id": 80,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579597/wall_pix_9_16_games_14_qg93r4.jpg",
+      "category": "games",
+      "description": "A group of Mario characters, including Mario, Luigi, Princess Peach, and Bowser, are standing together.",
+      "tags": [
+        "characters",
+        "nintendo",
+        "cartoon",
+        "bright",
+        "colorful"
+      ]
+    },
+    {
+      "id": 81,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579594/wall_pix_9_16_games_123_zite1g.jpg",
+      "category": "games",
+      "description": "Four colorful cartoon busts display different emotions: anger, fear, joy, and sadness.",
+      "tags": [
+        "cartoon",
+        "busts",
+        "emotions",
+        "colorful",
+        "render"
+      ]
+    },
+    {
+      "id": 82,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579592/wall_pix_9_16_games_122_fhj21g.jpg",
+      "category": "games",
+      "description": "Mario is driving a go-kart on a racetrack with other racers and a stadium full of spectators.",
+      "tags": [
+        "mario",
+        "go-kart",
+        "racing",
+        "stadium",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 83,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579591/wall_pix_9_16_games_121_qo8ygr.jpg",
+      "category": "games",
+      "description": "A cartoonish man with a mustache and blue eyes is driving a red go-kart.",
+      "tags": [
+        "man",
+        "cartoon",
+        "go-kart",
+        "mustache",
+        "red"
+      ]
+    },
+    {
+      "id": 84,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579589/wall_pix_9_16_games_120_qw7vxu.jpg",
+      "category": "games",
+      "description": "A pixelated character stands in a corridor made of brick walls under a bright sky.",
+      "tags": [
+        "pixelated",
+        "character",
+        "corridor",
+        "bricks",
+        "sky"
+      ]
+    },
+    {
+      "id": 85,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579587/wall_pix_9_16_games_12_srqqnk.jpg",
+      "category": "games",
+      "description": "A 3D rendering of Mario wearing a blue baseball uniform and catching a baseball in a mitt.",
+      "tags": [
+        "mario",
+        "baseball",
+        "uniform",
+        "3d",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 86,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579586/wall_pix_9_16_games_119_uxkxgl.jpg",
+      "category": "games",
+      "description": "A cartoon boy with big blue eyes is jumping in the air against a red background.",
+      "tags": [
+        "cartoon",
+        "boy",
+        "jumping",
+        "red",
+        "playful"
+      ]
+    },
+    {
+      "id": 87,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579584/wall_pix_9_16_games_118_vay4ff.jpg",
+      "category": "games",
+      "description": "A 3D rendering of the video game character Luigi, standing against a black background.",
+      "tags": [
+        "luigi",
+        "nintendo",
+        "video game",
+        "3d render",
+        "character"
+      ]
+    },
+    {
+      "id": 88,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579582/wall_pix_9_16_games_117_acgoy1.jpg",
+      "category": "games",
+      "description": "A pixelated scene with a mushroom on a brick platform, question mark blocks, green hills, and a blue sky with clouds.",
+      "tags": [
+        "pixelated",
+        "mushroom",
+        "bricks",
+        "clouds",
+        "video game"
+      ]
+    },
+    {
+      "id": 89,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579581/wall_pix_9_16_games_116_tuc1i0.jpg",
+      "category": "games",
+      "description": "A 3D render of Mario, Luigi, Peach, and Bowser in a bright, playful setting with floating blocks and pipes.",
+      "tags": [
+        "3d render",
+        "nintendo",
+        "characters",
+        "bright",
+        "playful"
+      ]
+    },
+    {
+      "id": 90,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579577/wall_pix_9_16_games_114_te0zef.jpg",
+      "category": "games",
+      "description": "A low-poly style character jumps across a ravine in a green, mountainous landscape with a blue sky.",
+      "tags": [
+        "low poly",
+        "landscape",
+        "character",
+        "jumping",
+        "outdoors"
+      ]
+    },
+    {
+      "id": 91,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579576/wall_pix_9_16_games_113_bnbuu4.jpg",
+      "category": "games",
+      "description": "A 3D render of Mario with a raised fist against a red background.",
+      "tags": [
+        "mario",
+        "nintendo",
+        "3d render",
+        "character",
+        "video game"
+      ]
+    },
+    {
+      "id": 92,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579574/wall_pix_9_16_games_112_r3oy4g.jpg",
+      "category": "games",
+      "description": "A 3D rendering of a Super Mario level with a castle, flag, pipes, and clouds.",
+      "tags": [
+        "3d render",
+        "mario",
+        "castle",
+        "clouds",
+        "green"
+      ]
+    },
+    {
+      "id": 93,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579572/wall_pix_9_16_games_111_gxyhyp.jpg",
+      "category": "games",
+      "description": "A pixelated figure in red, green, and yellow stands under a spotlight.",
+      "tags": [
+        "pixelated",
+        "figure",
+        "red",
+        "green",
+        "spotlight"
+      ]
+    },
+    {
+      "id": 94,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579571/wall_pix_9_16_games_110_m4rpy7.jpg",
+      "category": "games",
+      "description": "A row of Mario figures are walking forward, with the first figure raising its fist in the air.",
+      "tags": [
+        "mario",
+        "figures",
+        "reflection",
+        "red hat",
+        "black background"
+      ]
+    },
+    {
+      "id": 95,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579569/wall_pix_9_16_games_11_zq9mkk.jpg",
+      "category": "games",
+      "description": "A police officer in uniform stands and salutes against a clear blue sky.",
+      "tags": [
+        "police officer",
+        "uniform",
+        "salute",
+        "blue sky",
+        "outdoors"
+      ]
+    },
+    {
+      "id": 96,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579568/wall_pix_9_16_games_109_fwdvta.jpg",
+      "category": "games",
+      "description": "An elf woman in green and silver armor holds a staff in a whimsical, colorful landscape with a floating castle.",
+      "tags": [
+        "elf",
+        "armor",
+        "fantasy",
+        "landscape",
+        "castle"
+      ]
+    },
+    {
+      "id": 97,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579566/wall_pix_9_16_games_108_hcr5hc.jpg",
+      "category": "games",
+      "description": "A 3D render of Luigi from the Mario franchise, wearing his signature green hat and blue overalls, against a black background.",
+      "tags": [
+        "luigi",
+        "3d render",
+        "nintendo",
+        "character",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 98,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579564/wall_pix_9_16_games_107_xlmiyz.jpg",
+      "category": "games",
+      "description": "A pixelated landscape with a brick path, green hills, floating brick platform with mushroom and question mark boxes under a blue sky with clouds.",
+      "tags": [
+        "pixelated",
+        "landscape",
+        "clouds",
+        "mushroom",
+        "bricks"
+      ]
+    },
+    {
+      "id": 99,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579563/wall_pix_9_16_games_106_kydndg.jpg",
+      "category": "games",
+      "description": "Mario is jumping in a video game landscape with clouds and blocks.",
+      "tags": [
+        "mario",
+        "video game",
+        "clouds",
+        "jumping",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 100,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579561/wall_pix_9_16_games_105_ujm2un.jpg",
+      "category": "games",
+      "description": "Mario is floating in space with a star, above a blue planet.",
+      "tags": [
+        "mario",
+        "space",
+        "star",
+        "cartoon",
+        "planet"
+      ]
+    },
+    {
+      "id": 101,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579558/wall_pix_9_16_games_103_wap0e7.jpg",
+      "category": "games",
+      "description": "A 3D cartoon man with blue eyes is wearing denim overalls, a red shirt, and white gloves.",
+      "tags": [
+        "cartoon",
+        "3d render",
+        "overalls",
+        "male",
+        "character"
+      ]
+    },
+    {
+      "id": 102,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579556/wall_pix_9_16_games_102_qxmuin.jpg",
+      "category": "games",
+      "description": "The image shows Mario and Luigi standing together with Princess Peach and Bowser in the background.",
+      "tags": [
+        "mario",
+        "luigi",
+        "princess peach",
+        "bowser",
+        "video game"
+      ]
+    },
+    {
+      "id": 103,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769579528/wall_pix_9_16_games_1_zrnidu.jpg",
+      "category": "games",
+      "description": "A 3D rendering of Mario winking in a grassy, mushroom-filled landscape with floating islands.",
+      "tags": [
+        "mario",
+        "3d render",
+        "video game",
+        "cartoon",
+        "whimsical"
+      ]
+    }
+  ]
+}
