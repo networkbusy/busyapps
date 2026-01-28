@@ -1,0 +1,3646 @@
+{
+  "updatedAt": "2026-01-28",
+  "version": "1.0",
+  "wallpapers": [
+    {
+      "id": 1,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583156/wall_pix_9_16_stylish_99_lwyvlo.jpg",
+      "category": "stylish",
+      "description": "A candle inside a glass apple with pink butterflies is on a mossy surface.",
+      "tags": [
+        "candle",
+        "butterflies",
+        "glass apple",
+        "moss",
+        "fantasy"
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583152/wall_pix_9_16_stylish_97_jfwi3c.jpg",
+      "category": "stylish",
+      "description": "A playing card, the Ace of Spades, is engulfed in flames against a dark background.",
+      "tags": [
+        "playing card",
+        "ace spades",
+        "fire",
+        "burning",
+        "dark"
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583148/wall_pix_9_16_stylish_96_h0cfmu.jpg",
+      "category": "stylish",
+      "description": "A pink-themed Christmas window display features figurines and snow.",
+      "tags": [
+        "christmas",
+        "pink",
+        "figurines",
+        "snow",
+        "display"
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583144/wall_pix_9_16_stylish_95_vdrrif.jpg",
+      "category": "stylish",
+      "description": "Spiderman in a red and blue suit is crouched mid-air against a blurred city background.",
+      "tags": [
+        "spiderman",
+        "superhero",
+        "cityscape",
+        "red suit",
+        "action"
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583140/wall_pix_9_16_stylish_94_ww0qdf.jpg",
+      "category": "stylish",
+      "description": "A vibrant pink waterfall cascades into a river surrounded by lush greenery and pink roses.",
+      "tags": [
+        "waterfall",
+        "pink",
+        "roses",
+        "nature",
+        "river"
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583136/wall_pix_9_16_stylish_92_hlfno2.jpg",
+      "category": "stylish",
+      "description": "Four red cherries are arranged on a white, glossy surface with drawn-on leaves.",
+      "tags": [
+        "cherries",
+        "red fruit",
+        "white surface",
+        "glossy",
+        "still life"
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583132/wall_pix_9_16_stylish_91_vliaqz.jpg",
+      "category": "stylish",
+      "description": "A pale, bald, monstrous face with red eyes, scars, and sharp teeth is set against a dark background.",
+      "tags": [
+        "monster",
+        "vampire",
+        "scary",
+        "horror",
+        "portrait"
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583127/wall_pix_9_16_stylish_90_vokeqr.jpg",
+      "category": "stylish",
+      "description": "A vase filled with pink, white, and magenta peonies sits on a surface with sunlight.",
+      "tags": [
+        "peonies",
+        "flower arrangement",
+        "glass vase",
+        "floral",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583123/wall_pix_9_16_stylish_9_gux1it.jpg",
+      "category": "stylish",
+      "description": "Two cartoon children, a girl in a pink dress and a boy in a pink outfit, stand among floating lanterns.",
+      "tags": [
+        "cartoon",
+        "children",
+        "lanterns",
+        "pink",
+        "fantasy"
+      ]
+    },
+    {
+      "id": 10,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583119/wall_pix_9_16_stylish_89_deqhd5.jpg",
+      "category": "stylish",
+      "description": "A pink waterfall flows into a body of water surrounded by roses and greenery.",
+      "tags": [
+        "waterfall",
+        "pink",
+        "roses",
+        "nature",
+        "landscape"
+      ]
+    },
+    {
+      "id": 11,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583114/wall_pix_9_16_stylish_88_zwneta.jpg",
+      "category": "stylish",
+      "description": "A stylized, sinister face with glowing eyes emerges from a dark background, featuring a sly smile and raised eyebrows.",
+      "tags": [
+        "villain",
+        "cartoon",
+        "dark",
+        "sinister",
+        "glowing eyes"
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583110/wall_pix_9_16_stylish_87_qettzj.jpg",
+      "category": "stylish",
+      "description": "A woman with red lipstick and jewelry looks up towards a starry sky.",
+      "tags": [
+        "woman",
+        "jewelry",
+        "portrait",
+        "red lipstick",
+        "blue"
+      ]
+    },
+    {
+      "id": 13,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583106/wall_pix_9_16_stylish_86_qcgmy2.jpg",
+      "category": "stylish",
+      "description": "A decorated Christmas tree stands in a snowy landscape with falling snow and other trees in the background.",
+      "tags": [
+        "christmas tree",
+        "snow",
+        "winter",
+        "ornaments",
+        "lights"
+      ]
+    },
+    {
+      "id": 14,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583101/wall_pix_9_16_stylish_85_bwikh2.jpg",
+      "category": "stylish",
+      "description": "A digital portrait of a young woman with fair skin, freckles, and light brown hair styled up.",
+      "tags": [
+        "portrait",
+        "digital art",
+        "fair skin",
+        "freckles",
+        "light brown hair"
+      ]
+    },
+    {
+      "id": 15,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583097/wall_pix_9_16_stylish_84_mqclpp.jpg",
+      "category": "stylish",
+      "description": "A man in a gray suit sits with a sad expression, with a dark figure behind him with glowing eyes.",
+      "tags": [
+        "sad",
+        "man",
+        "suit",
+        "dark",
+        "figure"
+      ]
+    },
+    {
+      "id": 16,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583093/wall_pix_9_16_stylish_83_fxqcv1.jpg",
+      "category": "stylish",
+      "description": "Two cartoon kittens with blue eyes sit among pearls and jewels on a pink surface.",
+      "tags": [
+        "kittens",
+        "cartoon",
+        "pearls",
+        "jewels",
+        "pink"
+      ]
+    },
+    {
+      "id": 17,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583088/wall_pix_9_16_stylish_82_zvoqvc.jpg",
+      "category": "stylish",
+      "description": "A clear glass mug filled with coffee and topped with a dollop of whipped cream sits next to a croissant.",
+      "tags": [
+        "coffee",
+        "croissant",
+        "mug",
+        "cream",
+        "still life"
+      ]
+    },
+    {
+      "id": 18,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583084/wall_pix_9_16_stylish_81_p8nekx.jpg",
+      "category": "stylish",
+      "description": "A dark Apple logo covered in water droplets sits on a wet, dark surface.",
+      "tags": [
+        "apple logo",
+        "water droplets",
+        "dark",
+        "monochrome",
+        "wet"
+      ]
+    },
+    {
+      "id": 19,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583080/wall_pix_9_16_stylish_80_kxhmer.jpg",
+      "category": "stylish",
+      "description": "A dark, stylized letter U with red lighting on a dark background.",
+      "tags": [
+        "letter u",
+        "dark",
+        "red light",
+        "abstract",
+        "modern"
+      ]
+    },
+    {
+      "id": 20,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583075/wall_pix_9_16_stylish_8_dncmrr.jpg",
+      "category": "stylish",
+      "description": "A candle sits inside a glass apple with pink butterflies, on a mossy surface with flowers.",
+      "tags": [
+        "candle",
+        "butterfly",
+        "glass apple",
+        "moss",
+        "flowers"
+      ]
+    },
+    {
+      "id": 21,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583071/wall_pix_9_16_stylish_79_wd81at.jpg",
+      "category": "stylish",
+      "description": "A young woman with fair skin is holding a white cat with heterochromia.",
+      "tags": [
+        "portrait",
+        "woman",
+        "cat",
+        "heterochromia",
+        "soft lighting"
+      ]
+    },
+    {
+      "id": 22,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583066/wall_pix_9_16_stylish_78_bshb4m.jpg",
+      "category": "stylish",
+      "description": "An illustration of a male character with dark hair and glowing blue eyes, wearing a hoodie with the text \"DON'T TOUCH MY PHONE.\"",
+      "tags": [
+        "illustration",
+        "male",
+        "dark",
+        "blue",
+        "glowing"
+      ]
+    },
+    {
+      "id": 23,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583062/wall_pix_9_16_stylish_76_hkqjuo.jpg",
+      "category": "stylish",
+      "description": "A bright blue lightning bolt strikes from a cloud above, illuminating the dark space below.",
+      "tags": [
+        "lightning",
+        "storm",
+        "blue",
+        "dark",
+        "electric"
+      ]
+    },
+    {
+      "id": 24,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583058/wall_pix_9_16_stylish_75_dpyxd8.jpg",
+      "category": "stylish",
+      "description": "Two cartoonish blue eyes are centered on a gradient blue to black background.",
+      "tags": [
+        "eyes",
+        "blue",
+        "cartoon",
+        "dark",
+        "gradient"
+      ]
+    },
+    {
+      "id": 25,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583054/wall_pix_9_16_stylish_74_rwplrm.jpg",
+      "category": "stylish",
+      "description": "A vibrant butterfly rests on a suspended water droplet above rippling water, with two more droplets above it.",
+      "tags": [
+        "butterfly",
+        "water",
+        "droplets",
+        "reflection",
+        "colorful"
+      ]
+    },
+    {
+      "id": 26,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583049/wall_pix_9_16_stylish_73_lsakw8.jpg",
+      "category": "stylish",
+      "description": "A collection of various cacti in pink pots are arranged against a white background.",
+      "tags": [
+        "cacti",
+        "pink pots",
+        "still life",
+        "plants",
+        "minimal"
+      ]
+    },
+    {
+      "id": 27,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583045/wall_pix_9_16_stylish_72_pp1fk8.jpg",
+      "category": "stylish",
+      "description": "A light orange kitten holds a daisy flower with both paws against a light gray background.",
+      "tags": [
+        "kitten",
+        "daisy",
+        "flower",
+        "cute",
+        "studio"
+      ]
+    },
+    {
+      "id": 28,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583041/wall_pix_9_16_stylish_71_fnmiew.jpg",
+      "category": "stylish",
+      "description": "The image shows a collection of pastel-colored, fluffy heart shapes in pink, yellow, blue, and purple.",
+      "tags": [
+        "hearts",
+        "pastel",
+        "fluffy",
+        "soft",
+        "cute"
+      ]
+    },
+    {
+      "id": 29,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583037/wall_pix_9_16_stylish_70_hdb1cx.jpg",
+      "category": "stylish",
+      "description": "A woman with red lipstick and blue eyes wears a purple gemstone necklace and earring set.",
+      "tags": [
+        "woman",
+        "jewelry",
+        "purple",
+        "portrait",
+        "elegant"
+      ]
+    },
+    {
+      "id": 30,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583032/wall_pix_9_16_stylish_7_xgejtt.jpg",
+      "category": "stylish",
+      "description": "A dark, matte capsule-shaped object is split in two, revealing a red glow from within.",
+      "tags": [
+        "dark",
+        "matte",
+        "capsule",
+        "red glow",
+        "abstract"
+      ]
+    },
+    {
+      "id": 31,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583028/wall_pix_9_16_stylish_69_cewawa.jpg",
+      "category": "stylish",
+      "description": "A dark image shows a field of white lights with a red light in the center under a starry sky.",
+      "tags": [
+        "dark",
+        "lights",
+        "stars",
+        "red",
+        "field"
+      ]
+    },
+    {
+      "id": 32,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583024/wall_pix_9_16_stylish_68_lo0gjn.jpg",
+      "category": "stylish",
+      "description": "Close-up of a stylized, furry character with glowing orange eyes and a serious expression.",
+      "tags": [
+        "furry",
+        "character",
+        "orange eyes",
+        "serious",
+        "closeup"
+      ]
+    },
+    {
+      "id": 33,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583020/wall_pix_9_16_stylish_67_qkwevf.jpg",
+      "category": "stylish",
+      "description": "A woman with blonde hair and blue eyes is wearing ornate gold jewelry.",
+      "tags": [
+        "portrait",
+        "jewelry",
+        "blonde",
+        "fantasy",
+        "elegant"
+      ]
+    },
+    {
+      "id": 34,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583017/wall_pix_9_16_stylish_66_pe9pjt.jpg",
+      "category": "stylish",
+      "description": "A ceramic mug with the word \"Derdeye\" on it is decorated with small cat figurines.",
+      "tags": [
+        "ceramic mug",
+        "cat figurines",
+        "table",
+        "decorative",
+        "handmade"
+      ]
+    },
+    {
+      "id": 35,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583012/wall_pix_9_16_stylish_65_ehv3yo.jpg",
+      "category": "stylish",
+      "description": "A black and white landscape shows a snow-covered mountain range with rocky foreground and trees.",
+      "tags": [
+        "mountain",
+        "snow",
+        "landscape",
+        "black and white",
+        "rocks"
+      ]
+    },
+    {
+      "id": 36,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769583009/wall_pix_9_16_stylish_64_uowfiz.jpg",
+      "category": "stylish",
+      "description": "A close-up of a person's face with pale skin and intense red eyes, set against a dark background.",
+      "tags": [
+        "red eyes",
+        "pale skin",
+        "dark",
+        "intense",
+        "face"
+      ]
+    },
+    {
+      "id": 37,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582939/wall_pix_9_16_stylish_63_do5kco.jpg",
+      "category": "stylish",
+      "description": "Two stylized eyes with red and purple irises are framed in black and red on a black background.",
+      "tags": [
+        "eyes",
+        "red",
+        "purple",
+        "stylized",
+        "black background"
+      ]
+    },
+    {
+      "id": 38,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582914/wall_pix_9_16_stylish_62_nhpxla.jpg",
+      "category": "stylish",
+      "description": "A cute orange tabby kitten with a unicorn horn and flower crown stands in a field of purple flowers.",
+      "tags": [
+        "kitten",
+        "unicorn",
+        "flowers",
+        "cute",
+        "fantasy"
+      ]
+    },
+    {
+      "id": 39,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582906/wall_pix_9_16_stylish_61_uafoyf.jpg",
+      "category": "stylish",
+      "description": "A rose with ruby and diamond accents, along with two heart-shaped ruby pendants, set against a red background with heart shapes.",
+      "tags": [
+        "rose",
+        "ruby",
+        "diamond",
+        "hearts",
+        "jewelry"
+      ]
+    },
+    {
+      "id": 40,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582902/wall_pix_9_16_stylish_60_dez8nu.jpg",
+      "category": "stylish",
+      "description": "A woman sits on a swing by a lake under a glowing moon at night.",
+      "tags": [
+        "woman",
+        "swing",
+        "lake",
+        "moon",
+        "night"
+      ]
+    },
+    {
+      "id": 41,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582898/wall_pix_9_16_stylish_6_tm6u5h.jpg",
+      "category": "stylish",
+      "description": "A circle of cats looks down at the viewer against a bright blue sky background.",
+      "tags": [
+        "cats",
+        "circle",
+        "looking down",
+        "blue sky",
+        "animals"
+      ]
+    },
+    {
+      "id": 42,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582893/wall_pix_9_16_stylish_59_bl6hfg.jpg",
+      "category": "stylish",
+      "description": "A pink rose is in a crystal glass filled with pink liquid and bubbles.",
+      "tags": [
+        "pink rose",
+        "crystal glass",
+        "bubbles",
+        "pink liquid",
+        "still life"
+      ]
+    },
+    {
+      "id": 43,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582889/wall_pix_9_16_stylish_58_bhq1xq.jpg",
+      "category": "stylish",
+      "description": "A winter landscape featuring snow-covered pine trees under a starry night sky with the Milky Way.",
+      "tags": [
+        "winter",
+        "snow",
+        "trees",
+        "night",
+        "stars"
+      ]
+    },
+    {
+      "id": 44,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582885/wall_pix_9_16_stylish_57_ctnxu0.jpg",
+      "category": "stylish",
+      "description": "A group of fluffy butterflies with gems on their wings float in a dark blue space.",
+      "tags": [
+        "butterflies",
+        "gems",
+        "fluffy",
+        "blue",
+        "sparkle"
+      ]
+    },
+    {
+      "id": 45,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582880/wall_pix_9_16_stylish_56_kms1ru.jpg",
+      "category": "stylish",
+      "description": "A gray cartoon cat with water droplets on its fur looks upwards in the rain.",
+      "tags": [
+        "cat",
+        "rain",
+        "cartoon",
+        "gray",
+        "sad"
+      ]
+    },
+    {
+      "id": 46,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582876/wall_pix_9_16_stylish_55_pbirls.jpg",
+      "category": "stylish",
+      "description": "A sinister face with red eyes and a wide, toothy grin looms over the word \"OBEY\" in red.",
+      "tags": [
+        "scary",
+        "face",
+        "red",
+        "teeth",
+        "dark"
+      ]
+    },
+    {
+      "id": 47,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582872/wall_pix_9_16_stylish_54_fyrcxs.jpg",
+      "category": "stylish",
+      "description": "A cluster of glossy red cherries with green stems are arranged on a white surface, with sketched leaves.",
+      "tags": [
+        "cherries",
+        "red fruit",
+        "still life",
+        "sketch",
+        "glossy"
+      ]
+    },
+    {
+      "id": 48,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582868/wall_pix_9_16_stylish_53_zkigmv.jpg",
+      "category": "stylish",
+      "description": "A woman sits playing guitar on a rooftop at night, illuminated by pink lighting and cherry blossoms.",
+      "tags": [
+        "guitar",
+        "rooftop",
+        "woman",
+        "night",
+        "floral"
+      ]
+    },
+    {
+      "id": 49,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582863/wall_pix_9_16_stylish_52_ojnsfm.jpg",
+      "category": "stylish",
+      "description": "A black and white image looking up through a geometric structure towards a bright square of light.",
+      "tags": [
+        "architecture",
+        "geometric",
+        "abstract",
+        "low angle",
+        "monochrome"
+      ]
+    },
+    {
+      "id": 50,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582859/wall_pix_9_16_stylish_51_avfyjn.jpg",
+      "category": "stylish",
+      "description": "A fluffy kitten with blue eyes wearing a pink rose crown sits in a heart-shaped box filled with pink roses.",
+      "tags": [
+        "kitten",
+        "roses",
+        "flower crown",
+        "pink",
+        "cute"
+      ]
+    },
+    {
+      "id": 51,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582854/wall_pix_9_16_stylish_50_ofegey.jpg",
+      "category": "stylish",
+      "description": "A pink-toned Christmas display features stylized figures, gifts, and ornaments, all dusted with snow.",
+      "tags": [
+        "christmas",
+        "pink",
+        "figures",
+        "snow",
+        "ornaments"
+      ]
+    },
+    {
+      "id": 52,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582850/wall_pix_9_16_stylish_5_ks11d7.jpg",
+      "category": "stylish",
+      "description": "The image shows pink butterflies with glittery wings on water with ripples and small pearls, against a pink and blue gradient background.",
+      "tags": [
+        "butterflies",
+        "pink",
+        "glitter",
+        "water",
+        "dreamy"
+      ]
+    },
+    {
+      "id": 53,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582846/wall_pix_9_16_stylish_49_w2iv9z.jpg",
+      "category": "stylish",
+      "description": "A group of white kittens are surrounded by red roses, with heart-shaped ornaments hanging above them.",
+      "tags": [
+        "kittens",
+        "roses",
+        "hearts",
+        "white",
+        "red"
+      ]
+    },
+    {
+      "id": 54,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582842/wall_pix_9_16_stylish_48_qggdqt.jpg",
+      "category": "stylish",
+      "description": "The image shows nine cartoon creatures with fox-like features in various colors and poses, set against a white background with watercolor splashes.",
+      "tags": [
+        "cartoon",
+        "creatures",
+        "fox",
+        "colorful",
+        "digital art"
+      ]
+    },
+    {
+      "id": 55,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582837/wall_pix_9_16_stylish_47_amaiar.jpg",
+      "category": "stylish",
+      "description": "An astronaut in a spacesuit points towards a glowing pink light in the darkness of space.",
+      "tags": [
+        "astronaut",
+        "spacesuit",
+        "space",
+        "pink light",
+        "pointing"
+      ]
+    },
+    {
+      "id": 56,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582833/wall_pix_9_16_stylish_46_lsusj4.jpg",
+      "category": "stylish",
+      "description": "Seven cats are wearing bonnets of different pastel colors and sitting in a group.",
+      "tags": [
+        "cats",
+        "bonnets",
+        "pastel",
+        "cute",
+        "animals"
+      ]
+    },
+    {
+      "id": 57,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582829/wall_pix_9_16_stylish_45_uingsx.jpg",
+      "category": "stylish",
+      "description": "Two mugs of hot chocolate in red knitted sleeves are surrounded by gingerbread cookies on a wooden surface.",
+      "tags": [
+        "hot chocolate",
+        "gingerbread",
+        "christmas",
+        "winter",
+        "cozy"
+      ]
+    },
+    {
+      "id": 58,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582824/wall_pix_9_16_stylish_44_ppuat9.jpg",
+      "category": "stylish",
+      "description": "A fluffy yellow emoji with a big smile, tongue sticking out, and one eye covered by its hand.",
+      "tags": [
+        "emoji",
+        "yellow",
+        "fluffy",
+        "tongue",
+        "smile"
+      ]
+    },
+    {
+      "id": 59,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582820/wall_pix_9_16_stylish_43_dsrlg5.jpg",
+      "category": "stylish",
+      "description": "A pink and black striped kitten sits and looks to the right, covered in glitter.",
+      "tags": [
+        "kitten",
+        "pink",
+        "stripes",
+        "glitter",
+        "cute"
+      ]
+    },
+    {
+      "id": 60,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582816/wall_pix_9_16_stylish_42_ht3ogu.jpg",
+      "category": "stylish",
+      "description": "Two cartoon animals, one pink and one blue, are set against a black background.",
+      "tags": [
+        "cartoon",
+        "animals",
+        "pink",
+        "blue",
+        "cute"
+      ]
+    },
+    {
+      "id": 61,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582812/wall_pix_9_16_stylish_41_x3h2zp.jpg",
+      "category": "stylish",
+      "description": "A white, round, angry face with furrowed brows and a downturned mouth is illuminated by a lamp against a black background.",
+      "tags": [
+        "angry",
+        "face",
+        "white",
+        "lamp",
+        "black background"
+      ]
+    },
+    {
+      "id": 62,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582807/wall_pix_9_16_stylish_40_fzhhow.jpg",
+      "category": "stylish",
+      "description": "A woman sits on a swing hanging from a tree branch, with a full moon in the background.",
+      "tags": [
+        "woman",
+        "swing",
+        "moon",
+        "tree",
+        "water"
+      ]
+    },
+    {
+      "id": 63,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582803/wall_pix_9_16_stylish_4_an244j.jpg",
+      "category": "stylish",
+      "description": "A digital art piece featuring butterflies flying near a cloud with rain and crystals on the ground, all illuminated in purple and blue light.",
+      "tags": [
+        "butterflies",
+        "cloud",
+        "crystals",
+        "purple",
+        "dreamy"
+      ]
+    },
+    {
+      "id": 64,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582799/wall_pix_9_16_stylish_39_fgiwpz.jpg",
+      "category": "stylish",
+      "description": "Kermit the Frog is holding a teacup under a bright light with a neon sign that reads \"Sips Tea\".",
+      "tags": [
+        "kermit",
+        "frog",
+        "tea",
+        "neon",
+        "green"
+      ]
+    },
+    {
+      "id": 65,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582794/wall_pix_9_16_stylish_38_knq8nr.jpg",
+      "category": "stylish",
+      "description": "Two cute, white kittens with big blue eyes sit among pearls and jewels on a pink glittery surface.",
+      "tags": [
+        "kittens",
+        "cute",
+        "white fur",
+        "pink",
+        "pearls"
+      ]
+    },
+    {
+      "id": 66,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582790/wall_pix_9_16_stylish_37_u4qomo.jpg",
+      "category": "stylish",
+      "description": "A yellow, cartoon-like character in overalls hangs from a bar while others fall.",
+      "tags": [
+        "cartoon",
+        "yellow",
+        "overalls",
+        "falling",
+        "worried"
+      ]
+    },
+    {
+      "id": 67,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582786/wall_pix_9_16_stylish_36_ycmhbe.jpg",
+      "category": "stylish",
+      "description": "A cartoonish face with a sinister expression is partially visible against a black background.",
+      "tags": [
+        "cartoon",
+        "face",
+        "sinister",
+        "dark",
+        "eyes"
+      ]
+    },
+    {
+      "id": 68,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582782/wall_pix_9_16_stylish_35_kseoo9.jpg",
+      "category": "stylish",
+      "description": "A white cat with yellow eyes holds a lit cigar in its mouth, smoke rising from the end.",
+      "tags": [
+        "white cat",
+        "cigar",
+        "smoke",
+        "animal",
+        "indoors"
+      ]
+    },
+    {
+      "id": 69,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582778/wall_pix_9_16_stylish_34_n6rris.jpg",
+      "category": "stylish",
+      "description": "A steampunk-style robot with a human-like face stands in a library, appearing thoughtful.",
+      "tags": [
+        "steampunk",
+        "robot",
+        "library",
+        "mechanical",
+        "thinking"
+      ]
+    },
+    {
+      "id": 70,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582775/wall_pix_9_16_stylish_33_t6ujvq.jpg",
+      "category": "stylish",
+      "description": "A grayscale illustration of a face with an intense, angry expression emerging from the darkness.",
+      "tags": [
+        "angry",
+        "eyes",
+        "face",
+        "grayscale",
+        "dark"
+      ]
+    },
+    {
+      "id": 71,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582771/wall_pix_9_16_stylish_32_z5gytu.jpg",
+      "category": "stylish",
+      "description": "A woman in a white dress stands in a forest with pink lighting and falling petals.",
+      "tags": [
+        "woman",
+        "dress",
+        "forest",
+        "pink",
+        "petals"
+      ]
+    },
+    {
+      "id": 72,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582767/wall_pix_9_16_stylish_31_xzvyft.jpg",
+      "category": "stylish",
+      "description": "Two cartoon children, a girl in a pink dress and a boy in a pink wrap, stand among glowing lanterns.",
+      "tags": [
+        "cartoon",
+        "children",
+        "lanterns",
+        "pink",
+        "night"
+      ]
+    },
+    {
+      "id": 73,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582763/wall_pix_9_16_stylish_30_fbzaj2.jpg",
+      "category": "stylish",
+      "description": "A colorful abstract composition featuring geometric shapes like triangles, spheres, and stacked rounded rectangles on a gray background.",
+      "tags": [
+        "abstract",
+        "geometric",
+        "shapes",
+        "colorful",
+        "modern"
+      ]
+    },
+    {
+      "id": 74,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582760/wall_pix_9_16_stylish_3_qycozp.jpg",
+      "category": "stylish",
+      "description": "A digital portrait of a woman with white hair holding a pink orchid, surrounded by colorful lights and floating gems.",
+      "tags": [
+        "digital art",
+        "portrait",
+        "woman",
+        "orchid",
+        "neon"
+      ]
+    },
+    {
+      "id": 75,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582756/wall_pix_9_16_stylish_295_aaltur.jpg",
+      "category": "stylish",
+      "description": "A pink and blue peacock sit on a white, flowering tree branch in a field of flowers.",
+      "tags": [
+        "peacock",
+        "flowers",
+        "tree",
+        "pink",
+        "blue"
+      ]
+    },
+    {
+      "id": 76,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582751/wall_pix_9_16_stylish_294_z7c4sj.jpg",
+      "category": "stylish",
+      "description": "A bedroom is illuminated with purple light, featuring a bed, desk, and a ceiling decorated with stars and moons.",
+      "tags": [
+        "bedroom",
+        "purple",
+        "stars",
+        "moon",
+        "night"
+      ]
+    },
+    {
+      "id": 77,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582747/wall_pix_9_16_stylish_293_tljmqi.jpg",
+      "category": "stylish",
+      "description": "A stylized image of the Hindu god Ganesha sitting in a meditative pose with a golden crown and jewelry.",
+      "tags": [
+        "ganesha",
+        "hindu god",
+        "meditation",
+        "golden",
+        "religious"
+      ]
+    },
+    {
+      "id": 78,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582743/wall_pix_9_16_stylish_292_ekapd2.jpg",
+      "category": "stylish",
+      "description": "A clear glass mug of layered coffee with foam sits on a cork coaster next to a croissant.",
+      "tags": [
+        "coffee",
+        "croissant",
+        "foam",
+        "beverage",
+        "breakfast"
+      ]
+    },
+    {
+      "id": 79,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582739/wall_pix_9_16_stylish_291_tku0lc.jpg",
+      "category": "stylish",
+      "description": "A cartoon character is hanging from a broken concrete wall, wearing a turquoise shirt, orange shorts, and pink shoes.",
+      "tags": [
+        "cartoon",
+        "character",
+        "wall",
+        "pink shoes",
+        "concrete"
+      ]
+    },
+    {
+      "id": 80,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582734/wall_pix_9_16_stylish_290_qa6963.jpg",
+      "category": "stylish",
+      "description": "Three glowing butterflies are perched on white flowers, with a dark, misty background.",
+      "tags": [
+        "butterflies",
+        "glowing",
+        "flowers",
+        "purple",
+        "dreamy"
+      ]
+    },
+    {
+      "id": 81,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582730/wall_pix_9_16_stylish_29_x2dij2.jpg",
+      "category": "stylish",
+      "description": "A snowy Paris balcony scene with two mugs, a snowman, and a Christmas tree.",
+      "tags": [
+        "snow",
+        "paris",
+        "christmas",
+        "snowman",
+        "coffee mugs"
+      ]
+    },
+    {
+      "id": 82,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582725/wall_pix_9_16_stylish_289_seadt8.jpg",
+      "category": "stylish",
+      "description": "A 3D render shows a silver oval shape intersecting a clear, green-tinted glass block against a dark background with small white specks.",
+      "tags": [
+        "3d render",
+        "glass",
+        "silver",
+        "abstract",
+        "geometric"
+      ]
+    },
+    {
+      "id": 83,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582721/wall_pix_9_16_stylish_288_jhw519.jpg",
+      "category": "stylish",
+      "description": "A grayscale image shows a stylized face with large eyes and a slight smile against a dark background.",
+      "tags": [
+        "grayscale",
+        "stylized",
+        "face",
+        "eyes",
+        "smile"
+      ]
+    },
+    {
+      "id": 84,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582717/wall_pix_9_16_stylish_287_v2gokh.jpg",
+      "category": "stylish",
+      "description": "A young girl in a pink dress and flower crown stands on a beach, facing the ocean.",
+      "tags": [
+        "flower crown",
+        "pink dress",
+        "beach",
+        "young girl",
+        "ocean"
+      ]
+    },
+    {
+      "id": 85,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582712/wall_pix_9_16_stylish_286_xteaer.jpg",
+      "category": "stylish",
+      "description": "A stylized 3D rendering of a sinister-looking face with a pale complexion and dark features against a black background.",
+      "tags": [
+        "3d render",
+        "villain",
+        "dark",
+        "sinister",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 86,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582708/wall_pix_9_16_stylish_285_ogu2gg.jpg",
+      "category": "stylish",
+      "description": "Illustration of the King and Queen of Spades playing card with a white background.",
+      "tags": [
+        "playing card",
+        "king",
+        "queen",
+        "spades",
+        "illustration"
+      ]
+    },
+    {
+      "id": 87,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582704/wall_pix_9_16_stylish_282_sj4qkk.jpg",
+      "category": "stylish",
+      "description": "A woman with light skin and brown hair holds a fluffy white cat with blue eyes in a cloudy, dreamlike setting.",
+      "tags": [
+        "woman",
+        "cat",
+        "clouds",
+        "dreamy",
+        "portrait"
+      ]
+    },
+    {
+      "id": 88,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582699/wall_pix_9_16_stylish_281_i3mns0.jpg",
+      "category": "stylish",
+      "description": "A young girl in a pink dress with flowers and a floral crown stands on a beach.",
+      "tags": [
+        "girl",
+        "dress",
+        "beach",
+        "flowers",
+        "crown"
+      ]
+    },
+    {
+      "id": 89,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582695/wall_pix_9_16_stylish_280_lgn02h.jpg",
+      "category": "stylish",
+      "description": "A white kitten reaches its paw towards a butterfly near a pot of red roses.",
+      "tags": [
+        "kitten",
+        "butterfly",
+        "roses",
+        "indoor",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 90,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582690/wall_pix_9_16_stylish_28_rbw0av.jpg",
+      "category": "stylish",
+      "description": "Close-up of a white fluffy cat with striking blue eyes and a grumpy expression against a black background.",
+      "tags": [
+        "white cat",
+        "blue eyes",
+        "grumpy",
+        "fluffy",
+        "portrait"
+      ]
+    },
+    {
+      "id": 91,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582686/wall_pix_9_16_stylish_279_g8vbnz.jpg",
+      "category": "stylish",
+      "description": "A woman with angel wings and a star halo is looking off to the side in a dreamy setting.",
+      "tags": [
+        "angel",
+        "halo",
+        "wings",
+        "portrait",
+        "ethereal"
+      ]
+    },
+    {
+      "id": 92,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582682/wall_pix_9_16_stylish_278_ksvf2c.jpg",
+      "category": "stylish",
+      "description": "A vase filled with pink, white, and magenta peonies sits on a surface with sunlight.",
+      "tags": [
+        "peonies",
+        "flowers",
+        "vase",
+        "pink",
+        "floral"
+      ]
+    },
+    {
+      "id": 93,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582677/wall_pix_9_16_stylish_277_pfz42k.jpg",
+      "category": "stylish",
+      "description": "A white cat with blue eyes is surrounded by pink clouds and stars against a blue sky.",
+      "tags": [
+        "white cat",
+        "blue eyes",
+        "pink clouds",
+        "stars",
+        "dreamy"
+      ]
+    },
+    {
+      "id": 94,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582673/wall_pix_9_16_stylish_276_cyaf5d.jpg",
+      "category": "stylish",
+      "description": "A transparent heart with snowflake patterns sits on snow, illuminated by a bright light in the background.",
+      "tags": [
+        "heart",
+        "snow",
+        "winter",
+        "snowflake",
+        "transparent"
+      ]
+    },
+    {
+      "id": 95,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582669/wall_pix_9_16_stylish_275_xsxslh.jpg",
+      "category": "stylish",
+      "description": "Two black cats face each other with a pink heart between them on a white background.",
+      "tags": [
+        "cats",
+        "heart",
+        "black",
+        "pink",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 96,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582664/wall_pix_9_16_stylish_274_btgnvr.jpg",
+      "category": "stylish",
+      "description": "The image shows four blue butterflies with silver leaves and water ripples on a black background.",
+      "tags": [
+        "butterflies",
+        "blue",
+        "water",
+        "leaves",
+        "black background"
+      ]
+    },
+    {
+      "id": 97,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582660/wall_pix_9_16_stylish_273_v8gffa.jpg",
+      "category": "stylish",
+      "description": "Close-up of a fluffy white cat with piercing blue eyes and a grumpy expression.",
+      "tags": [
+        "white cat",
+        "blue eyes",
+        "grumpy",
+        "fluffy",
+        "animal"
+      ]
+    },
+    {
+      "id": 98,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582656/wall_pix_9_16_stylish_272_ztoim6.jpg",
+      "category": "stylish",
+      "description": "A full moon illuminates pink cherry blossoms against a dark blue night sky.",
+      "tags": [
+        "full moon",
+        "cherry blossoms",
+        "night sky",
+        "pink flowers",
+        "nature"
+      ]
+    },
+    {
+      "id": 99,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582652/wall_pix_9_16_stylish_271_s0dyrb.jpg",
+      "category": "stylish",
+      "description": "Five cats wearing black hoodies are standing in front of a blue wall with a light above.",
+      "tags": [
+        "cats",
+        "hoodies",
+        "portrait",
+        "studio",
+        "cute"
+      ]
+    },
+    {
+      "id": 100,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582648/wall_pix_9_16_stylish_270_q85bnr.jpg",
+      "category": "stylish",
+      "description": "A woman with a pink bow in her hair stands in front of an archway with sunlight shining through.",
+      "tags": [
+        "woman",
+        "hair bow",
+        "pink",
+        "sunlight",
+        "archway"
+      ]
+    },
+    {
+      "id": 101,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582645/wall_pix_9_16_stylish_27_f1fzd2.jpg",
+      "category": "stylish",
+      "description": "A close-up shot of many colorful Christmas ornaments, including shades of pink, teal, and silver.",
+      "tags": [
+        "ornaments",
+        "christmas",
+        "festive",
+        "shiny",
+        "colorful"
+      ]
+    },
+    {
+      "id": 102,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582640/wall_pix_9_16_stylish_269_akabij.jpg",
+      "category": "stylish",
+      "description": "A white cat with closed eyes is surrounded by pink clouds and a pink halo.",
+      "tags": [
+        "white cat",
+        "pink clouds",
+        "halo",
+        "dreamy",
+        "cute"
+      ]
+    },
+    {
+      "id": 103,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582636/wall_pix_9_16_stylish_268_alrcvm.jpg",
+      "category": "stylish",
+      "description": "Spiderman in his red and blue suit is crouched in front of a city skyline.",
+      "tags": [
+        "spiderman",
+        "superhero",
+        "cityscape",
+        "crouched",
+        "red suit"
+      ]
+    },
+    {
+      "id": 104,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582632/wall_pix_9_16_stylish_267_eyk8fp.jpg",
+      "category": "stylish",
+      "description": "Two mugs of hot chocolate in red knitted sleeves are surrounded by gingerbread cookies and cranberries, with a pine branch in the background.",
+      "tags": [
+        "hot chocolate",
+        "gingerbread",
+        "christmas",
+        "winter",
+        "festive"
+      ]
+    },
+    {
+      "id": 105,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582628/wall_pix_9_16_stylish_266_v45qeo.jpg",
+      "category": "stylish",
+      "description": "A woman with red hair and freckles stands in a forest with pink petals falling around her.",
+      "tags": [
+        "woman",
+        "red hair",
+        "freckles",
+        "forest",
+        "petals"
+      ]
+    },
+    {
+      "id": 106,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582623/wall_pix_9_16_stylish_265_xmnh36.jpg",
+      "category": "stylish",
+      "description": "A pink reindeer plush toy with glowing antlers and a scarf stands in a snowy, festive scene.",
+      "tags": [
+        "reindeer",
+        "plush toy",
+        "christmas",
+        "festive",
+        "glowing"
+      ]
+    },
+    {
+      "id": 107,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582619/wall_pix_9_16_stylish_264_f0blye.jpg",
+      "category": "stylish",
+      "description": "A stylized portrait of a woman with pink-streaked hair, adorned with flowers and a black cat, sitting at a table with a teacup and another cat.",
+      "tags": [
+        "portrait",
+        "woman",
+        "cat",
+        "flowers",
+        "stylized"
+      ]
+    },
+    {
+      "id": 108,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582615/wall_pix_9_16_stylish_263_z4kt8r.jpg",
+      "category": "stylish",
+      "description": "A full moon shines behind branches of pink cherry blossoms against a dark blue sky.",
+      "tags": [
+        "cherry blossoms",
+        "full moon",
+        "night",
+        "pink flowers",
+        "nature"
+      ]
+    },
+    {
+      "id": 109,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582610/wall_pix_9_16_stylish_262_jrhb1j.jpg",
+      "category": "stylish",
+      "description": "A pink and a blue peacock perch on a white, flowering tree branch in a dreamy, floral landscape.",
+      "tags": [
+        "peacocks",
+        "pink",
+        "blue",
+        "flowers",
+        "dreamy"
+      ]
+    },
+    {
+      "id": 110,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582606/wall_pix_9_16_stylish_260_d7vsr0.jpg",
+      "category": "stylish",
+      "description": "A black and white image of a tunnel with a bright light at the end.",
+      "tags": [
+        "tunnel",
+        "geometric",
+        "monochrome",
+        "light",
+        "architecture"
+      ]
+    },
+    {
+      "id": 111,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582602/wall_pix_9_16_stylish_26_bikov0.jpg",
+      "category": "stylish",
+      "description": "An elf cobbler is hammering a small brown boot on a wooden workbench in his workshop.",
+      "tags": [
+        "elf",
+        "cobbler",
+        "workshop",
+        "boot",
+        "hammer"
+      ]
+    },
+    {
+      "id": 112,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582597/wall_pix_9_16_stylish_259_uitvzk.jpg",
+      "category": "stylish",
+      "description": "A grayscale image shows a snow-covered mountain range with a prominent peak and valleys filled with trees.",
+      "tags": [
+        "mountain",
+        "snow",
+        "grayscale",
+        "trees",
+        "landscape"
+      ]
+    },
+    {
+      "id": 113,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582593/wall_pix_9_16_stylish_258_y5ktzr.jpg",
+      "category": "stylish",
+      "description": "A cartoon character sits on a crescent moon surrounded by crystals and fluffy clouds.",
+      "tags": [
+        "cartoon",
+        "moon",
+        "crystals",
+        "clouds",
+        "purple"
+      ]
+    },
+    {
+      "id": 114,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582589/wall_pix_9_16_stylish_257_izph3h.jpg",
+      "category": "stylish",
+      "description": "Several purple and blue butterflies are near white flowers on a dark surface with small lights.",
+      "tags": [
+        "butterflies",
+        "flowers",
+        "purple",
+        "blue",
+        "glowing"
+      ]
+    },
+    {
+      "id": 115,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582584/wall_pix_9_16_stylish_256_ckexob.jpg",
+      "category": "stylish",
+      "description": "A white teddy bear with pink bows sits on a pink bed, reading a book with a glowing heart.",
+      "tags": [
+        "teddy bear",
+        "pink",
+        "bow",
+        "book",
+        "ornaments"
+      ]
+    },
+    {
+      "id": 116,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582580/wall_pix_9_16_stylish_255_kiz1ct.jpg",
+      "category": "stylish",
+      "description": "A butterfly rests on a purple rose surrounded by pearls and crystals, reflected in a mirror.",
+      "tags": [
+        "butterfly",
+        "purple rose",
+        "pearls",
+        "crystals",
+        "reflection"
+      ]
+    },
+    {
+      "id": 117,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582576/wall_pix_9_16_stylish_254_awb06u.jpg",
+      "category": "stylish",
+      "description": "The image shows a tunnel-like structure with the word \"GOOD\" repeated in rows, creating a sense of depth.",
+      "tags": [
+        "tunnel",
+        "word",
+        "good",
+        "perspective",
+        "pattern"
+      ]
+    },
+    {
+      "id": 118,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582571/wall_pix_9_16_stylish_253_mzrqpv.jpg",
+      "category": "stylish",
+      "description": "A stylized face with glowing eyes and a sinister smile is set against a dark background.",
+      "tags": [
+        "face",
+        "dark",
+        "eyes",
+        "smile",
+        "villain"
+      ]
+    },
+    {
+      "id": 119,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582567/wall_pix_9_16_stylish_252_p3u3jv.jpg",
+      "category": "stylish",
+      "description": "A woman in a floral dress plays an acoustic guitar on a rooftop at night, under a cherry blossom tree with string lights.",
+      "tags": [
+        "woman",
+        "guitar",
+        "rooftop",
+        "floral dress",
+        "night"
+      ]
+    },
+    {
+      "id": 120,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582563/wall_pix_9_16_stylish_251_qskd03.jpg",
+      "category": "stylish",
+      "description": "A skull with glowing red eyes and blood-like streaks, wearing a dark, hooded cloak against a black background.",
+      "tags": [
+        "skull",
+        "hooded",
+        "red eyes",
+        "dark",
+        "horror"
+      ]
+    },
+    {
+      "id": 121,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582558/wall_pix_9_16_stylish_25_kdvoqk.jpg",
+      "category": "stylish",
+      "description": "A shimmering, translucent pink rose with light reflecting off its petals, set against a soft, blurred background.",
+      "tags": [
+        "rose",
+        "pink",
+        "translucent",
+        "shimmering",
+        "floral"
+      ]
+    },
+    {
+      "id": 122,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582554/wall_pix_9_16_stylish_249_sixqhz.jpg",
+      "category": "stylish",
+      "description": "A fluffy white kitten with a pearl necklace rests its paw on a pink rose against a pink background.",
+      "tags": [
+        "white kitten",
+        "pearl necklace",
+        "pink rose",
+        "cute",
+        "soft"
+      ]
+    },
+    {
+      "id": 123,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582550/wall_pix_9_16_stylish_248_lr4gh2.jpg",
+      "category": "stylish",
+      "description": "A stylized, sinister-looking face with furrowed brows emerges from a dark background.",
+      "tags": [
+        "villain",
+        "cartoon",
+        "dark",
+        "face",
+        "sinister"
+      ]
+    },
+    {
+      "id": 124,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582546/wall_pix_9_16_stylish_247_wx1zzg.jpg",
+      "category": "stylish",
+      "description": "A man stands on a city street with a yellow taxi cab behind him.",
+      "tags": [
+        "city",
+        "taxi",
+        "man",
+        "street",
+        "urban"
+      ]
+    },
+    {
+      "id": 125,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582542/wall_pix_9_16_stylish_246_buxwtb.jpg",
+      "category": "stylish",
+      "description": "A cartoon girl in a pink dress stands among roses with two white cats and glowing butterflies.",
+      "tags": [
+        "cartoon",
+        "girl",
+        "roses",
+        "cats",
+        "fantasy"
+      ]
+    },
+    {
+      "id": 126,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582538/wall_pix_9_16_stylish_245_hxmaow.jpg",
+      "category": "stylish",
+      "description": "A man in a suit sits with a sad expression, with a dark figure behind him with glowing eyes.",
+      "tags": [
+        "man",
+        "suit",
+        "sad",
+        "figure",
+        "dark"
+      ]
+    },
+    {
+      "id": 127,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582534/wall_pix_9_16_stylish_244_yhcsk1.jpg",
+      "category": "stylish",
+      "description": "A close-up of two eyes with glowing green eyebrows against a black background.",
+      "tags": [
+        "eyes",
+        "green",
+        "glowing",
+        "eyebrows",
+        "dark"
+      ]
+    },
+    {
+      "id": 128,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582530/wall_pix_9_16_stylish_243_awa0kl.jpg",
+      "category": "stylish",
+      "description": "A Christmas tree decorated with lights and red ornaments stands in a snowy landscape with falling snow.",
+      "tags": [
+        "christmas tree",
+        "snow",
+        "ornaments",
+        "winter",
+        "lights"
+      ]
+    },
+    {
+      "id": 129,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582526/wall_pix_9_16_stylish_242_alypyf.jpg",
+      "category": "stylish",
+      "description": "A hand with a ring holds a burning sage bundle over a tray with crystals and geodes.",
+      "tags": [
+        "sage",
+        "crystals",
+        "geodes",
+        "hand",
+        "smoke"
+      ]
+    },
+    {
+      "id": 130,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582522/wall_pix_9_16_stylish_241_ykquw3.jpg",
+      "category": "stylish",
+      "description": "Two cartoon birds, one blue and one pink, sit on a flowering branch with heart-shaped balloons against a sky background.",
+      "tags": [
+        "cartoon",
+        "birds",
+        "branch",
+        "balloons",
+        "sky"
+      ]
+    },
+    {
+      "id": 131,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582511/wall_pix_9_16_stylish_240_hsangv.jpg",
+      "category": "stylish",
+      "description": "A gray cartoon cat with yellow eyes looks up into the falling rain.",
+      "tags": [
+        "cat",
+        "rain",
+        "cartoon",
+        "gray",
+        "outdoors"
+      ]
+    },
+    {
+      "id": 132,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582506/wall_pix_9_16_stylish_24_ul2tv4.jpg",
+      "category": "stylish",
+      "description": "A pink panther cartoon character stands with hands on hips against a pink background.",
+      "tags": [
+        "pink panther",
+        "cartoon",
+        "character",
+        "pink",
+        "animation"
+      ]
+    },
+    {
+      "id": 133,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582502/wall_pix_9_16_stylish_239_f1onn6.jpg",
+      "category": "stylish",
+      "description": "A man and woman adorned with jewelry stand with hands pressed together in front of a bright light.",
+      "tags": [
+        "indian",
+        "jewelry",
+        "portrait",
+        "spiritual",
+        "gold"
+      ]
+    },
+    {
+      "id": 134,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582498/wall_pix_9_16_stylish_236_nta5ou.jpg",
+      "category": "stylish",
+      "description": "Five white kittens are nestled among red roses, with heart-shaped ornaments hanging above them.",
+      "tags": [
+        "kittens",
+        "roses",
+        "hearts",
+        "white",
+        "red"
+      ]
+    },
+    {
+      "id": 135,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582493/wall_pix_9_16_stylish_234_wbqypr.jpg",
+      "category": "stylish",
+      "description": "Close-up of a black, furry creature with intense red eyes and a humanoid face.",
+      "tags": [
+        "furry",
+        "creature",
+        "red eyes",
+        "animal",
+        "portrait"
+      ]
+    },
+    {
+      "id": 136,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582489/wall_pix_9_16_stylish_233_bkq7gu.jpg",
+      "category": "stylish",
+      "description": "A 3D render of the Pink Panther stands against a pink background.",
+      "tags": [
+        "pink panther",
+        "cartoon",
+        "3d render",
+        "pink",
+        "character"
+      ]
+    },
+    {
+      "id": 137,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582485/wall_pix_9_16_stylish_232_j0u1st.jpg",
+      "category": "stylish",
+      "description": "Two figures in ornate clothing face each other, hands meeting in front of a bright light.",
+      "tags": [
+        "figures",
+        "ornate",
+        "light",
+        "fantasy",
+        "portrait"
+      ]
+    },
+    {
+      "id": 138,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582480/wall_pix_9_16_stylish_231_gjmkhx.jpg",
+      "category": "stylish",
+      "description": "The image shows two stylized eyes with red and purple irises, outlined in red, against a black background.",
+      "tags": [
+        "eyes",
+        "red",
+        "purple",
+        "stylized",
+        "black background"
+      ]
+    },
+    {
+      "id": 139,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582476/wall_pix_9_16_stylish_230_knjsjy.jpg",
+      "category": "stylish",
+      "description": "A person in a black hoodie with glowing red eyes and hands stands against a dark background.",
+      "tags": [
+        "hoodie",
+        "red eyes",
+        "dark",
+        "glowing",
+        "sneakers"
+      ]
+    },
+    {
+      "id": 140,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582472/wall_pix_9_16_stylish_23_kh3gsu.jpg",
+      "category": "stylish",
+      "description": "A cartoon snowman wearing a pink hat and scarf holds a pink mug with stars in a snowy scene.",
+      "tags": [
+        "snowman",
+        "winter",
+        "pink",
+        "cartoon",
+        "snow"
+      ]
+    },
+    {
+      "id": 141,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582468/wall_pix_9_16_stylish_229_uoeghh.jpg",
+      "category": "stylish",
+      "description": "A digital illustration of a person in a hoodie with neon lights and the text \"Don't touch my phone.\"",
+      "tags": [
+        "digital art",
+        "portrait",
+        "neon",
+        "hoodie",
+        "illustration"
+      ]
+    },
+    {
+      "id": 142,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582463/wall_pix_9_16_stylish_228_puwn0j.jpg",
+      "category": "stylish",
+      "description": "A lush, green scene of tropical plants, including monstera leaves and ferns, covered in water droplets.",
+      "tags": [
+        "green",
+        "leaves",
+        "tropical",
+        "ferns",
+        "monstera"
+      ]
+    },
+    {
+      "id": 143,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582459/wall_pix_9_16_stylish_227_d2bobu.jpg",
+      "category": "stylish",
+      "description": "A stylized woman with pink-tipped hair sits at a table with two black cats and a teacup.",
+      "tags": [
+        "stylized",
+        "woman",
+        "black cat",
+        "teacup",
+        "pink hair"
+      ]
+    },
+    {
+      "id": 144,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582455/wall_pix_9_16_stylish_226_cp5ley.jpg",
+      "category": "stylish",
+      "description": "A layered paper art piece with rainbow colors in a topographical style on a white background.",
+      "tags": [
+        "paper art",
+        "rainbow",
+        "layered",
+        "topography",
+        "colorful"
+      ]
+    },
+    {
+      "id": 145,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582452/wall_pix_9_16_stylish_225_wdqtle.jpg",
+      "category": "stylish",
+      "description": "A cartoon character sits on a crescent moon surrounded by crystals on a textured surface.",
+      "tags": [
+        "cartoon",
+        "moon",
+        "crystals",
+        "purple",
+        "cute"
+      ]
+    },
+    {
+      "id": 146,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582448/wall_pix_9_16_stylish_224_eygdfb.jpg",
+      "category": "stylish",
+      "description": "A digital art image shows a young man in a hoodie with the text \"DON'T TOUCH MY PHONE\" above him.",
+      "tags": [
+        "digital art",
+        "young man",
+        "hoodie",
+        "blue",
+        "neon"
+      ]
+    },
+    {
+      "id": 147,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582444/wall_pix_9_16_stylish_223_n3uoea.jpg",
+      "category": "stylish",
+      "description": "A stylized woman's head with a smile emerges from a dark, rippled surface.",
+      "tags": [
+        "woman",
+        "head",
+        "smile",
+        "dark",
+        "stylized"
+      ]
+    },
+    {
+      "id": 148,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582440/wall_pix_9_16_stylish_222_gfusl6.jpg",
+      "category": "stylish",
+      "description": "A close-up of many colorful Christmas ornaments, including pink, silver, and teal.",
+      "tags": [
+        "ornaments",
+        "christmas",
+        "shiny",
+        "festive",
+        "colorful"
+      ]
+    },
+    {
+      "id": 149,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582436/wall_pix_9_16_stylish_221_oqoidy.jpg",
+      "category": "stylish",
+      "description": "Two white cars are parked on a wet city street at night, with people walking in the background.",
+      "tags": [
+        "cars",
+        "city street",
+        "night",
+        "wet",
+        "rain"
+      ]
+    },
+    {
+      "id": 150,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582432/wall_pix_9_16_stylish_220_dmcrez.jpg",
+      "category": "stylish",
+      "description": "A light-colored kitten holds a daisy flower in its paws, looking directly at the viewer.",
+      "tags": [
+        "kitten",
+        "daisy",
+        "flower",
+        "cute",
+        "animal"
+      ]
+    },
+    {
+      "id": 151,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582427/wall_pix_9_16_stylish_22_epafhf.jpg",
+      "category": "stylish",
+      "description": "A stylized 3D cartoon character with a finger to their lips, wearing a hat and t-shirt, stands against a rocky background.",
+      "tags": [
+        "cartoon",
+        "3d render",
+        "character",
+        "shush",
+        "stylized"
+      ]
+    },
+    {
+      "id": 152,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582423/wall_pix_9_16_stylish_219_qamhzj.jpg",
+      "category": "stylish",
+      "description": "A fluffy grey kitten with blue eyes is holding a bubble, standing on clouds against a blue sky.",
+      "tags": [
+        "kitten",
+        "clouds",
+        "bubble",
+        "cute",
+        "sky"
+      ]
+    },
+    {
+      "id": 153,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582419/wall_pix_9_16_stylish_218_xezizg.jpg",
+      "category": "stylish",
+      "description": "A young man stands on a city street with a yellow taxi cab behind him.",
+      "tags": [
+        "city street",
+        "taxi cab",
+        "young man",
+        "urban",
+        "daytime"
+      ]
+    },
+    {
+      "id": 154,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582415/wall_pix_9_16_stylish_217_yqogmh.jpg",
+      "category": "stylish",
+      "description": "Three stylized 3D male figures wearing hoodies and sneakers stand against a branded backdrop with neon logos.",
+      "tags": [
+        "3d render",
+        "male figures",
+        "streetwear",
+        "neon",
+        "branded"
+      ]
+    },
+    {
+      "id": 155,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582410/wall_pix_9_16_stylish_216_ydlvbb.jpg",
+      "category": "stylish",
+      "description": "An Ace of Spades playing card is engulfed in flames against a dark background.",
+      "tags": [
+        "playing card",
+        "ace spades",
+        "fire",
+        "burning",
+        "dark"
+      ]
+    },
+    {
+      "id": 156,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582406/wall_pix_9_16_stylish_215_tvmm5w.jpg",
+      "category": "stylish",
+      "description": "A woman with light hair holds a glowing flower, surrounded by neon geometric shapes.",
+      "tags": [
+        "woman",
+        "neon",
+        "flower",
+        "geometric",
+        "portrait"
+      ]
+    },
+    {
+      "id": 157,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582402/wall_pix_9_16_stylish_214_vjiycq.jpg",
+      "category": "stylish",
+      "description": "A collection of various cacti and succulents are potted in pink pots against a white background.",
+      "tags": [
+        "cacti",
+        "succulents",
+        "pink pots",
+        "still life",
+        "indoor"
+      ]
+    },
+    {
+      "id": 158,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582397/wall_pix_9_16_stylish_213_udpaf9.jpg",
+      "category": "stylish",
+      "description": "Pink cherry blossoms on a branch are set against a large, bright full moon and a dark blue sky.",
+      "tags": [
+        "cherry blossom",
+        "full moon",
+        "night",
+        "pink flowers",
+        "nature"
+      ]
+    },
+    {
+      "id": 159,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582393/wall_pix_9_16_stylish_212_iyimzz.jpg",
+      "category": "stylish",
+      "description": "A woman with fair skin holds a fluffy white cat with blue eyes against a dreamy, cloud-filled background.",
+      "tags": [
+        "portrait",
+        "woman",
+        "cat",
+        "clouds",
+        "dreamy"
+      ]
+    },
+    {
+      "id": 160,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582388/wall_pix_9_16_stylish_211_kxeky5.jpg",
+      "category": "stylish",
+      "description": "A man and a woman with painted faces and golden jewelry are standing with their hands in prayer position.",
+      "tags": [
+        "portrait",
+        "jewelry",
+        "religious",
+        "glowing",
+        "spiritual"
+      ]
+    },
+    {
+      "id": 161,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582384/wall_pix_9_16_stylish_210_ax9kp6.jpg",
+      "category": "stylish",
+      "description": "A doll-like girl in a white dress stands among pink roses with two white cats and glowing butterflies.",
+      "tags": [
+        "doll",
+        "roses",
+        "cats",
+        "butterflies",
+        "fantasy"
+      ]
+    },
+    {
+      "id": 162,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582380/wall_pix_9_16_stylish_21_lsydmh.jpg",
+      "category": "stylish",
+      "description": "A butterfly with pink and purple wings is positioned between three clear water droplets above rippling water.",
+      "tags": [
+        "butterfly",
+        "water",
+        "droplets",
+        "pink",
+        "purple"
+      ]
+    },
+    {
+      "id": 163,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582375/wall_pix_9_16_stylish_209_ibipk3.jpg",
+      "category": "stylish",
+      "description": "A cheerful snowman with a pink hat and scarf holds a steaming pink mug with white stars.",
+      "tags": [
+        "snowman",
+        "winter",
+        "pink",
+        "mug",
+        "snow"
+      ]
+    },
+    {
+      "id": 164,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582371/wall_pix_9_16_stylish_208_mggdmy.jpg",
+      "category": "stylish",
+      "description": "A large, clear heart with snowflake patterns sits on snow, illuminated by a warm, golden light.",
+      "tags": [
+        "heart",
+        "snowflakes",
+        "winter",
+        "snow",
+        "golden light"
+      ]
+    },
+    {
+      "id": 165,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582367/wall_pix_9_16_stylish_206_x6eeyq.jpg",
+      "category": "stylish",
+      "description": "A cute kitten with pink and white stripes sits against a pink background.",
+      "tags": [
+        "kitten",
+        "pink",
+        "stripes",
+        "cute",
+        "animal"
+      ]
+    },
+    {
+      "id": 166,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582363/wall_pix_9_16_stylish_205_z29s9f.jpg",
+      "category": "stylish",
+      "description": "A grayscale image shows a cartoonish face with large eyes and a smile emerging from a dark background.",
+      "tags": [
+        "grayscale",
+        "face",
+        "cartoon",
+        "eyes",
+        "smile"
+      ]
+    },
+    {
+      "id": 167,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582359/wall_pix_9_16_stylish_204_ypcfno.jpg",
+      "category": "stylish",
+      "description": "A cute, fluffy kitten with blue eyes holds a clear bubble while standing in clouds.",
+      "tags": [
+        "kitten",
+        "clouds",
+        "bubble",
+        "cute",
+        "fluffy"
+      ]
+    },
+    {
+      "id": 168,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582355/wall_pix_9_16_stylish_203_gdubjr.jpg",
+      "category": "stylish",
+      "description": "Four blue butterflies are flying above water with ripples, against a black background with silver accents.",
+      "tags": [
+        "butterflies",
+        "water",
+        "ripples",
+        "silver",
+        "black background"
+      ]
+    },
+    {
+      "id": 169,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582351/wall_pix_9_16_stylish_202_w73bfj.jpg",
+      "category": "stylish",
+      "description": "Snowy pine trees stand against a night sky with the Milky Way visible.",
+      "tags": [
+        "winter",
+        "snow",
+        "trees",
+        "night",
+        "stars"
+      ]
+    },
+    {
+      "id": 170,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582346/wall_pix_9_16_stylish_201_qj00hb.jpg",
+      "category": "stylish",
+      "description": "A bright blue lightning bolt strikes down from dark clouds against a black background.",
+      "tags": [
+        "lightning",
+        "storm",
+        "dark",
+        "blue",
+        "night"
+      ]
+    },
+    {
+      "id": 171,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582342/wall_pix_9_16_stylish_200_qjskcb.jpg",
+      "category": "stylish",
+      "description": "A fluffy white cat with purple eyes sits surrounded by three purple butterflies on a blue background.",
+      "tags": [
+        "white cat",
+        "butterflies",
+        "purple",
+        "fluffy",
+        "cute"
+      ]
+    },
+    {
+      "id": 172,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582338/wall_pix_9_16_stylish_20_lbkt9l.jpg",
+      "category": "stylish",
+      "description": "Underwater shot of two people in a kayak above a great white shark.",
+      "tags": [
+        "underwater",
+        "kayak",
+        "shark",
+        "ocean",
+        "wildlife"
+      ]
+    },
+    {
+      "id": 173,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582333/wall_pix_9_16_stylish_2_pl9x1n.jpg",
+      "category": "stylish",
+      "description": "A cartoonish face with furrowed brows and a sinister smile emerges from the darkness.",
+      "tags": [
+        "cartoon",
+        "face",
+        "sinister",
+        "dark",
+        "expression"
+      ]
+    },
+    {
+      "id": 174,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582329/wall_pix_9_16_stylish_199_gy6dpu.jpg",
+      "category": "stylish",
+      "description": "A black cat with red eyes and ears stands in a dark setting with white lines above its head.",
+      "tags": [
+        "black cat",
+        "red eyes",
+        "dark",
+        "digital art",
+        "animal"
+      ]
+    },
+    {
+      "id": 175,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582325/wall_pix_9_16_stylish_198_xvw3bq.jpg",
+      "category": "stylish",
+      "description": "Underwater view of a great white shark swimming below a yellow kayak with two people.",
+      "tags": [
+        "underwater",
+        "shark",
+        "kayak",
+        "ocean",
+        "wildlife"
+      ]
+    },
+    {
+      "id": 176,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582321/wall_pix_9_16_stylish_197_dz1gc7.jpg",
+      "category": "stylish",
+      "description": "A fluffy white kitten appears to be floating amongst pink clouds and colorful stars in a blue sky.",
+      "tags": [
+        "white cat",
+        "clouds",
+        "stars",
+        "cute",
+        "dreamy"
+      ]
+    },
+    {
+      "id": 177,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582317/wall_pix_9_16_stylish_196_xn6iih.jpg",
+      "category": "stylish",
+      "description": "A pink plush reindeer with a red scarf is decorated with pink lights, set against a snowy backdrop.",
+      "tags": [
+        "reindeer",
+        "plush",
+        "christmas",
+        "scarf",
+        "lights"
+      ]
+    },
+    {
+      "id": 178,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582312/wall_pix_9_16_stylish_195_a8lhdr.jpg",
+      "category": "stylish",
+      "description": "A yellow Minion character holds a sign that reads \"Don't Touch My Phone.\"",
+      "tags": [
+        "minion",
+        "cartoon",
+        "yellow",
+        "sign",
+        "serious"
+      ]
+    },
+    {
+      "id": 179,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582308/wall_pix_9_16_stylish_194_icbrma.jpg",
+      "category": "stylish",
+      "description": "Lush green foliage featuring monstera leaves and ferns, some with water droplets, creating a dense, tropical atmosphere.",
+      "tags": [
+        "green",
+        "foliage",
+        "monstera",
+        "ferns",
+        "tropical"
+      ]
+    },
+    {
+      "id": 180,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582304/wall_pix_9_16_stylish_193_zqb40x.jpg",
+      "category": "stylish",
+      "description": "A pink treehouse-themed bunk bed with a ladder, soft bedding, and a matching rug.",
+      "tags": [
+        "pink",
+        "treehouse",
+        "bunk bed",
+        "bedroom",
+        "cozy"
+      ]
+    },
+    {
+      "id": 181,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582299/wall_pix_9_16_stylish_192_xjbvnl.jpg",
+      "category": "stylish",
+      "description": "A ceramic mug with three small cat figurines clinging to the rim, set against a dark background.",
+      "tags": [
+        "ceramic mug",
+        "cat figurines",
+        "table",
+        "still life",
+        "handmade"
+      ]
+    },
+    {
+      "id": 182,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582295/wall_pix_9_16_stylish_191_q2wwnz.jpg",
+      "category": "stylish",
+      "description": "Two women in traditional clothing are facing each other with hands pressed together in a greeting gesture.",
+      "tags": [
+        "women",
+        "traditional",
+        "greeting",
+        "indoors",
+        "portrait"
+      ]
+    },
+    {
+      "id": 183,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582291/wall_pix_9_16_stylish_190_nyqtxc.jpg",
+      "category": "stylish",
+      "description": "A young woman with a halo is holding a fluffy white cat with blue eyes.",
+      "tags": [
+        "woman",
+        "cat",
+        "halo",
+        "portrait",
+        "white"
+      ]
+    },
+    {
+      "id": 184,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582286/wall_pix_9_16_stylish_19_tjke4t.jpg",
+      "category": "stylish",
+      "description": "A rose with diamond and ruby accents, attached to a stem with diamond leaves and two ruby heart-shaped pendants, against a blurred red background.",
+      "tags": [
+        "rose",
+        "diamonds",
+        "rubies",
+        "jewelry",
+        "hearts"
+      ]
+    },
+    {
+      "id": 185,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582282/wall_pix_9_16_stylish_189_mplhdd.jpg",
+      "category": "stylish",
+      "description": "A white and gray kitten with a pink bow tie sits against a blurred blue background.",
+      "tags": [
+        "kitten",
+        "bow tie",
+        "white fur",
+        "cute",
+        "portrait"
+      ]
+    },
+    {
+      "id": 186,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582278/wall_pix_9_16_stylish_188_e2znho.jpg",
+      "category": "stylish",
+      "description": "Three stylized 3D male figures stand in hoodies and sneakers against a patterned backdrop with neon logos.",
+      "tags": [
+        "3d render",
+        "male figures",
+        "streetwear",
+        "neon",
+        "patterned"
+      ]
+    },
+    {
+      "id": 187,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582273/wall_pix_9_16_stylish_187_ubcefo.jpg",
+      "category": "stylish",
+      "description": "A butterfly sits atop a glass orb containing flowers, with a candle and city lights visible in the background.",
+      "tags": [
+        "butterfly",
+        "glass orb",
+        "flowers",
+        "candle",
+        "city lights"
+      ]
+    },
+    {
+      "id": 188,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582269/wall_pix_9_16_stylish_186_climt2.jpg",
+      "category": "stylish",
+      "description": "A butterfly rests on a purple rose surrounded by pearls and decorative sprigs.",
+      "tags": [
+        "rose",
+        "butterfly",
+        "pearls",
+        "purple",
+        "floral"
+      ]
+    },
+    {
+      "id": 189,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582265/wall_pix_9_16_stylish_185_al5ira.jpg",
+      "category": "stylish",
+      "description": "A group of cats wearing bonnets are gathered under a hanging lamp.",
+      "tags": [
+        "cats",
+        "bonnets",
+        "cute",
+        "indoor",
+        "animals"
+      ]
+    },
+    {
+      "id": 190,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582260/wall_pix_9_16_stylish_184_e0nxxj.jpg",
+      "category": "stylish",
+      "description": "A white kitten reaches out to touch an orange butterfly, surrounded by red roses.",
+      "tags": [
+        "kitten",
+        "butterfly",
+        "roses",
+        "indoor",
+        "bright"
+      ]
+    },
+    {
+      "id": 191,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582256/wall_pix_9_16_stylish_183_dthboo.jpg",
+      "category": "stylish",
+      "description": "A pink-toned children's bedroom features a bunk bed designed as a treehouse with a ladder and a tree-like structure.",
+      "tags": [
+        "pink",
+        "bedroom",
+        "treehouse",
+        "bunk bed",
+        "interior"
+      ]
+    },
+    {
+      "id": 192,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582251/wall_pix_9_16_stylish_182_nllh5i.jpg",
+      "category": "stylish",
+      "description": "A woman with long blonde hair and blue eyes looks upward, wearing gold jewelry.",
+      "tags": [
+        "portrait",
+        "woman",
+        "jewelry",
+        "blonde",
+        "fantasy"
+      ]
+    },
+    {
+      "id": 193,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582247/wall_pix_9_16_stylish_181_izmnon.jpg",
+      "category": "stylish",
+      "description": "A digital portrait of a young woman with fair skin, light brown hair, and a lace headband and choker.",
+      "tags": [
+        "portrait",
+        "young woman",
+        "lace",
+        "fair skin",
+        "digital art"
+      ]
+    },
+    {
+      "id": 194,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582243/wall_pix_9_16_stylish_180_nepqis.jpg",
+      "category": "stylish",
+      "description": "Two white cars are parked on a wet city street at night with bright lights in the background.",
+      "tags": [
+        "cars",
+        "night",
+        "city",
+        "wet",
+        "urban"
+      ]
+    },
+    {
+      "id": 195,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582238/wall_pix_9_16_stylish_18_c4o8i8.jpg",
+      "category": "stylish",
+      "description": "Two cartoon children in winter coats stand next to a small snowman as snow falls.",
+      "tags": [
+        "cartoon",
+        "children",
+        "winter",
+        "snow",
+        "snowman"
+      ]
+    },
+    {
+      "id": 196,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582234/wall_pix_9_16_stylish_179_nixtlg.jpg",
+      "category": "stylish",
+      "description": "A pink rose with green leaves is placed in a crystal glass filled with a pink liquid and bubbles.",
+      "tags": [
+        "pink rose",
+        "crystal glass",
+        "bubbles",
+        "pink liquid",
+        "still life"
+      ]
+    },
+    {
+      "id": 197,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582230/wall_pix_9_16_stylish_178_z25ixj.jpg",
+      "category": "stylish",
+      "description": "A close-up of a black cartoon cat with large, colorful eyes against a dark background.",
+      "tags": [
+        "cartoon",
+        "cat",
+        "black",
+        "eyes",
+        "furry"
+      ]
+    },
+    {
+      "id": 198,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582225/wall_pix_9_16_stylish_177_ww4nrp.jpg",
+      "category": "stylish",
+      "description": "Kermit the Frog sips tea from a teacup under a neon sign and a lamp.",
+      "tags": [
+        "kermit",
+        "frog",
+        "tea",
+        "neon sign",
+        "puppet"
+      ]
+    },
+    {
+      "id": 199,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582221/wall_pix_9_16_stylish_176_skdiuj.jpg",
+      "category": "stylish",
+      "description": "Two black cat silhouettes face each other with a pink heart between them on a white background.",
+      "tags": [
+        "cat",
+        "silhouette",
+        "heart",
+        "love",
+        "minimal"
+      ]
+    },
+    {
+      "id": 200,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582217/wall_pix_9_16_stylish_175_tncauu.jpg",
+      "category": "stylish",
+      "description": "A purple drink with a straw, ice, and boba, surrounded by cartoon animal figures.",
+      "tags": [
+        "purple",
+        "drink",
+        "cartoon",
+        "animals",
+        "boba"
+      ]
+    },
+    {
+      "id": 201,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582212/wall_pix_9_16_stylish_174_ijpvhn.jpg",
+      "category": "stylish",
+      "description": "A playing card illustration featuring the King and Queen of Spades in a stylized, modern design.",
+      "tags": [
+        "playing card",
+        "king",
+        "queen",
+        "spades",
+        "illustration"
+      ]
+    },
+    {
+      "id": 202,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582208/wall_pix_9_16_stylish_173_ybrcup.jpg",
+      "category": "stylish",
+      "description": "A yellow, furry emoji with a tongue sticking out and a hand covering its nose.",
+      "tags": [
+        "emoji",
+        "yellow",
+        "furry",
+        "tongue",
+        "funny"
+      ]
+    },
+    {
+      "id": 203,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582204/wall_pix_9_16_stylish_172_t7ijhw.jpg",
+      "category": "stylish",
+      "description": "A fluffy white cat with purple eyes sits surrounded by butterflies against a blue background.",
+      "tags": [
+        "white cat",
+        "butterflies",
+        "purple eyes",
+        "fluffy",
+        "blue background"
+      ]
+    },
+    {
+      "id": 204,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582199/wall_pix_9_16_stylish_171_dciqjw.jpg",
+      "category": "stylish",
+      "description": "A metallic skull-adorned cylinder stands next to a brass mechanical device on a white surface.",
+      "tags": [
+        "skull",
+        "cylinder",
+        "brass",
+        "mechanical",
+        "still life"
+      ]
+    },
+    {
+      "id": 205,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582195/wall_pix_9_16_stylish_170_s9l5jv.jpg",
+      "category": "stylish",
+      "description": "A white cat with closed eyes sits in pink clouds, surrounded by a pink halo.",
+      "tags": [
+        "cat",
+        "clouds",
+        "pink",
+        "halo",
+        "dreamy"
+      ]
+    },
+    {
+      "id": 206,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582191/wall_pix_9_16_stylish_17_b7ubtr.jpg",
+      "category": "stylish",
+      "description": "A dark image with a field of white dots and a bright horizon line.",
+      "tags": [
+        "dark",
+        "dots",
+        "white",
+        "horizon",
+        "stars"
+      ]
+    },
+    {
+      "id": 207,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582186/wall_pix_9_16_stylish_169_nhd6fg.jpg",
+      "category": "stylish",
+      "description": "A close-up shows a pile of pastel-colored, fuzzy heart shapes.",
+      "tags": [
+        "hearts",
+        "pastel",
+        "fuzzy",
+        "soft",
+        "texture"
+      ]
+    },
+    {
+      "id": 208,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582182/wall_pix_9_16_stylish_168_ck2iji.jpg",
+      "category": "stylish",
+      "description": "A woman with a star halo and wings is depicted in a portrait with soft lighting.",
+      "tags": [
+        "portrait",
+        "woman",
+        "halo",
+        "wings",
+        "ethereal"
+      ]
+    },
+    {
+      "id": 209,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582178/wall_pix_9_16_stylish_167_e0kbb0.jpg",
+      "category": "stylish",
+      "description": "A statue of the Hindu god Ganesha sits in a meditative pose, adorned with gold jewelry and a yellow garment.",
+      "tags": [
+        "ganesha",
+        "hindu",
+        "statue",
+        "gold",
+        "meditative"
+      ]
+    },
+    {
+      "id": 210,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582173/wall_pix_9_16_stylish_166_rawpss.jpg",
+      "category": "stylish",
+      "description": "A fluffy white kitten with a pearl necklace rests its paw on a pink rose.",
+      "tags": [
+        "white cat",
+        "pearl necklace",
+        "pink rose",
+        "cute",
+        "soft"
+      ]
+    },
+    {
+      "id": 211,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582169/wall_pix_9_16_stylish_165_miw282.jpg",
+      "category": "stylish",
+      "description": "A dachshund dog is dressed in a blue turban and pearl earring, resembling the famous painting 'Girl with a Pearl Earring'.",
+      "tags": [
+        "dog",
+        "portrait",
+        "turban",
+        "pearl earring",
+        "artwork"
+      ]
+    },
+    {
+      "id": 212,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582164/wall_pix_9_16_stylish_164_yd2npb.jpg",
+      "category": "stylish",
+      "description": "A 3D rendering of Bugs Bunny wearing sunglasses, a red shirt, black shorts, and sneakers, with a dripping Nike swoosh.",
+      "tags": [
+        "bugs bunny",
+        "3d render",
+        "sunglasses",
+        "nike",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 213,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582160/wall_pix_9_16_stylish_163_xgu93w.jpg",
+      "category": "stylish",
+      "description": "A 3D render shows a colorful, twisting shape surrounded by spheres and triangles on a gray background.",
+      "tags": [
+        "3d render",
+        "geometric",
+        "colorful",
+        "abstract",
+        "shapes"
+      ]
+    },
+    {
+      "id": 214,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582156/wall_pix_9_16_stylish_162_rrvnaf.jpg",
+      "category": "stylish",
+      "description": "A stylized, pale face with blue eyes and dark eyebrows emerges from a dark background, smiling slightly.",
+      "tags": [
+        "face",
+        "stylized",
+        "dark",
+        "portrait",
+        "smile"
+      ]
+    },
+    {
+      "id": 215,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582151/wall_pix_9_16_stylish_161_fsxqvh.jpg",
+      "category": "stylish",
+      "description": "A purple drink with ice and boba is surrounded by a bear and two rabbits.",
+      "tags": [
+        "purple",
+        "drink",
+        "ice",
+        "boba",
+        "animals"
+      ]
+    },
+    {
+      "id": 216,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582147/wall_pix_9_16_stylish_160_gju3wc.jpg",
+      "category": "stylish",
+      "description": "A cute kitten with a unicorn horn and flower crown stands in a field of purple flowers.",
+      "tags": [
+        "kitten",
+        "unicorn",
+        "flowers",
+        "jewelry",
+        "cute"
+      ]
+    },
+    {
+      "id": 217,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582143/wall_pix_9_16_stylish_16_m5vxuz.jpg",
+      "category": "stylish",
+      "description": "A snowy scene with two mugs with hearts, a snowman, and a Christmas tree, with the Eiffel Tower in the background.",
+      "tags": [
+        "snow",
+        "christmas",
+        "eiffel tower",
+        "snowman",
+        "coffee"
+      ]
+    },
+    {
+      "id": 218,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582139/wall_pix_9_16_stylish_159_unnj5e.jpg",
+      "category": "stylish",
+      "description": "A cute, fluffy teddy bear with rosy cheeks is holding a single red rose with green leaves.",
+      "tags": [
+        "teddy bear",
+        "red rose",
+        "cute",
+        "fluffy",
+        "still life"
+      ]
+    },
+    {
+      "id": 219,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582134/wall_pix_9_16_stylish_158_bj9mcg.jpg",
+      "category": "stylish",
+      "description": "A stylized 3D rendering shows a young boy with a finger to his lips, wearing a hat and a patch over one eye.",
+      "tags": [
+        "3d render",
+        "boy",
+        "shush",
+        "bucket hat",
+        "character"
+      ]
+    },
+    {
+      "id": 220,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582130/wall_pix_9_16_stylish_157_iybcrj.jpg",
+      "category": "stylish",
+      "description": "A glowing red heart is suspended in a dark, futuristic space with a reflective floor.",
+      "tags": [
+        "heart",
+        "red",
+        "futuristic",
+        "glowing",
+        "dark"
+      ]
+    },
+    {
+      "id": 221,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582126/wall_pix_9_16_stylish_156_dvvb7k.jpg",
+      "category": "stylish",
+      "description": "A person in a black hoodie and pants stands with glowing red eyes and hands in a dark, smoky setting.",
+      "tags": [
+        "hoodie",
+        "red eyes",
+        "dark",
+        "sneakers",
+        "ominous"
+      ]
+    },
+    {
+      "id": 222,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582122/wall_pix_9_16_stylish_155_sdb7pk.jpg",
+      "category": "stylish",
+      "description": "A glowing red anatomical heart hangs in a dark, futuristic tunnel with constellation-like designs.",
+      "tags": [
+        "heart",
+        "red",
+        "futuristic",
+        "tunnel",
+        "glowing"
+      ]
+    },
+    {
+      "id": 223,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582117/wall_pix_9_16_stylish_154_huunbi.jpg",
+      "category": "stylish",
+      "description": "A close-up of a pair of eyes with glowing green eyebrows against a black background.",
+      "tags": [
+        "eyes",
+        "green",
+        "glowing",
+        "dark",
+        "eyebrows"
+      ]
+    },
+    {
+      "id": 224,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582113/wall_pix_9_16_stylish_153_a1su8h.jpg",
+      "category": "stylish",
+      "description": "A 3D render of a young person with red eyes wearing a hoodie and a mask necklace.",
+      "tags": [
+        "3d render",
+        "character",
+        "red eyes",
+        "mask",
+        "hoodie"
+      ]
+    },
+    {
+      "id": 225,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582109/wall_pix_9_16_stylish_152_dzmsi9.jpg",
+      "category": "stylish",
+      "description": "A dachshund dog is dressed in a blue and gold turban with a pearl earring, resembling the painting 'Girl with a Pearl Earring'.",
+      "tags": [
+        "dachshund",
+        "dog",
+        "turban",
+        "pearl earring",
+        "portrait"
+      ]
+    },
+    {
+      "id": 226,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582105/wall_pix_9_16_stylish_151_hjbotl.jpg",
+      "category": "stylish",
+      "description": "The image shows two cartoon-like eyes with blue irises against a dark blue background.",
+      "tags": [
+        "eyes",
+        "cartoon",
+        "blue",
+        "dark",
+        "staring"
+      ]
+    },
+    {
+      "id": 227,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582100/wall_pix_9_16_stylish_150_c76ci8.jpg",
+      "category": "stylish",
+      "description": "A white kitten with pink stripes sits and looks forward with large, expressive eyes.",
+      "tags": [
+        "kitten",
+        "pink",
+        "stripes",
+        "cute",
+        "animal"
+      ]
+    },
+    {
+      "id": 228,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582096/wall_pix_9_16_stylish_15_rljeud.jpg",
+      "category": "stylish",
+      "description": "A group of cats wearing hoodies are looking down at the camera, with one cat licking its nose.",
+      "tags": [
+        "cats",
+        "hoodies",
+        "looking down",
+        "group",
+        "studio"
+      ]
+    },
+    {
+      "id": 229,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582092/wall_pix_9_16_stylish_149_e7g2vt.jpg",
+      "category": "stylish",
+      "description": "A pink, crystal rose with a fractured appearance rests on a white surface with a blurred pink and purple background.",
+      "tags": [
+        "crystal",
+        "rose",
+        "pink",
+        "fractured",
+        "soft lighting"
+      ]
+    },
+    {
+      "id": 230,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582088/wall_pix_9_16_stylish_146_qx9r9s.jpg",
+      "category": "stylish",
+      "description": "A dark Apple logo covered in water droplets sits on a wet surface.",
+      "tags": [
+        "apple logo",
+        "water droplets",
+        "dark",
+        "wet",
+        "monochrome"
+      ]
+    },
+    {
+      "id": 231,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582084/wall_pix_9_16_stylish_145_povdcd.jpg",
+      "category": "stylish",
+      "description": "The image shows the word \"GOOD\" repeated in a tunnel perspective, creating a sense of depth.",
+      "tags": [
+        "tunnel",
+        "perspective",
+        "word",
+        "repetition",
+        "black"
+      ]
+    },
+    {
+      "id": 232,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582080/wall_pix_9_16_stylish_144_xwctks.jpg",
+      "category": "stylish",
+      "description": "Several fuzzy butterflies adorned with gems hang against a dark blue background with snow.",
+      "tags": [
+        "butterflies",
+        "gems",
+        "fuzzy",
+        "blue",
+        "snow"
+      ]
+    },
+    {
+      "id": 233,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582075/wall_pix_9_16_stylish_143_ibvmyt.jpg",
+      "category": "stylish",
+      "description": "An astronaut in a spacesuit points towards a pink neon light against a dark background.",
+      "tags": [
+        "astronaut",
+        "spacesuit",
+        "neon light",
+        "pink",
+        "dark"
+      ]
+    },
+    {
+      "id": 234,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582071/wall_pix_9_16_stylish_142_cchrld.jpg",
+      "category": "stylish",
+      "description": "Two white kittens with blue eyes are sitting in a field of purple flowers.",
+      "tags": [
+        "kittens",
+        "white fur",
+        "blue eyes",
+        "purple flowers",
+        "cute"
+      ]
+    },
+    {
+      "id": 235,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582067/wall_pix_9_16_stylish_141_fnn6zi.jpg",
+      "category": "stylish",
+      "description": "A woman with a pink bow in her hair stands in front of a stone archway with flowers and butterflies.",
+      "tags": [
+        "woman",
+        "pink bow",
+        "hair",
+        "butterflies",
+        "archway"
+      ]
+    },
+    {
+      "id": 236,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582063/wall_pix_9_16_stylish_140_xdqnii.jpg",
+      "category": "stylish",
+      "description": "An elf cobbler is shown working on a small leather boot with a hammer in a workshop setting.",
+      "tags": [
+        "elf",
+        "cobbler",
+        "workshop",
+        "leather",
+        "craft"
+      ]
+    },
+    {
+      "id": 237,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582058/wall_pix_9_16_stylish_14_ic9tdd.jpg",
+      "category": "stylish",
+      "description": "Two blue butterflies sit on branches adorned with small lights and water droplets against a blurred background.",
+      "tags": [
+        "butterflies",
+        "blue",
+        "lights",
+        "branches",
+        "dreamy"
+      ]
+    },
+    {
+      "id": 238,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582054/wall_pix_9_16_stylish_139_ehwmjg.jpg",
+      "category": "stylish",
+      "description": "Two animated, furry creatures, one pink and one blue, are displayed against a black background.",
+      "tags": [
+        "animation",
+        "cute",
+        "furry",
+        "pink",
+        "blue"
+      ]
+    },
+    {
+      "id": 239,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582050/wall_pix_9_16_stylish_138_y78jpg.jpg",
+      "category": "stylish",
+      "description": "Two pink butterflies face each other on rippled water with pearls, set against a pastel pink and purple background.",
+      "tags": [
+        "butterflies",
+        "pink",
+        "water",
+        "pearls",
+        "pastel"
+      ]
+    },
+    {
+      "id": 240,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582046/wall_pix_9_16_stylish_137_umenyc.jpg",
+      "category": "stylish",
+      "description": "A furry wolf character with glowing red eyes wears a black hoodie and a mask pendant in an urban setting.",
+      "tags": [
+        "furry",
+        "wolf",
+        "red eyes",
+        "hoodie",
+        "urban"
+      ]
+    },
+    {
+      "id": 241,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582041/wall_pix_9_16_stylish_136_otqr1z.jpg",
+      "category": "stylish",
+      "description": "A cute kitten with pink and black stripes sits and looks upwards with a hopeful expression.",
+      "tags": [
+        "kitten",
+        "cat",
+        "stripes",
+        "cute",
+        "sparkle"
+      ]
+    },
+    {
+      "id": 242,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582037/wall_pix_9_16_stylish_135_clwvog.jpg",
+      "category": "stylish",
+      "description": "A close-up shot of many soft, colorful feathers in pastel shades of pink, green, and purple.",
+      "tags": [
+        "feathers",
+        "pastel",
+        "soft",
+        "fluffy",
+        "light"
+      ]
+    },
+    {
+      "id": 243,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582033/wall_pix_9_16_stylish_134_tdhrzr.jpg",
+      "category": "stylish",
+      "description": "A close-up of a face with pale skin and intense red eyes staring intensely from a dark background.",
+      "tags": [
+        "red eyes",
+        "pale skin",
+        "dark",
+        "intense",
+        "portrait"
+      ]
+    },
+    {
+      "id": 244,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582029/wall_pix_9_16_stylish_133_rjeund.jpg",
+      "category": "stylish",
+      "description": "A furry wolf character with glowing red eyes, wearing a black hoodie and a mask pendant.",
+      "tags": [
+        "furry",
+        "wolf",
+        "red eyes",
+        "hoodie",
+        "pendant"
+      ]
+    },
+    {
+      "id": 245,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582024/wall_pix_9_16_stylish_132_q57owq.jpg",
+      "category": "stylish",
+      "description": "A blue butterfly rests on a glass orb containing a plant, with a candle and city lights in the background.",
+      "tags": [
+        "butterfly",
+        "glass orb",
+        "candle",
+        "city lights",
+        "still life"
+      ]
+    },
+    {
+      "id": 246,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582021/wall_pix_9_16_stylish_131_g3v73i.jpg",
+      "category": "stylish",
+      "description": "A rusty, humanoid robot stands in a library, appearing to be in deep thought.",
+      "tags": [
+        "robot",
+        "library",
+        "rusty",
+        "gears",
+        "thinking"
+      ]
+    },
+    {
+      "id": 247,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582016/wall_pix_9_16_stylish_130_cczfov.jpg",
+      "category": "stylish",
+      "description": "A bedroom is illuminated with purple lighting and a starry ceiling, featuring a bed, window, and desk.",
+      "tags": [
+        "bedroom",
+        "purple",
+        "stars",
+        "bed",
+        "window"
+      ]
+    },
+    {
+      "id": 248,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582012/wall_pix_9_16_stylish_13_tsfx8t.jpg",
+      "category": "stylish",
+      "description": "A close-up illustration of a face with a stern expression in black and white.",
+      "tags": [
+        "illustration",
+        "face",
+        "eyes",
+        "monochrome",
+        "dark"
+      ]
+    },
+    {
+      "id": 249,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582007/wall_pix_9_16_stylish_129_nx7h2t.jpg",
+      "category": "stylish",
+      "description": "A cartoon man is hanging from a cracked wall, wearing a turquoise shirt, orange shorts, and pink shoes.",
+      "tags": [
+        "cartoon",
+        "wall",
+        "hanging",
+        "pink shoes",
+        "bright"
+      ]
+    },
+    {
+      "id": 250,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769582003/wall_pix_9_16_stylish_128_ds17xj.jpg",
+      "category": "stylish",
+      "description": "A fluffy white teddy bear with pink accents sits on a pink bed, reading a book with a glowing heart.",
+      "tags": [
+        "teddy bear",
+        "pink",
+        "book",
+        "ornaments",
+        "cute"
+      ]
+    },
+    {
+      "id": 251,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581999/wall_pix_9_16_stylish_127_lgat4s.jpg",
+      "category": "stylish",
+      "description": "A fluffy white and grey kitten sits upright, wearing a pink bow tie against a soft blue background.",
+      "tags": [
+        "kitten",
+        "bow tie",
+        "white fur",
+        "cute",
+        "portrait"
+      ]
+    },
+    {
+      "id": 252,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581995/wall_pix_9_16_stylish_126_aho7rn.jpg",
+      "category": "stylish",
+      "description": "A hooded figure stands next to a phone displaying the words 'Don't Touch My Phone'.",
+      "tags": [
+        "phone",
+        "hoodie",
+        "glowing",
+        "dark",
+        "security"
+      ]
+    },
+    {
+      "id": 253,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581990/wall_pix_9_16_stylish_125_iaso9m.jpg",
+      "category": "stylish",
+      "description": "A black cat with red eyes and ears stands against a dark gray background, with white tendrils above its head.",
+      "tags": [
+        "black cat",
+        "red eyes",
+        "dark",
+        "animal",
+        "fantasy"
+      ]
+    },
+    {
+      "id": 254,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581986/wall_pix_9_16_stylish_124_iijwlv.jpg",
+      "category": "stylish",
+      "description": "A 3D rendering of Bugs Bunny wearing sunglasses, a red Nike t-shirt, black shorts, and standing next to a dripping Nike swoosh.",
+      "tags": [
+        "bugs bunny",
+        "3d render",
+        "sunglasses",
+        "nike",
+        "cartoon"
+      ]
+    },
+    {
+      "id": 255,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581982/wall_pix_9_16_stylish_123_mc5y0w.jpg",
+      "category": "stylish",
+      "description": "A yellow Minion character holds a sign that reads \"Don't Touch My Phone\".",
+      "tags": [
+        "minion",
+        "cartoon",
+        "sign",
+        "yellow",
+        "character"
+      ]
+    },
+    {
+      "id": 256,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581977/wall_pix_9_16_stylish_122_zkp2lw.jpg",
+      "category": "stylish",
+      "description": "A skull with glowing red eyes is wearing a dark, hooded robe, with red streaks running down its face.",
+      "tags": [
+        "skull",
+        "hooded",
+        "red eyes",
+        "dark",
+        "horror"
+      ]
+    },
+    {
+      "id": 257,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581973/wall_pix_9_16_stylish_121_hyzr1v.jpg",
+      "category": "stylish",
+      "description": "A circle of cats looks down at the viewer against a blue sky background.",
+      "tags": [
+        "cats",
+        "circle",
+        "low angle",
+        "blue sky",
+        "group"
+      ]
+    },
+    {
+      "id": 258,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581969/wall_pix_9_16_stylish_120_eivgqi.jpg",
+      "category": "stylish",
+      "description": "A cluster of pastel-colored feathers in shades of pink, purple, and green against a soft, blurred background.",
+      "tags": [
+        "feathers",
+        "pastel",
+        "soft",
+        "fluffy",
+        "colorful"
+      ]
+    },
+    {
+      "id": 259,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581964/wall_pix_9_16_stylish_12_y2h3qw.jpg",
+      "category": "stylish",
+      "description": "Two cartoon children in winter coats stand next to a snowman in a snowy scene.",
+      "tags": [
+        "cartoon",
+        "children",
+        "winter",
+        "snowman",
+        "snow"
+      ]
+    },
+    {
+      "id": 260,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581960/wall_pix_9_16_stylish_119_buarca.jpg",
+      "category": "stylish",
+      "description": "A 3D rendering of a person with red eyes wearing a hoodie and a mask necklace against a black background.",
+      "tags": [
+        "3d render",
+        "character",
+        "hoodie",
+        "mask",
+        "dark"
+      ]
+    },
+    {
+      "id": 261,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581956/wall_pix_9_16_stylish_118_slcqgd.jpg",
+      "category": "stylish",
+      "description": "A phone with cartoon eyes and the words 'Don't touch my phone' next to a shadowy figure in a hoodie.",
+      "tags": [
+        "phone",
+        "eyes",
+        "hoodie",
+        "dark",
+        "cyberpunk"
+      ]
+    },
+    {
+      "id": 262,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581952/wall_pix_9_16_stylish_117_vwgwlp.jpg",
+      "category": "stylish",
+      "description": "A full moon shines brightly behind branches of pink cherry blossoms against a dark blue sky.",
+      "tags": [
+        "cherry blossom",
+        "full moon",
+        "night",
+        "pink flowers",
+        "dark blue"
+      ]
+    },
+    {
+      "id": 263,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581947/wall_pix_9_16_stylish_116_ph75w7.jpg",
+      "category": "stylish",
+      "description": "Two cartoon birds, one blue and one pink, are perched on a branch with heart-shaped balloons against a sky background.",
+      "tags": [
+        "cartoon",
+        "birds",
+        "branch",
+        "balloons",
+        "sky"
+      ]
+    },
+    {
+      "id": 264,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581943/wall_pix_9_16_stylish_115_lpxrwj.jpg",
+      "category": "stylish",
+      "description": "A digital illustration shows a pair of eyes, one red and one blue, with a dark background.",
+      "tags": [
+        "eyes",
+        "red",
+        "blue",
+        "digital art",
+        "dark"
+      ]
+    },
+    {
+      "id": 265,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581939/wall_pix_9_16_stylish_114_gtwauu.jpg",
+      "category": "stylish",
+      "description": "A stylized figure of a girl in a black outfit with skull details, enclosed in a clear dome with purple stars.",
+      "tags": [
+        "purple",
+        "figure",
+        "stars",
+        "skull",
+        "cute"
+      ]
+    },
+    {
+      "id": 266,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581935/wall_pix_9_16_stylish_113_i1gfts.jpg",
+      "category": "stylish",
+      "description": "A layered paper sculpture with concentric shapes in red, orange, white, and blue hues on a white surface.",
+      "tags": [
+        "paper art",
+        "layered",
+        "colorful",
+        "abstract",
+        "geometric"
+      ]
+    },
+    {
+      "id": 267,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581930/wall_pix_9_16_stylish_112_utyjry.jpg",
+      "category": "stylish",
+      "description": "A fluffy teddy bear with rosy cheeks holds a single red rose in its paws.",
+      "tags": [
+        "teddy bear",
+        "rose",
+        "cute",
+        "fluffy",
+        "soft"
+      ]
+    },
+    {
+      "id": 268,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581926/wall_pix_9_16_stylish_111_xj4ib1.jpg",
+      "category": "stylish",
+      "description": "A cartoonish doll with purple hair and a black hoodie with skull designs is encased in a clear dome.",
+      "tags": [
+        "doll",
+        "purple",
+        "hoodie",
+        "skull",
+        "dome"
+      ]
+    },
+    {
+      "id": 269,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581922/wall_pix_9_16_stylish_110_j6qt4m.jpg",
+      "category": "stylish",
+      "description": "A white cat with yellow eyes holds a lit cigar in its mouth, with smoke rising.",
+      "tags": [
+        "white cat",
+        "cigar",
+        "smoke",
+        "animal",
+        "portrait"
+      ]
+    },
+    {
+      "id": 270,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581917/wall_pix_9_16_stylish_11_u3zbxg.jpg",
+      "category": "stylish",
+      "description": "Two blue butterflies rest on branches adorned with small lights against a blurred, colorful background.",
+      "tags": [
+        "butterflies",
+        "blue",
+        "lights",
+        "branches",
+        "dreamy"
+      ]
+    },
+    {
+      "id": 271,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581913/wall_pix_9_16_stylish_109_hslpkg.jpg",
+      "category": "stylish",
+      "description": "A fluffy kitten with blue eyes wears a pink rose crown and sits behind a heart-shaped box filled with pink roses.",
+      "tags": [
+        "kitten",
+        "roses",
+        "flower crown",
+        "pink",
+        "cute"
+      ]
+    },
+    {
+      "id": 272,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581909/wall_pix_9_16_stylish_107_azmbuy.jpg",
+      "category": "stylish",
+      "description": "Two white kittens with blue eyes are sitting together in a field of purple flowers.",
+      "tags": [
+        "kittens",
+        "white fur",
+        "blue eyes",
+        "flowers",
+        "cute"
+      ]
+    },
+    {
+      "id": 273,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581905/wall_pix_9_16_stylish_106_xvf0q6.jpg",
+      "category": "stylish",
+      "description": "The image shows a silver canister with a skull and a golden clockwork mechanism on a white background.",
+      "tags": [
+        "skull",
+        "clockwork",
+        "gold",
+        "silver",
+        "steampunk"
+      ]
+    },
+    {
+      "id": 274,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581900/wall_pix_9_16_stylish_105_cqkpf2.jpg",
+      "category": "stylish",
+      "description": "Abstract image of a chrome ring intersecting a glass shape with water droplets on a black background.",
+      "tags": [
+        "abstract",
+        "chrome",
+        "glass",
+        "water droplets",
+        "dark"
+      ]
+    },
+    {
+      "id": 275,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581896/wall_pix_9_16_stylish_104_baxnvz.jpg",
+      "category": "stylish",
+      "description": "A digital illustration of a young man with dark hair and blue eyes, wearing a hoodie, with the text \"DON'T TOUCH MY PHONE\" below.",
+      "tags": [
+        "anime",
+        "digital art",
+        "portrait",
+        "blue",
+        "dark"
+      ]
+    },
+    {
+      "id": 276,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581891/wall_pix_9_16_stylish_103_oxksmn.jpg",
+      "category": "stylish",
+      "description": "A hand holds a smoking sage bundle above a tray with amethyst geodes and selenite crystals.",
+      "tags": [
+        "sage",
+        "crystals",
+        "geodes",
+        "smoke",
+        "hand"
+      ]
+    },
+    {
+      "id": 277,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581887/wall_pix_9_16_stylish_102_ei6yld.jpg",
+      "category": "stylish",
+      "description": "A menacing vampire with glowing red eyes, sharp teeth, and a scar on its head, set against a dark background.",
+      "tags": [
+        "vampire",
+        "monster",
+        "scary",
+        "red eyes",
+        "dark"
+      ]
+    },
+    {
+      "id": 278,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581883/wall_pix_9_16_stylish_101_owjefu.jpg",
+      "category": "stylish",
+      "description": "A surreal scene with butterflies flying under glowing clouds with curtain-like rain over a reflective, broken surface.",
+      "tags": [
+        "butterflies",
+        "clouds",
+        "surreal",
+        "purple",
+        "reflective"
+      ]
+    },
+    {
+      "id": 279,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581878/wall_pix_9_16_stylish_10_rto8bc.jpg",
+      "category": "stylish",
+      "description": "A digitally created image shows two eyes, one red and one blue, with a dark background.",
+      "tags": [
+        "eyes",
+        "red",
+        "blue",
+        "digital art",
+        "dark"
+      ]
+    },
+    {
+      "id": 280,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1769581877/wall_pix_9_16_stylish_1_jqwzzf.jpg",
+      "category": "stylish",
+      "description": "The image shows nine cartoon fox-like creatures in various colors against a white background with pastel color splashes.",
+      "tags": [
+        "cartoon",
+        "animals",
+        "fantasy",
+        "cute",
+        "digital art"
+      ]
+    }
+  ]
+}
