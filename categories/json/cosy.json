@@ -1,0 +1,4114 @@
+{
+  "updatedAt": "2026-03-04",
+  "version": "1.0",
+  "wallpapers": [
+    {
+      "id": 1,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604070/wall_pix_9_16_cosy_206_n5sm2c.jpg",
+      "category": "cosy",
+      "description": "A cozy bedroom scene features an open book on a bed with a blanket, and candles burning on a table in the background.",
+      "tags": [
+        "bedroom",
+        "book",
+        "candles",
+        "blanket",
+        "cozy"
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604070/wall_pix_9_16_cosy_20_ydr8oy.jpg",
+      "category": "cosy",
+      "description": "A field of daisies and other wildflowers is bathed in soft, hazy light, with trees silhouetted in the background.",
+      "tags": [
+        "field",
+        "flowers",
+        "daisies",
+        "hazy",
+        "nature"
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604068/wall_pix_9_16_cosy_205_zhoiof.jpg",
+      "category": "cosy",
+      "description": "A cozy living room features a wooden sofa, plants, a rug, and warm sunlight streaming through the window.",
+      "tags": [
+        "living room",
+        "plants",
+        "sofa",
+        "rug",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604067/wall_pix_9_16_cosy_203_zvxonm.jpg",
+      "category": "cosy",
+      "description": "A monstera plant sits near a round mirror on a peach-colored wall with light streaming through blinds.",
+      "tags": [
+        "monstera",
+        "plant",
+        "mirror",
+        "shadows",
+        "indoor"
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604067/wall_pix_9_16_cosy_200_on6zfy.jpg",
+      "category": "cosy",
+      "description": "A cozy living room scene with a sofa, decorative vases, a lit candle, and a fringed throw blanket.",
+      "tags": [
+        "living room",
+        "still life",
+        "candle",
+        "beige",
+        "cozy"
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604064/wall_pix_9_16_cosy_184_alsbap.jpg",
+      "category": "cosy",
+      "description": "A pair of hands are reaching up towards the sunlight filtering through green leaves.",
+      "tags": [
+        "hands",
+        "sunlight",
+        "leaves",
+        "nature",
+        "warm"
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604063/wall_pix_9_16_cosy_114_tiggcv.jpg",
+      "category": "cosy",
+      "description": "A vase sits on a small wooden table against a draped fabric backdrop with plant shadows.",
+      "tags": [
+        "still life",
+        "vase",
+        "shadows",
+        "wooden table",
+        "beige"
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604063/wall_pix_9_16_cosy_180_fn02ae.jpg",
+      "category": "cosy",
+      "description": "A bright living room features a beige couch, a round wooden table with a vase, and sunlight streaming through a window.",
+      "tags": [
+        "living room",
+        "beige",
+        "couch",
+        "table",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604062/wall_pix_9_16_cosy_183_szz3dx.jpg",
+      "category": "cosy",
+      "description": "A lit candle in a mug sits on a wooden tray with a book and a leaf, on top of a chunky knit blanket.",
+      "tags": [
+        "candle",
+        "book",
+        "leaf",
+        "blanket",
+        "still life"
+      ]
+    },
+    {
+      "id": 10,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604060/wall_pix_9_16_cosy_18_qaofm8.jpg",
+      "category": "cosy",
+      "description": "A white mug sits atop a chunky knit blanket on a wooden table, with a vase of greenery and string lights in the background.",
+      "tags": [
+        "still life",
+        "mug",
+        "blanket",
+        "table",
+        "cozy"
+      ]
+    },
+    {
+      "id": 11,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604057/wall_pix_9_16_cosy_176_vokjbq.jpg",
+      "category": "cosy",
+      "description": "A still life featuring a mug, Kinfolk notebook, small notepad with pencil, and a potted plant on a white surface.",
+      "tags": [
+        "still life",
+        "notebook",
+        "kinfolk",
+        "mug",
+        "plant"
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604056/wall_pix_9_16_cosy_174_z5krdp.jpg",
+      "category": "cosy",
+      "description": "A person sits by a window with a book and a mug, wearing socks and comfortable clothing.",
+      "tags": [
+        "window seat",
+        "cozy",
+        "book",
+        "socks",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 13,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604055/wall_pix_9_16_cosy_112_uwpjlo.jpg",
+      "category": "cosy",
+      "description": "A bedroom with a wooden headboard bed, white linens, and plants near a window with sheer curtains.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "plants",
+        "minimalist",
+        "interior"
+      ]
+    },
+    {
+      "id": 14,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604055/wall_pix_9_16_cosy_116_qilsyk.jpg",
+      "category": "cosy",
+      "description": "A close-up shot of a frosted evergreen shrub with a blurred, light blue background.",
+      "tags": [
+        "evergreen",
+        "frost",
+        "winter",
+        "close-up",
+        "shrub"
+      ]
+    },
+    {
+      "id": 15,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604054/wall_pix_9_16_cosy_111_gtelp8.jpg",
+      "category": "cosy",
+      "description": "A serene outdoor scene with a small table set for tea in a field of daisies, framed by flowering trees at sunset.",
+      "tags": [
+        "outdoor",
+        "daisies",
+        "sunset",
+        "tea",
+        "peaceful"
+      ]
+    },
+    {
+      "id": 16,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772604053/wall_pix_9_16_cosy_110_ymcbez.jpg",
+      "category": "cosy",
+      "description": "A bedroom features a bed with a blanket, and a window sill filled with potted plants.",
+      "tags": [
+        "bedroom",
+        "plants",
+        "window",
+        "bed",
+        "minimal"
+      ]
+    },
+    {
+      "id": 17,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602755/wall_pix_9_16_cosy_98_u30dba.jpg",
+      "category": "cosy",
+      "description": "A path covered in fallen leaves leads through a forest of tall, bare trees with a glimpse of sunlight in the distance.",
+      "tags": [
+        "autumn",
+        "forest",
+        "leaves",
+        "path",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 18,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602753/wall_pix_9_16_cosy_99_n8tuam.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with an open book, glasses, candles, and dried foliage, creating a calm and inviting atmosphere.",
+      "tags": [
+        "still life",
+        "open book",
+        "candles",
+        "glasses",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 19,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602752/wall_pix_9_16_cosy_97_bukzet.jpg",
+      "category": "cosy",
+      "description": "A lit candle sits on a saucer atop an open book, which rests on a chunky knit blanket near a window.",
+      "tags": [
+        "candle",
+        "book",
+        "blanket",
+        "window",
+        "cozy"
+      ]
+    },
+    {
+      "id": 20,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602751/wall_pix_9_16_cosy_94_fosavf.jpg",
+      "category": "cosy",
+      "description": "A vase of orange gerbera daisies sits on a windowsill with sunlight streaming through the window.",
+      "tags": [
+        "daisies",
+        "vase",
+        "window",
+        "sunlight",
+        "flowers"
+      ]
+    },
+    {
+      "id": 21,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602751/wall_pix_9_16_cosy_96_da0xc6.jpg",
+      "category": "cosy",
+      "description": "A cozy living room features a brown leather sofa, plants, a chandelier, and warm lighting.",
+      "tags": [
+        "living room",
+        "leather sofa",
+        "plants",
+        "chandelier",
+        "warm light"
+      ]
+    },
+    {
+      "id": 22,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602751/wall_pix_9_16_cosy_89_pyprsn.jpg",
+      "category": "cosy",
+      "description": "Still life featuring wooden bowls, pine cones, and lit candles on a rustic table with sunlight casting shadows on a textured wall.",
+      "tags": [
+        "still life",
+        "candles",
+        "pine cones",
+        "wooden bowls",
+        "rustic"
+      ]
+    },
+    {
+      "id": 23,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602751/wall_pix_9_16_cosy_95_nbl6m3.jpg",
+      "category": "cosy",
+      "description": "A cozy interior scene with a wooden chair, dresser, and decorative vases, bathed in warm sunlight filtering through blinds.",
+      "tags": [
+        "interior",
+        "chair",
+        "dresser",
+        "vases",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 24,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602749/wall_pix_9_16_cosy_91_ahjf8e.jpg",
+      "category": "cosy",
+      "description": "A bed with white sheets and an orange blanket is surrounded by plants inside a glass greenhouse.",
+      "tags": [
+        "greenhouse",
+        "bed",
+        "plants",
+        "blanket",
+        "indoor"
+      ]
+    },
+    {
+      "id": 25,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602749/wall_pix_9_16_cosy_92_qvc5zg.jpg",
+      "category": "cosy",
+      "description": "A large terracotta vase filled with bare branches sits on a bed with pillows, next to a window and a wicker cabinet.",
+      "tags": [
+        "terracotta vase",
+        "bare branches",
+        "neutral tones",
+        "interior",
+        "still life"
+      ]
+    },
+    {
+      "id": 26,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602748/wall_pix_9_16_cosy_93_pbkk9a.jpg",
+      "category": "cosy",
+      "description": "A window with sheer curtains, a vase of daisies, a stack of books, and a potted plant are illuminated by sunlight.",
+      "tags": [
+        "window",
+        "daisies",
+        "books",
+        "plant",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 27,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602746/wall_pix_9_16_cosy_90_ceagul.jpg",
+      "category": "cosy",
+      "description": "A cozy living room scene with a beige couch, wooden table, candles, and smoke from a recently extinguished candle.",
+      "tags": [
+        "living room",
+        "beige",
+        "candle",
+        "smoke",
+        "cozy"
+      ]
+    },
+    {
+      "id": 28,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602746/wall_pix_9_16_cosy_9_bzbx5s.jpg",
+      "category": "cosy",
+      "description": "A cozy living room with a sofa, coffee table, plants, and warm sunlight streaming through the window.",
+      "tags": [
+        "living room",
+        "sofa",
+        "coffee table",
+        "plants",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 29,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602745/wall_pix_9_16_cosy_88_zd8ywu.jpg",
+      "category": "cosy",
+      "description": "A pair of hands are held up to the sun, with green leaves and a body of water in the background.",
+      "tags": [
+        "hands",
+        "sunlight",
+        "leaves",
+        "water",
+        "nature"
+      ]
+    },
+    {
+      "id": 30,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602744/wall_pix_9_16_cosy_87_mdp5ro.jpg",
+      "category": "cosy",
+      "description": "A room with a bed in the foreground and a tree in front of a textured wall in the background.",
+      "tags": [
+        "bedroom",
+        "minimal",
+        "tree",
+        "beige",
+        "textured wall"
+      ]
+    },
+    {
+      "id": 31,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602743/wall_pix_9_16_cosy_84_smfmfz.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene features a bed with a wooden headboard, layered blankets in white, gray, and orange, and a plant on a wooden side table.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "wooden headboard",
+        "blankets",
+        "plant"
+      ]
+    },
+    {
+      "id": 32,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602742/wall_pix_9_16_cosy_80_vmtlki.jpg",
+      "category": "cosy",
+      "description": "A close-up shot of an olive branch with slender, green leaves against a soft, blurred background.",
+      "tags": [
+        "olive branch",
+        "green leaves",
+        "close-up",
+        "nature",
+        "botanical"
+      ]
+    },
+    {
+      "id": 33,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602741/wall_pix_9_16_cosy_85_pvfaxh.jpg",
+      "category": "cosy",
+      "description": "A window view with sunlight shining through trees, and a cake and two cups of coffee on the window sill.",
+      "tags": [
+        "window view",
+        "sunlight",
+        "cake",
+        "coffee cups",
+        "still life"
+      ]
+    },
+    {
+      "id": 34,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602741/wall_pix_9_16_cosy_83_dh4w5h.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene with a bed, side table with vases, and sunlight streaming through.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "sunlight",
+        "vases",
+        "minimal"
+      ]
+    },
+    {
+      "id": 35,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602740/wall_pix_9_16_cosy_86_efolep.jpg",
+      "category": "cosy",
+      "description": "Still life featuring candles on books, a cup of tea, and a vase with flowers on a draped surface.",
+      "tags": [
+        "still life",
+        "candles",
+        "cup",
+        "books",
+        "neutral"
+      ]
+    },
+    {
+      "id": 36,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602739/wall_pix_9_16_cosy_82_xldbup.jpg",
+      "category": "cosy",
+      "description": "A cozy room features a large beige beanbag chair surrounded by woven poufs on a textured rug, with plants and candles on a shelf in the background.",
+      "tags": [
+        "beanbag chair",
+        "woven poufs",
+        "indoor plants",
+        "cozy",
+        "warm light"
+      ]
+    },
+    {
+      "id": 37,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602736/wall_pix_9_16_cosy_81_ik1b5v.jpg",
+      "category": "cosy",
+      "description": "Sunlit scene with books, a magazine, and a cup of tea on a wooden floor near a bed.",
+      "tags": [
+        "books",
+        "magazine",
+        "tea cup",
+        "sunlight",
+        "bedroom"
+      ]
+    },
+    {
+      "id": 38,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602735/wall_pix_9_16_cosy_78_ulzau0.jpg",
+      "category": "cosy",
+      "description": "A vase with pampas grass, a lit candle, books, a mug, and incense on a wooden table.",
+      "tags": [
+        "still life",
+        "pampas grass",
+        "candle",
+        "books",
+        "coffee mug"
+      ]
+    },
+    {
+      "id": 39,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602735/wall_pix_9_16_cosy_79_krs7lq.jpg",
+      "category": "cosy",
+      "description": "A cozy bedroom scene with a bed, plants on the windowsill, and warm lighting from candles and string lights.",
+      "tags": [
+        "bedroom",
+        "plants",
+        "cozy",
+        "window",
+        "warm light"
+      ]
+    },
+    {
+      "id": 40,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602734/wall_pix_9_16_cosy_8_lv7z83.jpg",
+      "category": "cosy",
+      "description": "A ginger cat rests on a knitted blanket near a steaming mug and an open book.",
+      "tags": [
+        "cat",
+        "book",
+        "mug",
+        "cozy",
+        "indoor"
+      ]
+    },
+    {
+      "id": 41,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602732/wall_pix_9_16_cosy_76_us9gvu.jpg",
+      "category": "cosy",
+      "description": "A latte with latte art sits beside a notebook and eucalyptus sprig, nestled in a chunky knit blanket.",
+      "tags": [
+        "latte",
+        "coffee",
+        "blanket",
+        "notebook",
+        "eucalyptus"
+      ]
+    },
+    {
+      "id": 42,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602730/wall_pix_9_16_cosy_75_fwqteu.jpg",
+      "category": "cosy",
+      "description": "A neutral-toned bedroom features a made bed with soft linens, a vase of flowering branches, and sheer curtains.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "neutral",
+        "vase",
+        "curtains"
+      ]
+    },
+    {
+      "id": 43,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602730/wall_pix_9_16_cosy_77_io5yfg.jpg",
+      "category": "cosy",
+      "description": "A cozy bedroom scene with a book on the bed, a knitted blanket, and candles in the background.",
+      "tags": [
+        "bedroom",
+        "cozy",
+        "book",
+        "candles",
+        "blanket"
+      ]
+    },
+    {
+      "id": 44,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602729/wall_pix_9_16_cosy_74_yndnuw.jpg",
+      "category": "cosy",
+      "description": "A cozy bedroom scene with a book, pen, and cup of coffee on a bed with a fur throw, bathed in soft sunlight.",
+      "tags": [
+        "bedroom",
+        "cozy",
+        "book",
+        "coffee",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 45,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602727/wall_pix_9_16_cosy_73_asrp97.jpg",
+      "category": "cosy",
+      "description": "Bedroom scene with a bed, balloons, and pampas grass in a vase near a window.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "balloons",
+        "pampas grass",
+        "window"
+      ]
+    },
+    {
+      "id": 46,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602727/wall_pix_9_16_cosy_71_akmrm2.jpg",
+      "category": "cosy",
+      "description": "A cozy bedroom scene with a made bed, lit candles, and sunlight casting shadows on the wall.",
+      "tags": [
+        "bedroom",
+        "cozy",
+        "candles",
+        "sunlight",
+        "shadows"
+      ]
+    },
+    {
+      "id": 47,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602726/wall_pix_9_16_cosy_70_stlg6o.jpg",
+      "category": "cosy",
+      "description": "A still life featuring books, a cup of coffee, and a vase of dried flowers on a wooden surface near a window.",
+      "tags": [
+        "still life",
+        "book",
+        "coffee cup",
+        "dried flowers",
+        "window light"
+      ]
+    },
+    {
+      "id": 48,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602726/wall_pix_9_16_cosy_72_jzkauc.jpg",
+      "category": "cosy",
+      "description": "A vase with dried branches sits on a marble surface next to a book, with sunlight streaming through a window.",
+      "tags": [
+        "still life",
+        "vase",
+        "branches",
+        "marble",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 49,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602726/wall_pix_9_16_cosy_66_ecsdz2.jpg",
+      "category": "cosy",
+      "description": "A cozy room features a beanbag chair with a blanket and book, surrounded by plants and soft lighting.",
+      "tags": [
+        "cozy",
+        "plants",
+        "beanbag",
+        "indoor",
+        "blanket"
+      ]
+    },
+    {
+      "id": 50,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602723/wall_pix_9_16_cosy_69_bxygfr.jpg",
+      "category": "cosy",
+      "description": "A living room scene with a textured sofa, a round wooden table with a potted plant, and sunlight streaming through window blinds.",
+      "tags": [
+        "living room",
+        "sofa",
+        "plant",
+        "sunlight",
+        "minimal"
+      ]
+    },
+    {
+      "id": 51,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602721/wall_pix_9_16_cosy_7_ec5uee.jpg",
+      "category": "cosy",
+      "description": "An open book rests on a chunky knit blanket, with a cup of coffee and vases of dried flowers in the background.",
+      "tags": [
+        "open book",
+        "coffee cup",
+        "dried flowers",
+        "knit blanket",
+        "still life"
+      ]
+    },
+    {
+      "id": 52,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602721/wall_pix_9_16_cosy_67_nlmo2h.jpg",
+      "category": "cosy",
+      "description": "Close-up shot of three pampas grass plumes against a soft, white background.",
+      "tags": [
+        "pampas grass",
+        "beige",
+        "neutral",
+        "soft",
+        "botanical"
+      ]
+    },
+    {
+      "id": 53,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602720/wall_pix_9_16_cosy_68_paq6jg.jpg",
+      "category": "cosy",
+      "description": "A woven basket sits on a bed with pillows and linens, with shadows of leaves cast on the wall behind.",
+      "tags": [
+        "woven basket",
+        "bed",
+        "pillows",
+        "linens",
+        "shadows"
+      ]
+    },
+    {
+      "id": 54,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602719/wall_pix_9_16_cosy_65_oc8pti.jpg",
+      "category": "cosy",
+      "description": "A bright living room features a neutral-toned sofa with pillows and a throw blanket, a coffee table with flowers and candles, and a large window.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "sofa",
+        "flowers",
+        "window"
+      ]
+    },
+    {
+      "id": 55,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602715/wall_pix_9_16_cosy_62_jfr9qx.jpg",
+      "category": "cosy",
+      "description": "A large, rustic vase with branches sits near pillows on a bed, bathed in soft light.",
+      "tags": [
+        "still life",
+        "vase",
+        "branches",
+        "pillows",
+        "neutral"
+      ]
+    },
+    {
+      "id": 56,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602715/wall_pix_9_16_cosy_64_dg80lh.jpg",
+      "category": "cosy",
+      "description": "A living room scene features a beige sofa, a round wooden table with a vase, and sunlight streaming through blinds.",
+      "tags": [
+        "living room",
+        "beige",
+        "sofa",
+        "sunlight",
+        "minimal"
+      ]
+    },
+    {
+      "id": 57,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602714/wall_pix_9_16_cosy_63_tzpac3.jpg",
+      "category": "cosy",
+      "description": "A textured bowl sits on a shelf with geometric shapes in the background, all in neutral tones.",
+      "tags": [
+        "still life",
+        "neutral",
+        "textured",
+        "geometric",
+        "bowl"
+      ]
+    },
+    {
+      "id": 58,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602714/wall_pix_9_16_cosy_58_b0hdwx.jpg",
+      "category": "cosy",
+      "description": "A bright room features a chair, flowers in a vase, a mug on a table, and sheer curtains by a window.",
+      "tags": [
+        "bright room",
+        "sheer curtains",
+        "flowers",
+        "armchair",
+        "daylight"
+      ]
+    },
+    {
+      "id": 59,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602714/wall_pix_9_16_cosy_61_dfyscc.jpg",
+      "category": "cosy",
+      "description": "Overhead shot of a book, coffee cup, and eucalyptus branches on a textured beige surface with sunlight.",
+      "tags": [
+        "overhead shot",
+        "coffee cup",
+        "eucalyptus",
+        "book",
+        "beige"
+      ]
+    },
+    {
+      "id": 60,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602713/wall_pix_9_16_cosy_6_ur9ciw.jpg",
+      "category": "cosy",
+      "description": "Two palm fronds cast shadows on a textured white wall with a beam of light.",
+      "tags": [
+        "palm leaves",
+        "shadows",
+        "white wall",
+        "tropical",
+        "minimal"
+      ]
+    },
+    {
+      "id": 61,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602708/wall_pix_9_16_cosy_60_jyg5lv.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with a steaming mug, cookies, a candle, and an open book on a wooden table next to an armchair.",
+      "tags": [
+        "cozy",
+        "warm",
+        "reading",
+        "still life",
+        "indoor"
+      ]
+    },
+    {
+      "id": 62,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602708/wall_pix_9_16_cosy_57_ubdiib.jpg",
+      "category": "cosy",
+      "description": "A still life featuring an amber vase with dried flowers, a lidded jar, and a bowl on a wooden surface, lit by warm sunlight.",
+      "tags": [
+        "still life",
+        "amber vase",
+        "dried flowers",
+        "warm light",
+        "tabletop"
+      ]
+    },
+    {
+      "id": 63,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602707/wall_pix_9_16_cosy_59_vzlvgh.jpg",
+      "category": "cosy",
+      "description": "A cozy armchair sits near a window with plants and a hanging vine, creating a peaceful indoor scene.",
+      "tags": [
+        "armchair",
+        "plants",
+        "window",
+        "cozy",
+        "indoor"
+      ]
+    },
+    {
+      "id": 64,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602706/wall_pix_9_16_cosy_56_toz7qb.jpg",
+      "category": "cosy",
+      "description": "A branch with green leaves hangs over water with bokeh light reflections.",
+      "tags": [
+        "leaves",
+        "branch",
+        "water",
+        "bokeh",
+        "nature"
+      ]
+    },
+    {
+      "id": 65,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602704/wall_pix_9_16_cosy_50_gnetmj.jpg",
+      "category": "cosy",
+      "description": "A room featuring a wooden chair, cabinet with vases, and a hanging lamp, all bathed in sunlight through window blinds.",
+      "tags": [
+        "chair",
+        "cabinet",
+        "lamp",
+        "interior",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 66,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602704/wall_pix_9_16_cosy_53_faaj7g.jpg",
+      "category": "cosy",
+      "description": "A cozy living room is bathed in warm sunlight, featuring a comfortable sofa, wooden furniture, and indoor plants.",
+      "tags": [
+        "living room",
+        "cozy",
+        "daylight",
+        "furniture",
+        "plants"
+      ]
+    },
+    {
+      "id": 67,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602703/wall_pix_9_16_cosy_55_mguyc7.jpg",
+      "category": "cosy",
+      "description": "A bed with pillows, a woven basket, and shadows of leaves on the wall.",
+      "tags": [
+        "bed",
+        "pillows",
+        "basket",
+        "shadows",
+        "leaves"
+      ]
+    },
+    {
+      "id": 68,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602703/wall_pix_9_16_cosy_54_vil5y5.jpg",
+      "category": "cosy",
+      "description": "A laptop, coffee, book, letter, and vase of flowers are arranged on a marble table.",
+      "tags": [
+        "still life",
+        "marble table",
+        "coffee cup",
+        "dried flowers",
+        "laptop"
+      ]
+    },
+    {
+      "id": 69,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602703/wall_pix_9_16_cosy_51_ym8e9b.jpg",
+      "category": "cosy",
+      "description": "A vase with dried leaves sits on a marble table next to a book, illuminated by sunlight from a nearby window.",
+      "tags": [
+        "still life",
+        "dried leaves",
+        "marble table",
+        "window light",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 70,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602702/wall_pix_9_16_cosy_52_un5gfi.jpg",
+      "category": "cosy",
+      "description": "Overhead shot of coffee, sunglasses, and a newspaper on a white marble surface with a linen napkin.",
+      "tags": [
+        "coffee",
+        "sunglasses",
+        "newspaper",
+        "marble",
+        "linen"
+      ]
+    },
+    {
+      "id": 71,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602699/wall_pix_9_16_cosy_5_qjnli5.jpg",
+      "category": "cosy",
+      "description": "A living room scene with a vase of branches, candles, and a sofa bathed in the warm light from window blinds.",
+      "tags": [
+        "living room",
+        "warm light",
+        "window blinds",
+        "beige",
+        "still life"
+      ]
+    },
+    {
+      "id": 72,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602697/wall_pix_9_16_cosy_115_ipijg8.jpg",
+      "category": "cosy",
+      "description": "A warm-toned image shows two wooden bookshelves filled with books, with a plant on the top shelf of the left bookcase.",
+      "tags": [
+        "bookshelves",
+        "books",
+        "warm light",
+        "plant",
+        "indoors"
+      ]
+    },
+    {
+      "id": 73,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602696/wall_pix_9_16_cosy_310_x8x1w5.jpg",
+      "category": "cosy",
+      "description": "A field of daisies in the early morning light, with a soft mist hanging in the air.",
+      "tags": [
+        "daisies",
+        "field",
+        "fog",
+        "morning",
+        "nature"
+      ]
+    },
+    {
+      "id": 74,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602696/wall_pix_9_16_cosy_49_an7jfo.jpg",
+      "category": "cosy",
+      "description": "A bright, airy living space features a daybed with textured pillows and a throw blanket, complemented by indoor plants and a woven rug.",
+      "tags": [
+        "daybed",
+        "indoor plants",
+        "woven rug",
+        "natural light",
+        "bohemian"
+      ]
+    },
+    {
+      "id": 75,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602696/wall_pix_9_16_cosy_34_ffvxem.jpg",
+      "category": "cosy",
+      "description": "A foggy lake is framed by trees and white flowers in the foreground, with the sun rising in the distance.",
+      "tags": [
+        "lake",
+        "fog",
+        "sunrise",
+        "flowers",
+        "trees"
+      ]
+    },
+    {
+      "id": 76,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602696/wall_pix_9_16_cosy_48_n2epcs.jpg",
+      "category": "cosy",
+      "description": "A white vase with pampas grass sits on a linen cloth, accompanied by seashells and a smooth stone.",
+      "tags": [
+        "still life",
+        "pampas grass",
+        "seashells",
+        "linen cloth",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 77,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602696/wall_pix_9_16_cosy_47_baj9f6.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with a mug on a wooden table, a book on a blanket-draped chair, and a lit lamp, creating a warm and inviting atmosphere.",
+      "tags": [
+        "cozy",
+        "warm",
+        "reading",
+        "still life",
+        "interior"
+      ]
+    },
+    {
+      "id": 78,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602692/wall_pix_9_16_cosy_45_j24e9p.jpg",
+      "category": "cosy",
+      "description": "A textured mug sits on a rustic wooden stool, with pillows in the background.",
+      "tags": [
+        "mug",
+        "stool",
+        "pillows",
+        "rustic",
+        "warm"
+      ]
+    },
+    {
+      "id": 79,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602692/wall_pix_9_16_cosy_46_spymuc.jpg",
+      "category": "cosy",
+      "description": "A low-angle shot of tall grass and seed heads against a pale sky.",
+      "tags": [
+        "grass",
+        "field",
+        "nature",
+        "sky",
+        "grain"
+      ]
+    },
+    {
+      "id": 80,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602692/wall_pix_9_16_cosy_44_nzjcvl.jpg",
+      "category": "cosy",
+      "description": "A cozy living room scene features a couch with pillows, vases with dried flowers, a lit candle, and a woven basket.",
+      "tags": [
+        "living room",
+        "still life",
+        "dried flowers",
+        "candle",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 81,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602689/wall_pix_9_16_cosy_43_nkbyt8.jpg",
+      "category": "cosy",
+      "description": "A cozy scene featuring books, candles, glasses, and dried flowers arranged on a table.",
+      "tags": [
+        "still life",
+        "books",
+        "candles",
+        "glasses",
+        "dried flowers"
+      ]
+    },
+    {
+      "id": 82,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602689/wall_pix_9_16_cosy_42_f2fj5c.jpg",
+      "category": "cosy",
+      "description": "A bedroom features a bed with neutral linens, a side table, plants, and a hanging light fixture.",
+      "tags": [
+        "bedroom",
+        "neutral",
+        "bed",
+        "plants",
+        "interior"
+      ]
+    },
+    {
+      "id": 83,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602687/wall_pix_9_16_cosy_40_wdfzs8.jpg",
+      "category": "cosy",
+      "description": "A cozy living room scene with a neutral color palette, featuring a sofa with pillows, a coffee table with flowers and books, and a window with decorative elements.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "cozy",
+        "interior",
+        "flowers"
+      ]
+    },
+    {
+      "id": 84,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602686/wall_pix_9_16_cosy_41_vs3ksg.jpg",
+      "category": "cosy",
+      "description": "A book, coffee, and cookies are arranged on a wooden table near a window with a view of autumn trees.",
+      "tags": [
+        "still life",
+        "book",
+        "coffee",
+        "cookies",
+        "autumn"
+      ]
+    },
+    {
+      "id": 85,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602686/wall_pix_9_16_cosy_39_xftfx0.jpg",
+      "category": "cosy",
+      "description": "A person holds a cup of coffee while reading a book, with roses and a notebook on a white table.",
+      "tags": [
+        "coffee",
+        "roses",
+        "book",
+        "notebook",
+        "table"
+      ]
+    },
+    {
+      "id": 86,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602684/wall_pix_9_16_cosy_4_jph4sk.jpg",
+      "category": "cosy",
+      "description": "A cup of coffee sits on an open notebook with handwritten text, alongside a eucalyptus branch and a draped cloth.",
+      "tags": [
+        "coffee cup",
+        "notebook",
+        "eucalyptus",
+        "still life",
+        "natural light"
+      ]
+    },
+    {
+      "id": 87,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602683/wall_pix_9_16_cosy_37_t5m1qt.jpg",
+      "category": "cosy",
+      "description": "A person is reading a book with nature photography next to a cup of tea on a wooden table.",
+      "tags": [
+        "reading",
+        "book",
+        "tea cup",
+        "nature",
+        "wooden table"
+      ]
+    },
+    {
+      "id": 88,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602681/wall_pix_9_16_cosy_38_elmdgp.jpg",
+      "category": "cosy",
+      "description": "A woman in white pajamas sits on a window sill, looking out at a green, mountainous landscape.",
+      "tags": [
+        "window",
+        "woman",
+        "pajamas",
+        "landscape",
+        "contemplative"
+      ]
+    },
+    {
+      "id": 89,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602681/wall_pix_9_16_cosy_36_kv409p.jpg",
+      "category": "cosy",
+      "description": "A speckled vase sits on a small wooden table, with plant shadows cast on a draped fabric backdrop.",
+      "tags": [
+        "still life",
+        "vase",
+        "shadows",
+        "wooden table",
+        "neutral"
+      ]
+    },
+    {
+      "id": 90,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602679/wall_pix_9_16_cosy_35_kmgkzl.jpg",
+      "category": "cosy",
+      "description": "Overhead shot of a pink cup of coffee, an open book, and eucalyptus branches on a light brown surface.",
+      "tags": [
+        "coffee cup",
+        "open book",
+        "eucalyptus",
+        "flat lay",
+        "still life"
+      ]
+    },
+    {
+      "id": 91,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602679/wall_pix_9_16_cosy_33_chckra.jpg",
+      "category": "cosy",
+      "description": "A cozy indoor space features a large beige beanbag chair, woven poufs, candles, and plants, creating a warm and inviting atmosphere.",
+      "tags": [
+        "beanbag",
+        "cozy",
+        "indoor",
+        "candles",
+        "plants"
+      ]
+    },
+    {
+      "id": 92,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602678/wall_pix_9_16_cosy_316_orcc3k.jpg",
+      "category": "cosy",
+      "description": "A neutral-toned room features a window with curtains, a wooden cabinet, and shelves with decorative items.",
+      "tags": [
+        "interior",
+        "neutral",
+        "cabinet",
+        "shelves",
+        "window"
+      ]
+    },
+    {
+      "id": 93,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602678/wall_pix_9_16_cosy_32_ies1wk.jpg",
+      "category": "cosy",
+      "description": "A straw hat rests on a pillow and blanket on a wooden dock overlooking a calm lake surrounded by trees.",
+      "tags": [
+        "lake",
+        "dock",
+        "hat",
+        "pillow",
+        "wood"
+      ]
+    },
+    {
+      "id": 94,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602675/wall_pix_9_16_cosy_308_spwn0k.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene with a textured wall, a small tree, and a bed with pillows in a neutral color palette.",
+      "tags": [
+        "bedroom",
+        "tree",
+        "neutral",
+        "textured wall",
+        "pillows"
+      ]
+    },
+    {
+      "id": 95,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602674/wall_pix_9_16_cosy_309_gnocdd.jpg",
+      "category": "cosy",
+      "description": "A top-down view shows an open notebook, a cup of coffee, and eucalyptus leaves on a white surface with shadows.",
+      "tags": [
+        "notebook",
+        "coffee cup",
+        "eucalyptus",
+        "flat lay",
+        "shadows"
+      ]
+    },
+    {
+      "id": 96,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602674/wall_pix_9_16_cosy_315_sfmweb.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with an open book, pressed flowers, a steaming mug, and a lit candle on a knitted blanket.",
+      "tags": [
+        "open book",
+        "pressed flowers",
+        "mug",
+        "candle",
+        "still life"
+      ]
+    },
+    {
+      "id": 97,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602674/wall_pix_9_16_cosy_314_bruofw.jpg",
+      "category": "cosy",
+      "description": "Bedroom with a wooden headboard, gray bedding, sheer curtains, and sunlight streaming in.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "curtains",
+        "sunlight",
+        "minimal"
+      ]
+    },
+    {
+      "id": 98,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602673/wall_pix_9_16_cosy_313_yksyli.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene with a rumpled bed, pampas grass in a vase, and white balloons near a window.",
+      "tags": [
+        "bedroom",
+        "pampas grass",
+        "balloons",
+        "soft light",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 99,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602671/wall_pix_9_16_cosy_312_jsifxh.jpg",
+      "category": "cosy",
+      "description": "A living room with a couch, coffee table, plants, and sunlight streaming through the window.",
+      "tags": [
+        "living room",
+        "couch",
+        "plants",
+        "sunlight",
+        "interior"
+      ]
+    },
+    {
+      "id": 100,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602670/wall_pix_9_16_cosy_31_axgguv.jpg",
+      "category": "cosy",
+      "description": "A bright living room features two white sofas, a wooden coffee table, a round rug, and natural light from a window with sheer curtains.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "natural light",
+        "round rug",
+        "houseplants"
+      ]
+    },
+    {
+      "id": 101,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602670/wall_pix_9_16_cosy_311_pwe1wy.jpg",
+      "category": "cosy",
+      "description": "A bedroom features a bed with sunlight streaming through a window, illuminating the linen bedding.",
+      "tags": [
+        "bedroom",
+        "sunlight",
+        "linen",
+        "window",
+        "interior"
+      ]
+    },
+    {
+      "id": 102,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602667/wall_pix_9_16_cosy_307_appeyt.jpg",
+      "category": "cosy",
+      "description": "A cozy scene featuring candles on books, a cup of tea, and a vase of flowers on a draped table.",
+      "tags": [
+        "still life",
+        "candles",
+        "cup",
+        "books",
+        "neutral"
+      ]
+    },
+    {
+      "id": 103,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602667/wall_pix_9_16_cosy_304_f4gyhx.jpg",
+      "category": "cosy",
+      "description": "A bedroom with a bed, plants on shelves and windowsill, and natural light coming through a window.",
+      "tags": [
+        "bedroom",
+        "plants",
+        "bed",
+        "window",
+        "indoor"
+      ]
+    },
+    {
+      "id": 104,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602666/wall_pix_9_16_cosy_306_dicsnx.jpg",
+      "category": "cosy",
+      "description": "A cozy scene featuring a book, coffee, and pampas grass in a vase on a wooden table near a window.",
+      "tags": [
+        "still life",
+        "pampas grass",
+        "coffee",
+        "book",
+        "wooden table"
+      ]
+    },
+    {
+      "id": 105,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602666/wall_pix_9_16_cosy_303_we2gew.jpg",
+      "category": "cosy",
+      "description": "A bedroom with a bed, wooden floor, shelves, and a plant, all illuminated by sunlight.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "sunlight",
+        "shelves",
+        "plant"
+      ]
+    },
+    {
+      "id": 106,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602666/wall_pix_9_16_cosy_305_fgekcj.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with a cat on a blanket, a steaming mug, and an open book.",
+      "tags": [
+        "cozy",
+        "cat",
+        "book",
+        "mug",
+        "blanket"
+      ]
+    },
+    {
+      "id": 107,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602666/wall_pix_9_16_cosy_290_tetkmv.jpg",
+      "category": "cosy",
+      "description": "A neutral-toned sofa is adorned with pillows and a throw blanket, with a vase of branches in the background.",
+      "tags": [
+        "sofa",
+        "pillows",
+        "blanket",
+        "neutral tones",
+        "interior"
+      ]
+    },
+    {
+      "id": 108,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602665/wall_pix_9_16_cosy_299_cwtu3w.jpg",
+      "category": "cosy",
+      "description": "A living room scene with two sofas, a round table, artwork, and a plant casting shadows on the wall.",
+      "tags": [
+        "living room",
+        "sofas",
+        "shadows",
+        "artwork",
+        "warm light"
+      ]
+    },
+    {
+      "id": 109,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602663/wall_pix_9_16_cosy_302_w0st2b.jpg",
+      "category": "cosy",
+      "description": "Overhead shot of a book, coffee cup, and eucalyptus branches on a textured surface.",
+      "tags": [
+        "still life",
+        "coffee cup",
+        "open book",
+        "eucalyptus",
+        "soft light"
+      ]
+    },
+    {
+      "id": 110,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602662/wall_pix_9_16_cosy_300_h5lc3p.jpg",
+      "category": "cosy",
+      "description": "A softly lit interior features a wooden shelving unit with woven baskets and decorative objects next to a window with a light-filtering curtain.",
+      "tags": [
+        "interior",
+        "shelving",
+        "baskets",
+        "curtain",
+        "neutral"
+      ]
+    },
+    {
+      "id": 111,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602662/wall_pix_9_16_cosy_297_z6o1me.jpg",
+      "category": "cosy",
+      "description": "An open magazine, pink books, and a teacup sit on a wooden floor next to a bed in bright sunlight.",
+      "tags": [
+        "still life",
+        "books",
+        "magazine",
+        "teacup",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 112,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602661/wall_pix_9_16_cosy_301_grf5bi.jpg",
+      "category": "cosy",
+      "description": "A cozy living room features a wooden couch with pillows, a coffee table, and various potted plants.",
+      "tags": [
+        "living room",
+        "couch",
+        "plants",
+        "wooden",
+        "cozy"
+      ]
+    },
+    {
+      "id": 113,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602657/wall_pix_9_16_cosy_30_geohru.jpg",
+      "category": "cosy",
+      "description": "Still life with an open notebook, pencil, seashell, small vase with dried flowers, and a small bowl, all bathed in soft light and shadow.",
+      "tags": [
+        "still life",
+        "notebook",
+        "dried flowers",
+        "seashell",
+        "soft light"
+      ]
+    },
+    {
+      "id": 114,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602656/wall_pix_9_16_cosy_3_azwolo.jpg",
+      "category": "cosy",
+      "description": "A small evergreen tree is covered in frost, set against a blurred, cool-toned background.",
+      "tags": [
+        "frost",
+        "evergreen",
+        "winter",
+        "cold",
+        "nature"
+      ]
+    },
+    {
+      "id": 115,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602656/wall_pix_9_16_cosy_298_tklnpo.jpg",
+      "category": "cosy",
+      "description": "A bedroom with a wooden bed frame, white linens, and sunlight dappling across the bed and rug.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "sunlight",
+        "plants",
+        "mirror"
+      ]
+    },
+    {
+      "id": 116,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602653/wall_pix_9_16_cosy_296_xgkbq4.jpg",
+      "category": "cosy",
+      "description": "A bedroom features a bed with linen bedding, a wooden headboard, and a cabinet with potted ferns near a window.",
+      "tags": [
+        "bedroom",
+        "linen",
+        "ferns",
+        "neutral",
+        "interior"
+      ]
+    },
+    {
+      "id": 117,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602653/wall_pix_9_16_cosy_295_xkdzjj.jpg",
+      "category": "cosy",
+      "description": "A cozy bedroom features a bed with a knitted blanket, plants, and a gallery wall.",
+      "tags": [
+        "bedroom",
+        "cozy",
+        "plants",
+        "blanket",
+        "interior"
+      ]
+    },
+    {
+      "id": 118,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602650/wall_pix_9_16_cosy_292_kd0oxu.jpg",
+      "category": "cosy",
+      "description": "A sunlit living room features a neutral couch, potted plants, and shadows on the wall.",
+      "tags": [
+        "living room",
+        "couch",
+        "plants",
+        "shadows",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 119,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602649/wall_pix_9_16_cosy_288_ekfghh.jpg",
+      "category": "cosy",
+      "description": "A green palm leaf is positioned against a white wall, casting a detailed shadow.",
+      "tags": [
+        "palm leaf",
+        "green",
+        "shadow",
+        "white wall",
+        "tropical"
+      ]
+    },
+    {
+      "id": 120,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602648/wall_pix_9_16_cosy_283_epxyjz.jpg",
+      "category": "cosy",
+      "description": "A table with a coffee pot and two mugs sits between two chairs in a field of daisies at sunset.",
+      "tags": [
+        "field",
+        "daisies",
+        "sunset",
+        "coffee pot",
+        "chairs"
+      ]
+    },
+    {
+      "id": 121,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602647/wall_pix_9_16_cosy_294_gnsrx1.jpg",
+      "category": "cosy",
+      "description": "An open notebook, a cup of coffee, and eucalyptus leaves are arranged on a white surface with strong shadows.",
+      "tags": [
+        "notebook",
+        "coffee cup",
+        "eucalyptus",
+        "still life",
+        "shadows"
+      ]
+    },
+    {
+      "id": 122,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602645/wall_pix_9_16_cosy_293_rrxsgn.jpg",
+      "category": "cosy",
+      "description": "Open wooden doors reveal a garden with rounded bushes and trees at sunset.",
+      "tags": [
+        "garden",
+        "sunset",
+        "doorway",
+        "landscape",
+        "bushes"
+      ]
+    },
+    {
+      "id": 123,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602642/wall_pix_9_16_cosy_291_atrpvm.jpg",
+      "category": "cosy",
+      "description": "A bedroom setting with a bed covered in a gray duvet, a bedside table, and a vase with dried flowers.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "duvet",
+        "minimal",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 124,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602638/wall_pix_9_16_cosy_29_flkufa.jpg",
+      "category": "cosy",
+      "description": "A cozy armchair draped with a blanket sits next to a window with potted plants.",
+      "tags": [
+        "armchair",
+        "plants",
+        "window",
+        "cozy",
+        "indoor"
+      ]
+    },
+    {
+      "id": 125,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602635/wall_pix_9_16_cosy_289_eopkxc.jpg",
+      "category": "cosy",
+      "description": "Close-up of pampas grass plumes with a blurred background, creating a soft, natural aesthetic.",
+      "tags": [
+        "pampas grass",
+        "beige",
+        "soft",
+        "nature",
+        "plumes"
+      ]
+    },
+    {
+      "id": 126,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602634/wall_pix_9_16_cosy_284_mkdcfr.jpg",
+      "category": "cosy",
+      "description": "A bedroom features a wooden bed with neutral-toned linens and pillows, positioned in front of a window with a view of green trees.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "linens",
+        "pillows",
+        "window"
+      ]
+    },
+    {
+      "id": 127,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602633/wall_pix_9_16_cosy_281_q7sdyw.jpg",
+      "category": "cosy",
+      "description": "A wooden table is set with bowls and mugs near a window with sunlight streaming through the curtains.",
+      "tags": [
+        "table setting",
+        "natural light",
+        "wooden table",
+        "window",
+        "still life"
+      ]
+    },
+    {
+      "id": 128,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602631/wall_pix_9_16_cosy_287_wvtar0.jpg",
+      "category": "cosy",
+      "description": "A close-up shot of evergreen tree branches with green needles and brown tips.",
+      "tags": [
+        "evergreen",
+        "needles",
+        "branches",
+        "green",
+        "brown"
+      ]
+    },
+    {
+      "id": 129,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602629/wall_pix_9_16_cosy_286_izr9sm.jpg",
+      "category": "cosy",
+      "description": "A bedroom with a wooden bed frame, a nightstand, framed art, a mirror, and potted plants.",
+      "tags": [
+        "bedroom",
+        "plants",
+        "bed",
+        "interior",
+        "daylight"
+      ]
+    },
+    {
+      "id": 130,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602629/wall_pix_9_16_cosy_285_zhqunr.jpg",
+      "category": "cosy",
+      "description": "A closet filled with neutral-toned clothing hanging on a rod, with woven bags and shoes on the shelves.",
+      "tags": [
+        "closet",
+        "clothing",
+        "neutral tones",
+        "woven bag",
+        "shoes"
+      ]
+    },
+    {
+      "id": 131,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602627/wall_pix_9_16_cosy_280_b312rz.jpg",
+      "category": "cosy",
+      "description": "A cozy living room interior with a large window view of a lush green tree and landscape.",
+      "tags": [
+        "living room",
+        "window view",
+        "cozy",
+        "interior",
+        "tree"
+      ]
+    },
+    {
+      "id": 132,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602624/wall_pix_9_16_cosy_282_qyhv8b.jpg",
+      "category": "cosy",
+      "description": "A book, coffee, and vase with pampas grass sit on a wooden table near a window.",
+      "tags": [
+        "still life",
+        "book",
+        "coffee",
+        "pampas grass",
+        "wooden table"
+      ]
+    },
+    {
+      "id": 133,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602622/wall_pix_9_16_cosy_278_yvfcje.jpg",
+      "category": "cosy",
+      "description": "A rustic wooden cabin interior with an open door leading to a forest view.",
+      "tags": [
+        "cabin",
+        "interior",
+        "wood",
+        "rustic",
+        "forest"
+      ]
+    },
+    {
+      "id": 134,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602621/wall_pix_9_16_cosy_28_dpwrea.jpg",
+      "category": "cosy",
+      "description": "A still life featuring a mug, potted plant, and two notebooks on a white surface against a muted green wall.",
+      "tags": [
+        "still life",
+        "potted plant",
+        "mug",
+        "notebooks",
+        "minimal"
+      ]
+    },
+    {
+      "id": 135,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602620/wall_pix_9_16_cosy_276_ypmisj.jpg",
+      "category": "cosy",
+      "description": "A bed with gray linen sheets is illuminated by natural light from a nearby window with white curtains.",
+      "tags": [
+        "bedroom",
+        "linen",
+        "bed",
+        "window",
+        "soft light"
+      ]
+    },
+    {
+      "id": 136,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602620/wall_pix_9_16_cosy_279_n3e1km.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene with a bed, plants on a stool and windowsill, and sunlight casting shadows on the wall.",
+      "tags": [
+        "bedroom",
+        "plants",
+        "sunlight",
+        "shadows",
+        "minimal"
+      ]
+    },
+    {
+      "id": 137,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602620/wall_pix_9_16_cosy_273_eydfui.jpg",
+      "category": "cosy",
+      "description": "A cozy living room scene with a beige sofa, a wooden coffee table with tulips, and natural light streaming through the windows.",
+      "tags": [
+        "living room",
+        "beige sofa",
+        "tulips",
+        "natural light",
+        "cozy"
+      ]
+    },
+    {
+      "id": 138,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602620/wall_pix_9_16_cosy_277_jk6b5t.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with an open book, dried flowers, a candle, and a steaming mug on a soft blanket.",
+      "tags": [
+        "cozy",
+        "book",
+        "candle",
+        "coffee",
+        "blanket"
+      ]
+    },
+    {
+      "id": 139,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602618/wall_pix_9_16_cosy_274_twhysj.jpg",
+      "category": "cosy",
+      "description": "A ladder shelf with plants, books, and a suitcase stands next to a botanical print and a potted monstera plant.",
+      "tags": [
+        "ladder shelf",
+        "plants",
+        "books",
+        "botanical print",
+        "monstera"
+      ]
+    },
+    {
+      "id": 140,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602616/wall_pix_9_16_cosy_275_am84i4.jpg",
+      "category": "cosy",
+      "description": "A vase of white flowers and a cup of tea sit on a wooden table in a kitchen.",
+      "tags": [
+        "still life",
+        "wooden table",
+        "flowers",
+        "cup",
+        "kitchen"
+      ]
+    },
+    {
+      "id": 141,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602615/wall_pix_9_16_cosy_263_rxbbss.jpg",
+      "category": "cosy",
+      "description": "A cozy living room with sunlight streaming through a window, illuminating a sofa, coffee table, and potted plant.",
+      "tags": [
+        "living room",
+        "sunlight",
+        "interior",
+        "cozy",
+        "shadows"
+      ]
+    },
+    {
+      "id": 142,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602614/wall_pix_9_16_cosy_272_i9mttq.jpg",
+      "category": "cosy",
+      "description": "View through a window frame of two potted plants sitting on a wooden floor in front of a window with sheer curtains.",
+      "tags": [
+        "indoor",
+        "plants",
+        "window",
+        "sunlight",
+        "warm"
+      ]
+    },
+    {
+      "id": 143,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602612/wall_pix_9_16_cosy_27_mxfwdy.jpg",
+      "category": "cosy",
+      "description": "A cozy indoor scene features a wooden table with mugs and a pastry, a chunky knit blanket, and a view of autumn trees through a balcony door.",
+      "tags": [
+        "cozy",
+        "indoor",
+        "autumn",
+        "wooden table",
+        "knit blanket"
+      ]
+    },
+    {
+      "id": 144,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602612/wall_pix_9_16_cosy_271_jtle9g.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with a hand holding a coffee mug next to an open book, a notebook, and a vase of pink roses on a white surface.",
+      "tags": [
+        "roses",
+        "coffee",
+        "book",
+        "cozy",
+        "notebook"
+      ]
+    },
+    {
+      "id": 145,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602612/wall_pix_9_16_cosy_270_zbkn0b.jpg",
+      "category": "cosy",
+      "description": "A cozy living room scene with a beige couch, pillows, blankets, and a book, with a window view of autumn trees.",
+      "tags": [
+        "living room",
+        "beige",
+        "cozy",
+        "autumn",
+        "pillows"
+      ]
+    },
+    {
+      "id": 146,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602607/wall_pix_9_16_cosy_267_gzxcaa.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene featuring a bed with a white duvet and a chunky knit blanket, flanked by large monstera plants and a bright window.",
+      "tags": [
+        "bedroom",
+        "plants",
+        "window",
+        "duvet",
+        "minimal"
+      ]
+    },
+    {
+      "id": 147,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602607/wall_pix_9_16_cosy_269_euear2.jpg",
+      "category": "cosy",
+      "description": "A wicker tray with plants and a water bottle sits on a round wooden table in front of a couch.",
+      "tags": [
+        "living room",
+        "still life",
+        "houseplants",
+        "wicker tray",
+        "natural light"
+      ]
+    },
+    {
+      "id": 148,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602607/wall_pix_9_16_cosy_266_vaod7n.jpg",
+      "category": "cosy",
+      "description": "A sunlit room features two potted plants flanking a window covered with sheer white curtains.",
+      "tags": [
+        "indoor",
+        "plants",
+        "sunlight",
+        "curtains",
+        "wooden floor"
+      ]
+    },
+    {
+      "id": 149,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602606/wall_pix_9_16_cosy_268_vvvnfj.jpg",
+      "category": "cosy",
+      "description": "A bedroom features a bed with neutral linens, a woven rug, and a plant by the window.",
+      "tags": [
+        "bedroom",
+        "neutral",
+        "linens",
+        "plant",
+        "interior"
+      ]
+    },
+    {
+      "id": 150,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602605/wall_pix_9_16_cosy_262_nm6xvv.jpg",
+      "category": "cosy",
+      "description": "A bed with a wooden headboard and rumpled linen bedding is partially visible, with a potted plant in the background.",
+      "tags": [
+        "bed",
+        "linen",
+        "bedroom",
+        "wooden headboard",
+        "plant"
+      ]
+    },
+    {
+      "id": 151,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602602/wall_pix_9_16_cosy_265_xb2bjb.jpg",
+      "category": "cosy",
+      "description": "A bed with gray linens is unmade in a bright room with white walls and a window.",
+      "tags": [
+        "bed",
+        "linens",
+        "window",
+        "bedroom",
+        "minimal"
+      ]
+    },
+    {
+      "id": 152,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602602/wall_pix_9_16_cosy_264_vpbedc.jpg",
+      "category": "cosy",
+      "description": "A bed with white sheets and a peach-colored blanket sits inside a greenhouse filled with plants.",
+      "tags": [
+        "greenhouse",
+        "bed",
+        "plants",
+        "blanket",
+        "indoor"
+      ]
+    },
+    {
+      "id": 153,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602601/wall_pix_9_16_cosy_261_aim5r4.jpg",
+      "category": "cosy",
+      "description": "A close-up of a bed with linen sheets, a wooden headboard, and a potted plant.",
+      "tags": [
+        "bed",
+        "linen",
+        "wooden headboard",
+        "neutral",
+        "plant"
+      ]
+    },
+    {
+      "id": 154,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602601/wall_pix_9_16_cosy_255_lhhzsg.jpg",
+      "category": "cosy",
+      "description": "A lit candle sits on a saucer, atop an open book with a pen, all resting on a knitted blanket.",
+      "tags": [
+        "candle",
+        "book",
+        "pen",
+        "blanket",
+        "cozy"
+      ]
+    },
+    {
+      "id": 155,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602598/wall_pix_9_16_cosy_258_ag0pz3.jpg",
+      "category": "cosy",
+      "description": "A bright living room features two sofas, a wooden coffee table, and a large potted plant.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "indoor plants",
+        "wood table",
+        "jute rug"
+      ]
+    },
+    {
+      "id": 156,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602597/wall_pix_9_16_cosy_260_tyg4w0.jpg",
+      "category": "cosy",
+      "description": "A textured bowl sits on a stone surface next to a cylinder and two spheres, all in neutral tones.",
+      "tags": [
+        "still life",
+        "neutral",
+        "textured",
+        "bowl",
+        "sphere"
+      ]
+    },
+    {
+      "id": 157,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602597/wall_pix_9_16_cosy_257_mnfdid.jpg",
+      "category": "cosy",
+      "description": "A sunlit living room features a sofa, rug, and large windows with curtains.",
+      "tags": [
+        "living room",
+        "interior",
+        "sunlight",
+        "sofa",
+        "curtains"
+      ]
+    },
+    {
+      "id": 158,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602596/wall_pix_9_16_cosy_26_suzwvk.jpg",
+      "category": "cosy",
+      "description": "A person wearing socks lies in bed, looking out at the ocean view through a window.",
+      "tags": [
+        "ocean view",
+        "socks",
+        "bed",
+        "window",
+        "coastal"
+      ]
+    },
+    {
+      "id": 159,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602596/wall_pix_9_16_cosy_259_h73z9r.jpg",
+      "category": "cosy",
+      "description": "A close-up shows dried berries and a seed pod casting shadows on a textured surface.",
+      "tags": [
+        "dried berries",
+        "seed pod",
+        "still life",
+        "shadows",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 160,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602595/wall_pix_9_16_cosy_256_valoqp.jpg",
+      "category": "cosy",
+      "description": "A still life featuring books, a cup of coffee, and a vase with flowers on a wooden surface near a window.",
+      "tags": [
+        "still life",
+        "books",
+        "coffee",
+        "flowers",
+        "wooden table"
+      ]
+    },
+    {
+      "id": 161,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602593/wall_pix_9_16_cosy_251_bcuvss.jpg",
+      "category": "cosy",
+      "description": "A living room with two sofas, a coffee table, and a tree casting shadows on the wall.",
+      "tags": [
+        "living room",
+        "sofas",
+        "tree shadow",
+        "warm light",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 162,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602592/wall_pix_9_16_cosy_254_isgjme.jpg",
+      "category": "cosy",
+      "description": "A window with sheer white curtains lets in bright sunlight, with a view of green trees outside.",
+      "tags": [
+        "window",
+        "curtains",
+        "sheer",
+        "sunlight",
+        "daylight"
+      ]
+    },
+    {
+      "id": 163,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602592/wall_pix_9_16_cosy_253_cky3oo.jpg",
+      "category": "cosy",
+      "description": "A cozy bedroom scene with plants on the windowsill, candles, and a bed with a chunky knit blanket.",
+      "tags": [
+        "bedroom",
+        "plants",
+        "candles",
+        "cozy",
+        "interior"
+      ]
+    },
+    {
+      "id": 164,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602592/wall_pix_9_16_cosy_252_hvwing.jpg",
+      "category": "cosy",
+      "description": "A bedroom with a desk in front of a large window overlooking lush greenery.",
+      "tags": [
+        "bedroom",
+        "desk",
+        "window",
+        "plants",
+        "natural light"
+      ]
+    },
+    {
+      "id": 165,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602587/wall_pix_9_16_cosy_250_ngkxyg.jpg",
+      "category": "cosy",
+      "description": "A lit candle sits on a white surface with two vases, a bowl, and a linen cloth.",
+      "tags": [
+        "candle",
+        "vases",
+        "bowl",
+        "linen",
+        "still life"
+      ]
+    },
+    {
+      "id": 166,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602587/wall_pix_9_16_cosy_208_psi08v.jpg",
+      "category": "cosy",
+      "description": "A cozy living room scene with a round wooden table, a cup of tea, candles, a knitted blanket, and a sofa with pillows.",
+      "tags": [
+        "living room",
+        "cozy",
+        "candles",
+        "tea cup",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 167,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602583/wall_pix_9_16_cosy_247_rhssqy.jpg",
+      "category": "cosy",
+      "description": "A cozy living space features a beanbag chair with a throw blanket, surrounded by plants, records, and a fluffy rug.",
+      "tags": [
+        "living room",
+        "beanbag",
+        "plants",
+        "cozy",
+        "interior"
+      ]
+    },
+    {
+      "id": 168,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602583/wall_pix_9_16_cosy_249_hgngvd.jpg",
+      "category": "cosy",
+      "description": "A cozy armchair with pillows and a blanket sits near a window with raindrops, next to a lit candle and books.",
+      "tags": [
+        "armchair",
+        "cozy",
+        "rainy day",
+        "candle",
+        "book"
+      ]
+    },
+    {
+      "id": 169,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602582/wall_pix_9_16_cosy_25_gsrgfh.jpg",
+      "category": "cosy",
+      "description": "Four clay pots are arranged on a set of stairs within an arched alcove, illuminated by strong sunlight.",
+      "tags": [
+        "clay pots",
+        "stairs",
+        "arch",
+        "shadows",
+        "beige"
+      ]
+    },
+    {
+      "id": 170,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602582/wall_pix_9_16_cosy_240_bo9vsi.jpg",
+      "category": "cosy",
+      "description": "A cozy living room scene with a couch, blanket, coffee cup, and lit candle on a round wooden table.",
+      "tags": [
+        "living room",
+        "candle",
+        "coffee cup",
+        "blanket",
+        "cozy"
+      ]
+    },
+    {
+      "id": 171,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602581/wall_pix_9_16_cosy_248_ailgnk.jpg",
+      "category": "cosy",
+      "description": "A close-up shot of an olive branch with green leaves against a blurred background.",
+      "tags": [
+        "olive branch",
+        "green leaves",
+        "close-up",
+        "nature",
+        "plant"
+      ]
+    },
+    {
+      "id": 172,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602577/wall_pix_9_16_cosy_245_hmcbi1.jpg",
+      "category": "cosy",
+      "description": "A vase of pink roses sits next to a lit candle and headphones on a white surface.",
+      "tags": [
+        "roses",
+        "candle",
+        "headphones",
+        "still life",
+        "indoor"
+      ]
+    },
+    {
+      "id": 173,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602576/wall_pix_9_16_cosy_246_joktmt.jpg",
+      "category": "cosy",
+      "description": "A potted plant sits next to a gray sofa with sunlight and shadows on the wall behind it.",
+      "tags": [
+        "plant",
+        "shadow",
+        "sunlight",
+        "sofa",
+        "indoor"
+      ]
+    },
+    {
+      "id": 174,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602576/wall_pix_9_16_cosy_243_iqx9ve.jpg",
+      "category": "cosy",
+      "description": "A warm-toned image shows a corner bookshelf filled with books and a potted plant under a light.",
+      "tags": [
+        "bookshelf",
+        "books",
+        "warm light",
+        "plant",
+        "indoors"
+      ]
+    },
+    {
+      "id": 175,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602575/wall_pix_9_16_cosy_244_hfhsyf.jpg",
+      "category": "cosy",
+      "description": "A still life featuring an open notebook, pencil, seashell, and a vase with dried flowers, all bathed in soft, natural light.",
+      "tags": [
+        "still life",
+        "notebook",
+        "seashell",
+        "dried flowers",
+        "soft light"
+      ]
+    },
+    {
+      "id": 176,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602569/wall_pix_9_16_cosy_242_ixotbp.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene with sunlight casting shadows on the wall, featuring a bed and a plant on a wooden stool.",
+      "tags": [
+        "bedroom",
+        "sunlight",
+        "plant",
+        "stool",
+        "shadows"
+      ]
+    },
+    {
+      "id": 177,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602568/wall_pix_9_16_cosy_241_ekqrnv.jpg",
+      "category": "cosy",
+      "description": "A bed with a wooden headboard is covered in white sheets, a gray blanket, and an orange throw, with a plant on a wooden stool beside it.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "wooden headboard",
+        "orange throw",
+        "plant"
+      ]
+    },
+    {
+      "id": 178,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602568/wall_pix_9_16_cosy_239_td1twa.jpg",
+      "category": "cosy",
+      "description": "A landscape view shows rolling hills covered in trees under a clear sky with a gradient of color.",
+      "tags": [
+        "landscape",
+        "rolling hills",
+        "trees",
+        "clear sky",
+        "golden hour"
+      ]
+    },
+    {
+      "id": 179,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602568/wall_pix_9_16_cosy_24_lbn6rg.jpg",
+      "category": "cosy",
+      "description": "Sunlight streams through a window into a room with tatami mats, illuminating a table and chairs.",
+      "tags": [
+        "sunlight",
+        "window",
+        "tatami",
+        "interior",
+        "serene"
+      ]
+    },
+    {
+      "id": 180,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602563/wall_pix_9_16_cosy_235_csmtfc.jpg",
+      "category": "cosy",
+      "description": "A cozy bedroom scene with a book, coffee cup, and pen on a white bed with a furry blanket.",
+      "tags": [
+        "bedroom",
+        "cozy",
+        "book",
+        "coffee",
+        "window"
+      ]
+    },
+    {
+      "id": 181,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602563/wall_pix_9_16_cosy_238_q90tvr.jpg",
+      "category": "cosy",
+      "description": "A bed with white linens has a book, rose, and coffee on a wooden tray, with sunlight streaming in from a window.",
+      "tags": [
+        "bed",
+        "coffee",
+        "book",
+        "rose",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 182,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602562/wall_pix_9_16_cosy_237_m1jype.jpg",
+      "category": "cosy",
+      "description": "An open window frames a view of sunlit trees, with a breakfast setting of cake, flowers, and tea cups on the windowsill.",
+      "tags": [
+        "window",
+        "breakfast",
+        "sunlight",
+        "flowers",
+        "still life"
+      ]
+    },
+    {
+      "id": 183,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602561/wall_pix_9_16_cosy_236_gic55k.jpg",
+      "category": "cosy",
+      "description": "A laptop, coffee cup, vase with flowers, and a letter with pressed flowers sit on a round marble table.",
+      "tags": [
+        "still life",
+        "coffee cup",
+        "laptop",
+        "pressed flowers",
+        "marble table"
+      ]
+    },
+    {
+      "id": 184,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602560/wall_pix_9_16_cosy_234_gn1byy.jpg",
+      "category": "cosy",
+      "description": "A bedroom features a bed with white linens and a gray blanket, with plants near a window.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "plants",
+        "white",
+        "minimal"
+      ]
+    },
+    {
+      "id": 185,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602558/wall_pix_9_16_cosy_233_zmiuir.jpg",
+      "category": "cosy",
+      "description": "A cozy bedroom features a bed with a knitted blanket, decorative pillows, plants, and a gallery wall with string lights.",
+      "tags": [
+        "bedroom",
+        "cozy",
+        "plants",
+        "gallery wall",
+        "interior"
+      ]
+    },
+    {
+      "id": 186,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602557/wall_pix_9_16_cosy_232_cu74zz.jpg",
+      "category": "cosy",
+      "description": "A cozy interior view of a living room with a large window overlooking a lush green tree and landscape.",
+      "tags": [
+        "interior",
+        "window view",
+        "nature",
+        "cozy",
+        "furniture"
+      ]
+    },
+    {
+      "id": 187,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602557/wall_pix_9_16_cosy_231_v97o61.jpg",
+      "category": "cosy",
+      "description": "A field of white flowers is illuminated by a golden sunset, creating a warm and dreamy atmosphere.",
+      "tags": [
+        "field",
+        "flowers",
+        "sunset",
+        "golden",
+        "warm"
+      ]
+    },
+    {
+      "id": 188,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602555/wall_pix_9_16_cosy_230_wehlcc.jpg",
+      "category": "cosy",
+      "description": "A hand holds a mug of coffee in front of a planter box filled with small blue flowers.",
+      "tags": [
+        "coffee",
+        "mug",
+        "hand",
+        "flowers",
+        "planter"
+      ]
+    },
+    {
+      "id": 189,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602554/wall_pix_9_16_cosy_229_u4poi9.jpg",
+      "category": "cosy",
+      "description": "A cozy window seat with pillows and a chunky knit blanket is illuminated by sunlight, casting shadows of a hanging plant on the wall.",
+      "tags": [
+        "window seat",
+        "cozy",
+        "sunlight",
+        "plant",
+        "interior"
+      ]
+    },
+    {
+      "id": 190,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602554/wall_pix_9_16_cosy_23_jwihhh.jpg",
+      "category": "cosy",
+      "description": "Sunlight streams through the curtains and windows of a living room, casting shadows on the wooden floor and rug.",
+      "tags": [
+        "living room",
+        "sunlight",
+        "curtains",
+        "rug",
+        "shadows"
+      ]
+    },
+    {
+      "id": 191,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602550/wall_pix_9_16_cosy_226_pl77lj.jpg",
+      "category": "cosy",
+      "description": "A window with sunlight shining through, with plants and candles on the windowsill, and pillows in the foreground.",
+      "tags": [
+        "window",
+        "sunlight",
+        "plants",
+        "candles",
+        "pillows"
+      ]
+    },
+    {
+      "id": 192,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602550/wall_pix_9_16_cosy_204_bdow7l.jpg",
+      "category": "cosy",
+      "description": "A plant and a water bottle sit on a woven tray on a round wooden table in front of a couch.",
+      "tags": [
+        "plant",
+        "water bottle",
+        "tray",
+        "table",
+        "couch"
+      ]
+    },
+    {
+      "id": 193,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602549/wall_pix_9_16_cosy_227_tait9n.jpg",
+      "category": "cosy",
+      "description": "A steaming cup of tea sits on a wooden tray with an open book and a cozy blanket in a bright room.",
+      "tags": [
+        "tea cup",
+        "open book",
+        "warm light",
+        "cozy",
+        "still life"
+      ]
+    },
+    {
+      "id": 194,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602549/wall_pix_9_16_cosy_209_e4fsm4.jpg",
+      "category": "cosy",
+      "description": "Orange gerbera daisies in a clear vase sit on a windowsill with sunlight streaming through the window.",
+      "tags": [
+        "gerberas",
+        "window",
+        "vase",
+        "sunlight",
+        "flowers"
+      ]
+    },
+    {
+      "id": 195,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602549/wall_pix_9_16_cosy_228_avpbuu.jpg",
+      "category": "cosy",
+      "description": "A cup of latte art, a notebook, and gold rings are arranged on a round table near a window.",
+      "tags": [
+        "latte art",
+        "notebook",
+        "gold rings",
+        "table",
+        "window"
+      ]
+    },
+    {
+      "id": 196,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602547/wall_pix_9_16_cosy_224_utzahf.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with a book, mug, and candle on a wooden table in front of a sofa.",
+      "tags": [
+        "cozy",
+        "candle",
+        "book",
+        "mug",
+        "indoor"
+      ]
+    },
+    {
+      "id": 197,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602546/wall_pix_9_16_cosy_223_pudai2.jpg",
+      "category": "cosy",
+      "description": "A still life featuring a brown vase with dried flowers, a lidded container, and a bowl on a wooden table in soft light.",
+      "tags": [
+        "still life",
+        "dried flowers",
+        "brown vase",
+        "soft light",
+        "tabletop"
+      ]
+    },
+    {
+      "id": 198,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602546/wall_pix_9_16_cosy_225_eeo2ml.jpg",
+      "category": "cosy",
+      "description": "A cup of coffee sits on an open book with a eucalyptus branch, all on a white surface.",
+      "tags": [
+        "coffee cup",
+        "open book",
+        "eucalyptus",
+        "still life",
+        "beige"
+      ]
+    },
+    {
+      "id": 199,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602544/wall_pix_9_16_cosy_222_gluewi.jpg",
+      "category": "cosy",
+      "description": "A latte with latte art sits on a round table next to a notebook and gold jewelry, illuminated by sunlight.",
+      "tags": [
+        "latte",
+        "notebook",
+        "jewelry",
+        "sunlight",
+        "table"
+      ]
+    },
+    {
+      "id": 200,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602543/wall_pix_9_16_cosy_221_jyneag.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with a book, cookies, and a steaming cup of coffee on a wooden table near a window with flowering branches.",
+      "tags": [
+        "cozy",
+        "still life",
+        "cookies",
+        "coffee",
+        "window"
+      ]
+    },
+    {
+      "id": 201,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602543/wall_pix_9_16_cosy_219_v3hiic.jpg",
+      "category": "cosy",
+      "description": "A beige couch sits next to a round wooden table with a potted plant, illuminated by sunlight through window blinds.",
+      "tags": [
+        "couch",
+        "plant",
+        "sunlight",
+        "minimal",
+        "indoor"
+      ]
+    },
+    {
+      "id": 202,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602542/wall_pix_9_16_cosy_220_luyrje.jpg",
+      "category": "cosy",
+      "description": "A bedroom features a bed with linen bedding, a wooden headboard, a dresser with ferns, and a rug.",
+      "tags": [
+        "bedroom",
+        "linen",
+        "bed",
+        "ferns",
+        "interior"
+      ]
+    },
+    {
+      "id": 203,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602540/wall_pix_9_16_cosy_218_t8fwbu.jpg",
+      "category": "cosy",
+      "description": "Two cups of coffee, a notebook, and eucalyptus leaves are arranged on a white surface.",
+      "tags": [
+        "coffee",
+        "notebook",
+        "eucalyptus",
+        "still life",
+        "minimal"
+      ]
+    },
+    {
+      "id": 204,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602540/wall_pix_9_16_cosy_22_pafxxj.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene with sunlight streaming through sheer curtains onto a bed and a wooden headboard.",
+      "tags": [
+        "bedroom",
+        "sunlight",
+        "curtains",
+        "bed",
+        "minimal"
+      ]
+    },
+    {
+      "id": 205,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602538/wall_pix_9_16_cosy_217_gmadd8.jpg",
+      "category": "cosy",
+      "description": "A window sill with a cup of tea, cookies, an open book, and a vase of white flowers.",
+      "tags": [
+        "window sill",
+        "tea cup",
+        "open book",
+        "white flowers",
+        "still life"
+      ]
+    },
+    {
+      "id": 206,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602538/wall_pix_9_16_cosy_207_t0gpk3.jpg",
+      "category": "cosy",
+      "description": "An open book rests on a chunky knit blanket next to a cup of coffee and a vase of dried flowers.",
+      "tags": [
+        "open book",
+        "coffee cup",
+        "knit blanket",
+        "dried flowers",
+        "still life"
+      ]
+    },
+    {
+      "id": 207,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602536/wall_pix_9_16_cosy_215_qvtolh.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene features a bed with floral sheets and a brown knitted blanket, next to a wooden wardrobe and a window with white curtains.",
+      "tags": [
+        "bedroom",
+        "wardrobe",
+        "floral",
+        "window",
+        "curtains"
+      ]
+    },
+    {
+      "id": 208,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602536/wall_pix_9_16_cosy_216_irev01.jpg",
+      "category": "cosy",
+      "description": "A cozy indoor scene with vases, a candle, and a mug on a wooden tray, next to a furry throw.",
+      "tags": [
+        "still life",
+        "candle",
+        "vases",
+        "cozy",
+        "indoor"
+      ]
+    },
+    {
+      "id": 209,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602534/wall_pix_9_16_cosy_214_atlq1f.jpg",
+      "category": "cosy",
+      "description": "A closet contains clothing on hangers, a woven bag, folded linens, and a pair of heels.",
+      "tags": [
+        "closet",
+        "clothing",
+        "linen",
+        "bag",
+        "heels"
+      ]
+    },
+    {
+      "id": 210,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602533/wall_pix_9_16_cosy_213_plc6g2.jpg",
+      "category": "cosy",
+      "description": "A woven vase with pampas grass sits on stone steps against a textured stone wall.",
+      "tags": [
+        "stone wall",
+        "pampas grass",
+        "woven vase",
+        "stone steps",
+        "shadows"
+      ]
+    },
+    {
+      "id": 211,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602531/wall_pix_9_16_cosy_212_k7kbgh.jpg",
+      "category": "cosy",
+      "description": "A hand holds a mug of black coffee next to a planter box with small blue flowers.",
+      "tags": [
+        "coffee",
+        "mug",
+        "flowers",
+        "hand",
+        "planter"
+      ]
+    },
+    {
+      "id": 212,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602530/wall_pix_9_16_cosy_211_kefoww.jpg",
+      "category": "cosy",
+      "description": "A cozy living room scene with a beige sofa, wooden coffee table with a candle, and smoke rising from a bottle.",
+      "tags": [
+        "living room",
+        "beige sofa",
+        "candle",
+        "smoke",
+        "warm light"
+      ]
+    },
+    {
+      "id": 213,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602529/wall_pix_9_16_cosy_210_lgkteh.jpg",
+      "category": "cosy",
+      "description": "A low-angle shot of tall grass with seed heads against a pale sky.",
+      "tags": [
+        "tall grass",
+        "seed heads",
+        "low angle",
+        "field",
+        "nature"
+      ]
+    },
+    {
+      "id": 214,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602529/wall_pix_9_16_cosy_21_g8grht.jpg",
+      "category": "cosy",
+      "description": "A wooden dock extends into a calm lake, reflecting the surrounding trees on a cloudy day.",
+      "tags": [
+        "lake",
+        "dock",
+        "wood",
+        "calm",
+        "trees"
+      ]
+    },
+    {
+      "id": 215,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602503/wall_pix_9_16_cosy_202_iyal5h.jpg",
+      "category": "cosy",
+      "description": "A sunlit breakfast table is set with a mug, bowl, and spoon, next to a window with a view of green trees.",
+      "tags": [
+        "breakfast",
+        "table",
+        "sunlight",
+        "window",
+        "chair"
+      ]
+    },
+    {
+      "id": 216,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602356/wall_pix_9_16_cosy_201_ry9pmm.jpg",
+      "category": "cosy",
+      "description": "A room with a dark wooden table and chair, a window with white curtains, and a vase of white flowers.",
+      "tags": [
+        "window",
+        "flowers",
+        "table",
+        "chair",
+        "interior"
+      ]
+    },
+    {
+      "id": 217,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602291/wall_pix_9_16_cosy_2_ux2uxm.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with a book, candle, and mug on a round wooden table in front of a sofa.",
+      "tags": [
+        "cozy",
+        "candle",
+        "book",
+        "mug",
+        "sofa"
+      ]
+    },
+    {
+      "id": 218,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602248/wall_pix_9_16_cosy_194_guwerz.jpg",
+      "category": "cosy",
+      "description": "A bedroom features a bed with a throw blanket, plants by the window, and shelves with decorative items.",
+      "tags": [
+        "bedroom",
+        "natural light",
+        "plants",
+        "shelves",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 219,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602221/wall_pix_9_16_cosy_199_zzfq6w.jpg",
+      "category": "cosy",
+      "description": "A steaming cup of tea sits on a wooden coaster next to open books and a chunky knit blanket.",
+      "tags": [
+        "tea",
+        "book",
+        "blanket",
+        "cozy",
+        "warm"
+      ]
+    },
+    {
+      "id": 220,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602207/wall_pix_9_16_cosy_198_wpkkwv.jpg",
+      "category": "cosy",
+      "description": "Overhead shot of a pink coffee cup, open notebook, and eucalyptus branch on a beige surface.",
+      "tags": [
+        "coffee cup",
+        "notebook",
+        "eucalyptus",
+        "overhead",
+        "beige"
+      ]
+    },
+    {
+      "id": 221,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602191/wall_pix_9_16_cosy_196_bt0lfa.jpg",
+      "category": "cosy",
+      "description": "A vase with bare branches sits next to a couch, illuminated by sunlight streaming through blinds.",
+      "tags": [
+        "still life",
+        "interior",
+        "beige",
+        "shadows",
+        "minimal"
+      ]
+    },
+    {
+      "id": 222,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602169/wall_pix_9_16_cosy_197_tpjqbr.jpg",
+      "category": "cosy",
+      "description": "A serene lake scene with wooden docks extending into the calm water, reflecting the surrounding trees under a misty sky.",
+      "tags": [
+        "lake",
+        "dock",
+        "calm",
+        "mist",
+        "trees"
+      ]
+    },
+    {
+      "id": 223,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602136/wall_pix_9_16_cosy_192_p0kful.jpg",
+      "category": "cosy",
+      "description": "A lit candle in a mug sits on a wooden tray with a book and leaf, placed on a chunky knit blanket.",
+      "tags": [
+        "candle",
+        "book",
+        "leaf",
+        "blanket",
+        "still life"
+      ]
+    },
+    {
+      "id": 224,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602132/wall_pix_9_16_cosy_193_rawgq2.jpg",
+      "category": "cosy",
+      "description": "A bedroom with a bed, plants on shelves, and plants on a windowsill by a window.",
+      "tags": [
+        "bedroom",
+        "plants",
+        "window",
+        "bed",
+        "shelves"
+      ]
+    },
+    {
+      "id": 225,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602128/wall_pix_9_16_cosy_195_aqhdb5.jpg",
+      "category": "cosy",
+      "description": "A desk with a lamp, flowers in a vase, and a chair are positioned in front of a window with white curtains.",
+      "tags": [
+        "desk",
+        "window",
+        "lamp",
+        "flowers",
+        "chair"
+      ]
+    },
+    {
+      "id": 226,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602115/wall_pix_9_16_cosy_19_igl0vr.jpg",
+      "category": "cosy",
+      "description": "A lit candle sits on a print of a wicker chair, with a glass of water nearby, all on a white surface with sunlight.",
+      "tags": [
+        "candle",
+        "wicker chair",
+        "print",
+        "sunlight",
+        "still life"
+      ]
+    },
+    {
+      "id": 227,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602112/wall_pix_9_16_cosy_189_mqxz2d.jpg",
+      "category": "cosy",
+      "description": "A bedroom setting features a bed with neutral linens, a vase of flowers, and sheer curtains.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "linens",
+        "flowers",
+        "curtains"
+      ]
+    },
+    {
+      "id": 228,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602097/wall_pix_9_16_cosy_191_pdkm0f.jpg",
+      "category": "cosy",
+      "description": "An open book rests on a chunky knit blanket near a window with potted plants and a lit candle.",
+      "tags": [
+        "open book",
+        "knit blanket",
+        "potted plants",
+        "window sill",
+        "candle"
+      ]
+    },
+    {
+      "id": 229,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602093/wall_pix_9_16_cosy_190_vybrb1.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with a book, blanket, and vase near a window, creating a calm and inviting atmosphere.",
+      "tags": [
+        "cozy",
+        "interior",
+        "book",
+        "blanket",
+        "vase"
+      ]
+    },
+    {
+      "id": 230,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602083/wall_pix_9_16_cosy_187_criisb.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene with a linen-covered bed, a lit candle, and sunlight casting shadows on the wall.",
+      "tags": [
+        "bedroom",
+        "linen",
+        "candle",
+        "shadows",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 231,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772602015/wall_pix_9_16_cosy_188_bdoewf.jpg",
+      "category": "cosy",
+      "description": "A red apple sits atop an open book on a plate, with a straw hat nearby on a white bed.",
+      "tags": [
+        "apple",
+        "book",
+        "plate",
+        "straw hat",
+        "bed"
+      ]
+    },
+    {
+      "id": 232,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601986/wall_pix_9_16_cosy_181_k5vxsg.jpg",
+      "category": "cosy",
+      "description": "A stack of books sits on a table near a window with a vase of daisies and a potted plant.",
+      "tags": [
+        "books",
+        "daisies",
+        "window",
+        "still life",
+        "vintage"
+      ]
+    },
+    {
+      "id": 233,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601985/wall_pix_9_16_cosy_182_veagmx.jpg",
+      "category": "cosy",
+      "description": "A lit candle sits atop a miniature chair printed on a sheet of paper, with sunlight and shadows.",
+      "tags": [
+        "candle",
+        "chair",
+        "still life",
+        "sunlight",
+        "shadows"
+      ]
+    },
+    {
+      "id": 234,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601984/wall_pix_9_16_cosy_186_ygdfp8.jpg",
+      "category": "cosy",
+      "description": "A flat lay of a latte, notebook with eucalyptus, and chunky knit blanket on a gray surface.",
+      "tags": [
+        "flat lay",
+        "latte",
+        "notebook",
+        "eucalyptus",
+        "knit"
+      ]
+    },
+    {
+      "id": 235,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601983/wall_pix_9_16_cosy_185_fpasqa.jpg",
+      "category": "cosy",
+      "description": "A bright living room features a sofa, plants by the window, and a wooden table in the foreground.",
+      "tags": [
+        "living room",
+        "plants",
+        "sofa",
+        "window",
+        "table"
+      ]
+    },
+    {
+      "id": 236,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601798/wall_pix_9_16_cosy_178_gvhtss.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with a steaming mug, bowl of nuts, notebook, and candle on a wooden table, with a couch in the background.",
+      "tags": [
+        "cozy",
+        "still life",
+        "candle",
+        "mug",
+        "notebook"
+      ]
+    },
+    {
+      "id": 237,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601787/wall_pix_9_16_cosy_179_bbifwl.jpg",
+      "category": "cosy",
+      "description": "A cup of coffee sits on an open book, with a candle, vase of flowers, and decorative object in the background.",
+      "tags": [
+        "coffee cup",
+        "open book",
+        "still life",
+        "neutral tones",
+        "soft light"
+      ]
+    },
+    {
+      "id": 238,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601769/wall_pix_9_16_cosy_175_he6pv4.jpg",
+      "category": "cosy",
+      "description": "A neatly made bed with neutral-toned linens sits in a bright room with large windows.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "linens",
+        "neutral",
+        "window"
+      ]
+    },
+    {
+      "id": 239,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601707/wall_pix_9_16_cosy_177_tsvsox.jpg",
+      "category": "cosy",
+      "description": "A pink wall with shadows from blinds, a round mirror reflecting a palm, and green plants in the foreground.",
+      "tags": [
+        "pink wall",
+        "shadows",
+        "round mirror",
+        "green plants",
+        "indoor"
+      ]
+    },
+    {
+      "id": 240,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601595/wall_pix_9_16_cosy_172_mvltkz.jpg",
+      "category": "cosy",
+      "description": "A cozy window seat with pillows, a chunky knit blanket, and a potted plant casting shadows on the wall.",
+      "tags": [
+        "window seat",
+        "cozy",
+        "plant",
+        "shadows",
+        "beige"
+      ]
+    },
+    {
+      "id": 241,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601555/wall_pix_9_16_cosy_169_kjvkqs.jpg",
+      "category": "cosy",
+      "description": "Still life featuring candles, pine cones, and wooden bowls on a rustic table with a textured wall and sunlight.",
+      "tags": [
+        "still life",
+        "candles",
+        "pine cones",
+        "wooden",
+        "rustic"
+      ]
+    },
+    {
+      "id": 242,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601541/wall_pix_9_16_cosy_171_d7cnxb.jpg",
+      "category": "cosy",
+      "description": "A cozy living room is bathed in sunlight, featuring a sofa, coffee table, and large windows.",
+      "tags": [
+        "living room",
+        "natural light",
+        "cozy",
+        "furniture",
+        "interior"
+      ]
+    },
+    {
+      "id": 243,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601540/wall_pix_9_16_cosy_173_uysuyi.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with a white mug on a chunky knit blanket, books, eucalyptus in a vase, and string lights on a wooden table.",
+      "tags": [
+        "cozy",
+        "still life",
+        "blanket",
+        "eucalyptus",
+        "indoor"
+      ]
+    },
+    {
+      "id": 244,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601539/wall_pix_9_16_cosy_170_oau1h7.jpg",
+      "category": "cosy",
+      "description": "A close-up shot of dried berries on a textured surface, casting shadows in warm lighting.",
+      "tags": [
+        "dried berries",
+        "still life",
+        "warm light",
+        "shadows",
+        "autumn"
+      ]
+    },
+    {
+      "id": 245,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601539/wall_pix_9_16_cosy_165_nmoq7n.jpg",
+      "category": "cosy",
+      "description": "A textured mug sits on a rustic wooden stool, with brown and tan pillows in the background.",
+      "tags": [
+        "mug",
+        "stool",
+        "pillows",
+        "rustic",
+        "still life"
+      ]
+    },
+    {
+      "id": 246,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601523/wall_pix_9_16_cosy_17_bb9dax.jpg",
+      "category": "cosy",
+      "description": "Sunlight streams through a window into a room with a table and chairs, illuminating the tatami mat floor.",
+      "tags": [
+        "sunlight",
+        "window",
+        "room",
+        "table",
+        "tatami"
+      ]
+    },
+    {
+      "id": 247,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601520/wall_pix_9_16_cosy_167_rglreh.jpg",
+      "category": "cosy",
+      "description": "An open book rests on a knitted blanket with potted plants and a candle in the background.",
+      "tags": [
+        "open book",
+        "knit blanket",
+        "potted plants",
+        "candle",
+        "cozy"
+      ]
+    },
+    {
+      "id": 248,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601520/wall_pix_9_16_cosy_168_r92tk1.jpg",
+      "category": "cosy",
+      "description": "A field of tall, golden grass with a blurred ocean and sky in the background.",
+      "tags": [
+        "tall grass",
+        "golden",
+        "field",
+        "nature",
+        "overcast"
+      ]
+    },
+    {
+      "id": 249,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601508/wall_pix_9_16_cosy_164_s9sgma.jpg",
+      "category": "cosy",
+      "description": "A bedroom with a bed covered in a yellow duvet, a window with a plant, and natural light.",
+      "tags": [
+        "bedroom",
+        "window",
+        "yellow",
+        "plant",
+        "daylight"
+      ]
+    },
+    {
+      "id": 250,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601507/wall_pix_9_16_cosy_166_wspfpt.jpg",
+      "category": "cosy",
+      "description": "Three clay pots are arranged on steps, illuminated by a beam of light.",
+      "tags": [
+        "clay pots",
+        "still life",
+        "beige",
+        "shadows",
+        "minimal"
+      ]
+    },
+    {
+      "id": 251,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601505/wall_pix_9_16_cosy_163_htkhum.jpg",
+      "category": "cosy",
+      "description": "A cup of coffee sits on a white bedsheet, illuminated by sunlight from a nearby window.",
+      "tags": [
+        "coffee cup",
+        "bed sheet",
+        "window light",
+        "still life",
+        "beige"
+      ]
+    },
+    {
+      "id": 252,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601498/wall_pix_9_16_cosy_162_lcck8c.jpg",
+      "category": "cosy",
+      "description": "A window with sheer white curtains lets in sunlight, with a view of green trees outside.",
+      "tags": [
+        "window",
+        "curtains",
+        "sheer",
+        "sunlight",
+        "trees"
+      ]
+    },
+    {
+      "id": 253,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601497/wall_pix_9_16_cosy_16_k8jnnk.jpg",
+      "category": "cosy",
+      "description": "A sunlit living room features a couch, indoor plants, and shadows on the wall.",
+      "tags": [
+        "living room",
+        "indoor plants",
+        "couch",
+        "sunlight",
+        "shadows"
+      ]
+    },
+    {
+      "id": 254,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601495/wall_pix_9_16_cosy_155_hdtf5v.jpg",
+      "category": "cosy",
+      "description": "A path through a forest in autumn, with fallen leaves covering the ground and sunlight filtering through the trees.",
+      "tags": [
+        "autumn",
+        "forest",
+        "leaves",
+        "path",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 255,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601494/wall_pix_9_16_cosy_160_xkujnz.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with a book open on a rug, a blanket draped over a chair, and a window in the background.",
+      "tags": [
+        "cozy",
+        "book",
+        "rug",
+        "blanket",
+        "interior"
+      ]
+    },
+    {
+      "id": 256,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601410/wall_pix_9_16_cosy_161_nwodla.jpg",
+      "category": "cosy",
+      "description": "A still life featuring pink roses in a vase, a lit candle, headphones, and a glass on a white surface.",
+      "tags": [
+        "still life",
+        "pink roses",
+        "candle light",
+        "headphones",
+        "warm light"
+      ]
+    },
+    {
+      "id": 257,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601405/wall_pix_9_16_cosy_158_hmowkf.jpg",
+      "category": "cosy",
+      "description": "A person in socks and comfortable clothing sits by a window with a book and mug.",
+      "tags": [
+        "cozy",
+        "window",
+        "socks",
+        "book",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 258,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601397/wall_pix_9_16_cosy_153_j1txm8.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene featuring a bed with neutral linens, a wooden bedside table, and pampas grass in a vase, illuminated by sunlight.",
+      "tags": [
+        "bedroom",
+        "linens",
+        "pampas grass",
+        "neutral tones",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 259,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601396/wall_pix_9_16_cosy_159_vbo9am.jpg",
+      "category": "cosy",
+      "description": "A still life features two white teapots, bowls, a spoon, and a vase with baby's breath flowers on a table.",
+      "tags": [
+        "still life",
+        "teapot",
+        "ceramics",
+        "flowers",
+        "table"
+      ]
+    },
+    {
+      "id": 260,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601390/wall_pix_9_16_cosy_156_thlljk.jpg",
+      "category": "cosy",
+      "description": "A bright, neutral-toned living room features a white sofa with pillows, a knitted blanket, a candle, and a vase on a wooden tray.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "white sofa",
+        "knitted blanket",
+        "home decor"
+      ]
+    },
+    {
+      "id": 261,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601389/wall_pix_9_16_cosy_157_gh7ws6.jpg",
+      "category": "cosy",
+      "description": "A cozy living room with a couch, coffee table with tulips, and natural light streaming through the windows.",
+      "tags": [
+        "living room",
+        "tulips",
+        "coffee table",
+        "natural light",
+        "cozy"
+      ]
+    },
+    {
+      "id": 262,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601383/wall_pix_9_16_cosy_154_dvki3v.jpg",
+      "category": "cosy",
+      "description": "A clear glass vase filled with water and baby's breath flowers sits on a wooden tray.",
+      "tags": [
+        "baby's breath",
+        "glass vase",
+        "wooden tray",
+        "still life",
+        "minimal"
+      ]
+    },
+    {
+      "id": 263,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601355/wall_pix_9_16_cosy_151_cvmod7.jpg",
+      "category": "cosy",
+      "description": "A cup of coffee sits on a white surface near a window, casting a shadow.",
+      "tags": [
+        "coffee cup",
+        "window light",
+        "shadow",
+        "white",
+        "drink"
+      ]
+    },
+    {
+      "id": 264,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601355/wall_pix_9_16_cosy_150_tfy9tl.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene featuring a wooden wardrobe, a bed with floral sheets and a brown throw, and a woven light fixture.",
+      "tags": [
+        "bedroom",
+        "wardrobe",
+        "bed",
+        "floral",
+        "rustic"
+      ]
+    },
+    {
+      "id": 265,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601353/wall_pix_9_16_cosy_15_zpsfyp.jpg",
+      "category": "cosy",
+      "description": "A field of tall, brown grass with a blurred view of the ocean and a white sky in the background.",
+      "tags": [
+        "grass",
+        "field",
+        "ocean",
+        "nature",
+        "landscape"
+      ]
+    },
+    {
+      "id": 266,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601351/wall_pix_9_16_cosy_147_leapad.jpg",
+      "category": "cosy",
+      "description": "A neutral-toned living room features a sofa with cushions and a knitted blanket, with a vase of branches in the background.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "sofa",
+        "cushions",
+        "blanket"
+      ]
+    },
+    {
+      "id": 267,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601351/wall_pix_9_16_cosy_152_zx4iug.jpg",
+      "category": "cosy",
+      "description": "A cup of coffee sits on an open book, with a candle, vase, and lamp in the background.",
+      "tags": [
+        "coffee cup",
+        "open book",
+        "candle",
+        "soft light",
+        "still life"
+      ]
+    },
+    {
+      "id": 268,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601346/wall_pix_9_16_cosy_149_ymszvt.jpg",
+      "category": "cosy",
+      "description": "A cozy living space features a daybed with pillows and a throw blanket, complemented by plants and a woven side table.",
+      "tags": [
+        "daybed",
+        "plants",
+        "cozy",
+        "interior",
+        "woven"
+      ]
+    },
+    {
+      "id": 269,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601346/wall_pix_9_16_cosy_146_c9gszw.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene with sunlight streaming through a window onto a bed with pillows.",
+      "tags": [
+        "bedroom",
+        "window",
+        "sunlight",
+        "pillows",
+        "minimal"
+      ]
+    },
+    {
+      "id": 270,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601344/wall_pix_9_16_cosy_144_cj9pei.jpg",
+      "category": "cosy",
+      "description": "A still life featuring a white vase with dried grasses, seashells, and a smooth stone on a linen cloth, set against a textured wall with strong shadows.",
+      "tags": [
+        "still life",
+        "dried grass",
+        "seashells",
+        "linen cloth",
+        "shadows"
+      ]
+    },
+    {
+      "id": 271,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601341/wall_pix_9_16_cosy_148_i32ybt.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene features a bed with white linens, an orange and grey throw blanket, and a wooden headboard, with a small wooden table and plant beside the bed.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "linens",
+        "wooden table",
+        "plant"
+      ]
+    },
+    {
+      "id": 272,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601285/wall_pix_9_16_cosy_145_tew4uv.jpg",
+      "category": "cosy",
+      "description": "A field of daisies is illuminated by a warm, golden light, creating a soft and dreamy atmosphere.",
+      "tags": [
+        "daisies",
+        "field",
+        "golden light",
+        "warm",
+        "bokeh"
+      ]
+    },
+    {
+      "id": 273,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601285/wall_pix_9_16_cosy_141_nclekd.jpg",
+      "category": "cosy",
+      "description": "A vase of flowers and a teacup sit on a wooden table in a sunlit room.",
+      "tags": [
+        "still life",
+        "flowers",
+        "teacup",
+        "sunlight",
+        "table"
+      ]
+    },
+    {
+      "id": 274,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601278/wall_pix_9_16_cosy_143_cz5jae.jpg",
+      "category": "cosy",
+      "description": "A bedroom features a desk in front of a large window with sunlight streaming through trees.",
+      "tags": [
+        "bedroom",
+        "window",
+        "desk",
+        "sunlight",
+        "plants"
+      ]
+    },
+    {
+      "id": 275,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601250/wall_pix_9_16_cosy_139_bi4ihf.jpg",
+      "category": "cosy",
+      "description": "A potted plant sits next to a couch, casting a shadow on the wall.",
+      "tags": [
+        "plant",
+        "couch",
+        "shadow",
+        "indoor",
+        "warm light"
+      ]
+    },
+    {
+      "id": 276,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601249/wall_pix_9_16_cosy_142_omyhwq.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with a mug, flowers, granola, candle, and open notebook on a wooden table.",
+      "tags": [
+        "cozy",
+        "still life",
+        "table",
+        "candle",
+        "neutral"
+      ]
+    },
+    {
+      "id": 277,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601240/wall_pix_9_16_cosy_14_jrbjjp.jpg",
+      "category": "cosy",
+      "description": "A red plum sits on an open book, placed on a plate next to a straw hat, all on a rumpled white sheet.",
+      "tags": [
+        "still life",
+        "plum",
+        "book",
+        "straw hat",
+        "soft light"
+      ]
+    },
+    {
+      "id": 278,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601239/wall_pix_9_16_cosy_140_lspsuy.jpg",
+      "category": "cosy",
+      "description": "A cozy scene of a book, coffee, and rose on a bed with sunlight streaming through a window.",
+      "tags": [
+        "bed",
+        "coffee",
+        "book",
+        "rose",
+        "cozy"
+      ]
+    },
+    {
+      "id": 279,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601225/wall_pix_9_16_cosy_138_uprjbd.jpg",
+      "category": "cosy",
+      "description": "A cozy living room scene with a couch, coffee table with mugs and pastries, and a balcony overlooking autumn trees.",
+      "tags": [
+        "living room",
+        "cozy",
+        "autumn",
+        "coffee table",
+        "balcony"
+      ]
+    },
+    {
+      "id": 280,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601212/wall_pix_9_16_cosy_137_gwx9p7.jpg",
+      "category": "cosy",
+      "description": "A bright room features a chair, a table with flowers and a mug, and sheer curtains over a window.",
+      "tags": [
+        "living room",
+        "sheer curtains",
+        "natural light",
+        "flowers",
+        "chair"
+      ]
+    },
+    {
+      "id": 281,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601206/wall_pix_9_16_cosy_136_bfdwwf.jpg",
+      "category": "cosy",
+      "description": "A vase with tall, feathery plants sits on a shelf, casting a shadow on the wall behind it.",
+      "tags": [
+        "still life",
+        "pampas grass",
+        "beige",
+        "shadow",
+        "minimal"
+      ]
+    },
+    {
+      "id": 282,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601206/wall_pix_9_16_cosy_135_hjuehz.jpg",
+      "category": "cosy",
+      "description": "A cozy armchair with pillows and a blanket sits in front of a window with raindrops.",
+      "tags": [
+        "armchair",
+        "cozy",
+        "rainy day",
+        "blanket",
+        "book"
+      ]
+    },
+    {
+      "id": 283,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601204/wall_pix_9_16_cosy_134_zsj8yn.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with an open book, steaming mug, cookies, and a lit candle on a round wooden table.",
+      "tags": [
+        "cozy",
+        "reading",
+        "coffee",
+        "cookies",
+        "candle"
+      ]
+    },
+    {
+      "id": 284,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601190/wall_pix_9_16_cosy_131_gjd0jk.jpg",
+      "category": "cosy",
+      "description": "Open wooden doors reveal a garden with manicured hedges and trees at sunset.",
+      "tags": [
+        "open door",
+        "garden",
+        "sunset",
+        "hedges",
+        "trees"
+      ]
+    },
+    {
+      "id": 285,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601162/wall_pix_9_16_cosy_133_xgt7bv.jpg",
+      "category": "cosy",
+      "description": "A living room bathed in sunlight features two sofas, a coffee table, and a woven pendant light.",
+      "tags": [
+        "living room",
+        "sunlight",
+        "sofas",
+        "coffee table",
+        "warm"
+      ]
+    },
+    {
+      "id": 286,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601157/wall_pix_9_16_cosy_132_njx2t8.jpg",
+      "category": "cosy",
+      "description": "A person holds a brown ceramic mug filled with a light-colored beverage with foam, against a green leafy background.",
+      "tags": [
+        "coffee",
+        "hands",
+        "mug",
+        "beverage",
+        "greenery"
+      ]
+    },
+    {
+      "id": 287,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601144/wall_pix_9_16_cosy_130_x2f3wx.jpg",
+      "category": "cosy",
+      "description": "A person holds a brown mug filled with coffee against a backdrop of green foliage.",
+      "tags": [
+        "coffee",
+        "mug",
+        "hands",
+        "foliage",
+        "outdoors"
+      ]
+    },
+    {
+      "id": 288,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601138/wall_pix_9_16_cosy_129_yt9rjy.jpg",
+      "category": "cosy",
+      "description": "Overhead shot of a coffee cup on a linen napkin atop a newspaper, with sunglasses resting nearby on a marble surface.",
+      "tags": [
+        "coffee cup",
+        "newspaper",
+        "sunglasses",
+        "linen",
+        "marble"
+      ]
+    },
+    {
+      "id": 289,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601138/wall_pix_9_16_cosy_128_kkb4ds.jpg",
+      "category": "cosy",
+      "description": "A vase with pampas grass casts a shadow on a textured wall, sitting on a shelf.",
+      "tags": [
+        "pampas grass",
+        "vase",
+        "shadow",
+        "beige",
+        "still life"
+      ]
+    },
+    {
+      "id": 290,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601132/wall_pix_9_16_cosy_127_dkdchf.jpg",
+      "category": "cosy",
+      "description": "A rustic wooden cabin interior with an open door leading to a forest view.",
+      "tags": [
+        "cabin",
+        "interior",
+        "wood",
+        "door",
+        "forest"
+      ]
+    },
+    {
+      "id": 291,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601132/wall_pix_9_16_cosy_125_xmyjra.jpg",
+      "category": "cosy",
+      "description": "A person holds a pen over an open book next to a cup of tea on a wooden table.",
+      "tags": [
+        "open book",
+        "wooden table",
+        "cup",
+        "hand",
+        "pen"
+      ]
+    },
+    {
+      "id": 292,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601123/wall_pix_9_16_cosy_13_o9j7sz.jpg",
+      "category": "cosy",
+      "description": "A lit candle sits on a linen cloth with two vases and a small bowl in the background.",
+      "tags": [
+        "candle",
+        "linen",
+        "vases",
+        "still life",
+        "neutral"
+      ]
+    },
+    {
+      "id": 293,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601118/wall_pix_9_16_cosy_123_oag5po.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene with a bed, side table with vases and books, and sunlight casting shadows on the wall.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "sunlight",
+        "minimal",
+        "interior"
+      ]
+    },
+    {
+      "id": 294,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601106/wall_pix_9_16_cosy_126_zhljuo.jpg",
+      "category": "cosy",
+      "description": "Overhead shot of two mugs of coffee, a notebook, and eucalyptus branches on a white surface.",
+      "tags": [
+        "coffee mugs",
+        "notebook",
+        "eucalyptus",
+        "flat lay",
+        "still life"
+      ]
+    },
+    {
+      "id": 295,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601105/wall_pix_9_16_cosy_122_vmifvz.jpg",
+      "category": "cosy",
+      "description": "A cozy indoor scene features a window with plants, candles, and pillows, bathed in warm sunlight.",
+      "tags": [
+        "window",
+        "plants",
+        "candles",
+        "pillows",
+        "cozy"
+      ]
+    },
+    {
+      "id": 296,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601096/wall_pix_9_16_cosy_124_ugu1bx.jpg",
+      "category": "cosy",
+      "description": "A still life featuring two white teapots, bowls, spoons, and baby's breath in a vase on a linen tablecloth.",
+      "tags": [
+        "still life",
+        "teapot",
+        "ceramics",
+        "baby's breath",
+        "linen"
+      ]
+    },
+    {
+      "id": 297,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601096/wall_pix_9_16_cosy_119_z6udod.jpg",
+      "category": "cosy",
+      "description": "A cozy scene with vases, a candle, and a mug on a wooden tray, next to a fur blanket.",
+      "tags": [
+        "still life",
+        "candle",
+        "vases",
+        "tray",
+        "cozy"
+      ]
+    },
+    {
+      "id": 298,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601083/wall_pix_9_16_cosy_121_f23mwv.jpg",
+      "category": "cosy",
+      "description": "A beige waffle towel hangs over the edge of a bathtub, with lit candles on a wooden stump nearby.",
+      "tags": [
+        "bathtub",
+        "towel",
+        "candles",
+        "beige",
+        "bathroom"
+      ]
+    },
+    {
+      "id": 299,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601082/wall_pix_9_16_cosy_113_ecnzso.jpg",
+      "category": "cosy",
+      "description": "A cozy living room features a brown leather couch, a chandelier, and many plants.",
+      "tags": [
+        "living room",
+        "leather couch",
+        "chandelier",
+        "plants",
+        "cozy"
+      ]
+    },
+    {
+      "id": 300,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601076/wall_pix_9_16_cosy_120_gyejp4.jpg",
+      "category": "cosy",
+      "description": "A cozy scene featuring a book, tea, and flowers by a window with an autumn view.",
+      "tags": [
+        "cozy",
+        "window",
+        "book",
+        "flowers",
+        "autumn"
+      ]
+    },
+    {
+      "id": 301,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601074/wall_pix_9_16_cosy_118_gqf1qu.jpg",
+      "category": "cosy",
+      "description": "Interior shot of a living room featuring a sofa, plants by a window, and a wooden table with a glass of water.",
+      "tags": [
+        "living room",
+        "plants",
+        "window",
+        "sofa",
+        "interior"
+      ]
+    },
+    {
+      "id": 302,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601072/wall_pix_9_16_cosy_12_xjbutk.jpg",
+      "category": "cosy",
+      "description": "A vase of greenery sits on a small table next to a couch, with sunlight casting shadows on the wall.",
+      "tags": [
+        "indoor",
+        "plants",
+        "shadows",
+        "table",
+        "vase"
+      ]
+    },
+    {
+      "id": 303,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772601072/wall_pix_9_16_cosy_117_cjieqv.jpg",
+      "category": "cosy",
+      "description": "A vase with green foliage sits on a wooden table next to a couch with a blanket, with sunlight casting shadows on the wall.",
+      "tags": [
+        "still life",
+        "indoor",
+        "plants",
+        "shadows",
+        "minimal"
+      ]
+    },
+    {
+      "id": 304,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772600795/wall_pix_9_16_cosy_11_jehbon.jpg",
+      "category": "cosy",
+      "description": "A cozy living room scene with a mug, blanket, lamp, and book creating a warm and inviting atmosphere.",
+      "tags": [
+        "cozy",
+        "living room",
+        "warm light",
+        "still life",
+        "book"
+      ]
+    },
+    {
+      "id": 305,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772600733/wall_pix_9_16_cosy_109_enpoiw.jpg",
+      "category": "cosy",
+      "description": "A straw hat rests on a pillow and blanket on a wooden dock by a calm lake.",
+      "tags": [
+        "straw hat",
+        "wooden dock",
+        "lake",
+        "pillow",
+        "blanket"
+      ]
+    },
+    {
+      "id": 306,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772600731/wall_pix_9_16_cosy_106_krpjj7.jpg",
+      "category": "cosy",
+      "description": "A clear, round vase filled with water and baby's breath flowers sits on a wooden tray.",
+      "tags": [
+        "still life",
+        "baby's breath",
+        "glass vase",
+        "wooden tray",
+        "minimal"
+      ]
+    },
+    {
+      "id": 307,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772600731/wall_pix_9_16_cosy_104_hsfa2k.jpg",
+      "category": "cosy",
+      "description": "A cozy living room scene with pampas grass in a vase, a lit candle on books, and a steaming mug on a wooden table.",
+      "tags": [
+        "living room",
+        "pampas grass",
+        "candle",
+        "coffee mug",
+        "still life"
+      ]
+    },
+    {
+      "id": 308,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772600730/wall_pix_9_16_cosy_102_il0fr4.jpg",
+      "category": "cosy",
+      "description": "A cozy living room scene featuring a couch with pillows, blankets, and open books, with a window view of autumn trees.",
+      "tags": [
+        "living room",
+        "couch",
+        "pillows",
+        "blanket",
+        "autumn"
+      ]
+    },
+    {
+      "id": 309,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772600730/wall_pix_9_16_cosy_107_e3ygwp.jpg",
+      "category": "cosy",
+      "description": "A woven vase with pampas grass sits on stone steps against a textured brick wall.",
+      "tags": [
+        "vase",
+        "pampas grass",
+        "stone steps",
+        "brick wall",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 310,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772600729/wall_pix_9_16_cosy_108_hqs0tb.jpg",
+      "category": "cosy",
+      "description": "A close-up shows a candle and vase on a wooden tray, with a blanket and pillows on a sofa in the background.",
+      "tags": [
+        "candle",
+        "vase",
+        "blanket",
+        "pillows",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 311,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772600675/wall_pix_9_16_cosy_101_cuz6fk.jpg",
+      "category": "cosy",
+      "description": "A scenic view of forested mountains under a clear sky at golden hour.",
+      "tags": [
+        "mountains",
+        "forest",
+        "landscape",
+        "golden hour",
+        "nature"
+      ]
+    },
+    {
+      "id": 312,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772600667/wall_pix_9_16_cosy_105_jibroa.jpg",
+      "category": "cosy",
+      "description": "Close-up of green plants with some brown leaves, creating a natural, textured pattern.",
+      "tags": [
+        "green",
+        "plants",
+        "nature",
+        "leaves",
+        "texture"
+      ]
+    },
+    {
+      "id": 313,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772600629/wall_pix_9_16_cosy_10_tml98p.jpg",
+      "category": "cosy",
+      "description": "A beige waffle towel hangs over the edge of a bathtub in a minimalist bathroom setting.",
+      "tags": [
+        "bathtub",
+        "towel",
+        "candles",
+        "minimalist",
+        "beige"
+      ]
+    },
+    {
+      "id": 314,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772600629/wall_pix_9_16_cosy_103_m6um3m.jpg",
+      "category": "cosy",
+      "description": "A bed with white linens, an orange pillow and blanket, a gray blanket, and a wooden headboard is next to a wooden side table with a potted plant.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "linens",
+        "plant",
+        "rustic"
+      ]
+    },
+    {
+      "id": 315,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772600625/wall_pix_9_16_cosy_100_zfeiu1.jpg",
+      "category": "cosy",
+      "description": "A bedroom scene with a yellow bedspread, a window with plants, and a lamp.",
+      "tags": [
+        "bedroom",
+        "window",
+        "yellow",
+        "plants",
+        "daylight"
+      ]
+    },
+    {
+      "id": 316,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772600621/wall_pix_9_16_cosy_1_q9mw3m.jpg",
+      "category": "cosy",
+      "description": "A branch with green leaves hangs over water with bokeh lights reflecting on the surface.",
+      "tags": [
+        "leaves",
+        "branch",
+        "water",
+        "bokeh",
+        "nature"
+      ]
+    }
+  ]
+}

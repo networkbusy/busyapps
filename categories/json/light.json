@@ -1,0 +1,4595 @@
+{
+  "updatedAt": "2026-03-04",
+  "version": "1.0",
+  "wallpapers": [
+    {
+      "id": 1,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607033/wall_pix_9_16_light_192_myn56y.jpg",
+      "category": "light",
+      "description": "A neutral-toned sofa with pillows sits next to a wooden table, with lush greenery visible in the background.",
+      "tags": [
+        "sofa",
+        "pillows",
+        "table",
+        "greenery",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607032/wall_pix_9_16_light_303_t5pfrf.jpg",
+      "category": "light",
+      "description": "A bright and airy living room features a sofa with blue pillows, a round wooden table, and a dining area in the background.",
+      "tags": [
+        "living room",
+        "interior",
+        "furniture",
+        "neutral",
+        "daylight"
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607028/wall_pix_9_16_light_191_eleeen.jpg",
+      "category": "light",
+      "description": "A cozy interior scene with a couch, pillows, candles on a wooden table, and a shadow of a tree on the wall.",
+      "tags": [
+        "interior",
+        "couch",
+        "candles",
+        "shadow",
+        "calm"
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607025/wall_pix_9_16_light_190_grjhvn.jpg",
+      "category": "light",
+      "description": "Close-up shot of delicate white flowers with green stems and leaves, set against a softly blurred background.",
+      "tags": [
+        "white flowers",
+        "floral",
+        "nature",
+        "soft light",
+        "close-up"
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607023/wall_pix_9_16_light_19_a7rk27.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sofa, round wooden table, and a potted tree near a large window.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "round table",
+        "modern",
+        "interior"
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607021/wall_pix_9_16_light_189_dag1ur.jpg",
+      "category": "light",
+      "description": "A bright living room features a white couch, patterned rug, woven ottoman, and several plants near a window.",
+      "tags": [
+        "living room",
+        "white couch",
+        "plants",
+        "modern",
+        "interior"
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607018/wall_pix_9_16_light_188_et4ewg.jpg",
+      "category": "light",
+      "description": "A living room scene features a white couch with pastel pillows, a wooden coffee table with flowers, and light green walls.",
+      "tags": [
+        "living room",
+        "white couch",
+        "pastel",
+        "flowers",
+        "coffee table"
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607016/wall_pix_9_16_light_18_icqtfz.jpg",
+      "category": "light",
+      "description": "A bright living room features a gray sectional sofa, a light wood coffee table, and large windows with sheer curtains.",
+      "tags": [
+        "living room",
+        "sectional sofa",
+        "coffee table",
+        "sheer curtains",
+        "modern"
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607016/wall_pix_9_16_light_179_whgne0.jpg",
+      "category": "light",
+      "description": "A well-lit workspace featuring a wooden desk, a chair, a lamp, and a framed abstract artwork on the wall.",
+      "tags": [
+        "desk",
+        "chair",
+        "lamp",
+        "artwork",
+        "interior"
+      ]
+    },
+    {
+      "id": 10,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607016/wall_pix_9_16_light_187_qcx8se.jpg",
+      "category": "light",
+      "description": "A cozy window seat with pillows is bathed in sunlight, with a view of trees outside.",
+      "tags": [
+        "window seat",
+        "natural light",
+        "pillows",
+        "wood frame",
+        "indoor"
+      ]
+    },
+    {
+      "id": 11,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607015/wall_pix_9_16_light_181_bthsrc.jpg",
+      "category": "light",
+      "description": "A partially open curtain reveals a coastal view through a large window.",
+      "tags": [
+        "curtain",
+        "window",
+        "coastal",
+        "sea",
+        "daylight"
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607014/wall_pix_9_16_light_186_jmy0n5.jpg",
+      "category": "light",
+      "description": "A living room scene features a gray sofa with decorative pillows, a wooden coffee table, and various plants near a window.",
+      "tags": [
+        "living room",
+        "gray sofa",
+        "plants",
+        "natural light",
+        "interior"
+      ]
+    },
+    {
+      "id": 13,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607013/wall_pix_9_16_light_184_x5shra.jpg",
+      "category": "light",
+      "description": "A woman sits on a sofa in a bright, modern living room with a skylight and an open doorway to a garden.",
+      "tags": [
+        "living room",
+        "skylight",
+        "woman",
+        "sofa",
+        "interior"
+      ]
+    },
+    {
+      "id": 14,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607012/wall_pix_9_16_light_185_vw4uok.jpg",
+      "category": "light",
+      "description": "A modern lobby area with white chairs, large windows, and a decorated Christmas tree with presents.",
+      "tags": [
+        "lobby",
+        "modern",
+        "christmas tree",
+        "chairs",
+        "interior"
+      ]
+    },
+    {
+      "id": 15,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607010/wall_pix_9_16_light_182_ynpyx6.jpg",
+      "category": "light",
+      "description": "A living room setting shows a sofa with a throw blanket, next to a window with curtains and a dining table with chairs.",
+      "tags": [
+        "living room",
+        "sofa",
+        "curtains",
+        "window",
+        "dining table"
+      ]
+    },
+    {
+      "id": 16,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607007/wall_pix_9_16_light_183_js0w2n.jpg",
+      "category": "light",
+      "description": "A bright living room features a gray sofa with decorative pillows and a throw blanket, a rustic coffee table with candles, and two windows.",
+      "tags": [
+        "living room",
+        "gray sofa",
+        "throw blanket",
+        "coffee table",
+        "candles"
+      ]
+    },
+    {
+      "id": 17,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607002/wall_pix_9_16_light_180_ygrgja.jpg",
+      "category": "light",
+      "description": "A minimalist interior features a chair, sofa, vases with branches, and a large window with a bright, neutral color palette.",
+      "tags": [
+        "minimalist",
+        "interior",
+        "chair",
+        "sofa",
+        "vases"
+      ]
+    },
+    {
+      "id": 18,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772607001/wall_pix_9_16_light_177_upxv7l.jpg",
+      "category": "light",
+      "description": "A serene bedroom features a bed with neutral linens, a bench, and a minimalist pendant light.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "neutral",
+        "minimalist",
+        "interior"
+      ]
+    },
+    {
+      "id": 19,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606997/wall_pix_9_16_light_178_pbifa8.jpg",
+      "category": "light",
+      "description": "A bright kitchen with gray cabinets, stone floors, and a view to a garden through open glass doors.",
+      "tags": [
+        "kitchen",
+        "dining table",
+        "garden",
+        "interior",
+        "rugs"
+      ]
+    },
+    {
+      "id": 20,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606990/wall_pix_9_16_light_175_t971h1.jpg",
+      "category": "light",
+      "description": "A bright hallway with large windows, wooden floors, and potted plants leads to a living room.",
+      "tags": [
+        "hallway",
+        "windows",
+        "plants",
+        "sunlight",
+        "interior"
+      ]
+    },
+    {
+      "id": 21,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606988/wall_pix_9_16_light_174_wohmgi.jpg",
+      "category": "light",
+      "description": "A bright living room features a large sectional sofa, a wooden coffee table, and large windows with curtains.",
+      "tags": [
+        "living room",
+        "sectional sofa",
+        "neutral",
+        "interior",
+        "daylight"
+      ]
+    },
+    {
+      "id": 22,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606985/wall_pix_9_16_light_173_naybjc.jpg",
+      "category": "light",
+      "description": "A modern living room features a gray sofa with pillows, a wooden wall, and a window overlooking greenery.",
+      "tags": [
+        "living room",
+        "modern",
+        "sofa",
+        "wood wall",
+        "interior"
+      ]
+    },
+    {
+      "id": 23,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606983/wall_pix_9_16_light_172_zftn69.jpg",
+      "category": "light",
+      "description": "Indoor courtyard with a pond, small waterfall, trees, and a skylight.",
+      "tags": [
+        "courtyard",
+        "pond",
+        "waterfall",
+        "trees",
+        "skylight"
+      ]
+    },
+    {
+      "id": 24,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606982/wall_pix_9_16_light_171_scta6s.jpg",
+      "category": "light",
+      "description": "A bright living room features a sectional sofa with decorative pillows, a woven pendant light, and indoor plants.",
+      "tags": [
+        "living room",
+        "sectional",
+        "pendant light",
+        "indoor plants",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 25,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606979/wall_pix_9_16_light_170_swog7o.jpg",
+      "category": "light",
+      "description": "A bright bathroom features light green tiled walls, a white toilet, a wooden vanity, and a potted plant.",
+      "tags": [
+        "bathroom",
+        "tiles",
+        "plant",
+        "mirror",
+        "modern"
+      ]
+    },
+    {
+      "id": 26,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606976/wall_pix_9_16_light_17_adfvja.jpg",
+      "category": "light",
+      "description": "A bright, modern kitchen with an island and a view of the ocean, featuring a Christmas tree in the dining area.",
+      "tags": [
+        "kitchen",
+        "modern",
+        "island",
+        "ocean view",
+        "christmas tree"
+      ]
+    },
+    {
+      "id": 27,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606975/wall_pix_9_16_light_169_u7jx08.jpg",
+      "category": "light",
+      "description": "A bedroom features a wooden bed with white linens, a textured rug, and a large white pendant light.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "rug",
+        "lighting",
+        "minimal"
+      ]
+    },
+    {
+      "id": 28,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606974/wall_pix_9_16_light_168_vzcepq.jpg",
+      "category": "light",
+      "description": "A concrete wall with sunlight casting shadows, and a blurred table in the foreground.",
+      "tags": [
+        "concrete wall",
+        "shadows",
+        "sunlight",
+        "minimal",
+        "interior"
+      ]
+    },
+    {
+      "id": 29,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606336/wall_pix_9_16_light_99_uzejcm.jpg",
+      "category": "light",
+      "description": "A cozy living room scene with a sectional sofa, wooden coffee table, and natural light streaming through a window.",
+      "tags": [
+        "living room",
+        "sectional",
+        "coffee table",
+        "natural light",
+        "plants"
+      ]
+    },
+    {
+      "id": 30,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606334/wall_pix_9_16_light_98_uika2q.jpg",
+      "category": "light",
+      "description": "A cozy living room features a gray sofa with decorative pillows and a chunky knit blanket, a wooden coffee table, and natural light from two windows.",
+      "tags": [
+        "living room",
+        "gray sofa",
+        "knit blanket",
+        "wood table",
+        "natural light"
+      ]
+    },
+    {
+      "id": 31,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606333/wall_pix_9_16_light_97_zkrayo.jpg",
+      "category": "light",
+      "description": "A living room features a sofa, armchair, and a window with sheer curtains, creating a bright and airy atmosphere.",
+      "tags": [
+        "living room",
+        "sheer curtains",
+        "natural light",
+        "interior",
+        "furniture"
+      ]
+    },
+    {
+      "id": 32,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606331/wall_pix_9_16_light_96_swodan.jpg",
+      "category": "light",
+      "description": "A full-length mirror reflects a basket of dried flowers draped with fabric, bathed in sunlight.",
+      "tags": [
+        "mirror",
+        "flowers",
+        "basket",
+        "fabric",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 33,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606328/wall_pix_9_16_light_95_mhnlws.jpg",
+      "category": "light",
+      "description": "A modern kitchen features white cabinets, marble countertops and flooring, and pendant lighting above the island.",
+      "tags": [
+        "kitchen",
+        "modern",
+        "marble",
+        "island",
+        "lighting"
+      ]
+    },
+    {
+      "id": 34,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606326/wall_pix_9_16_light_94_b6rkkt.jpg",
+      "category": "light",
+      "description": "A woman is partially visible in bed with white sheets, with sunlight and a plant in the background.",
+      "tags": [
+        "woman",
+        "bed",
+        "sunlight",
+        "plant",
+        "indoor"
+      ]
+    },
+    {
+      "id": 35,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606324/wall_pix_9_16_light_93_s6durt.jpg",
+      "category": "light",
+      "description": "A bedroom corner features a large plant, a woven rug with sunlight, and a bed near a window.",
+      "tags": [
+        "bedroom",
+        "plant",
+        "rug",
+        "window",
+        "natural light"
+      ]
+    },
+    {
+      "id": 36,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606322/wall_pix_9_16_light_92_xicehl.jpg",
+      "category": "light",
+      "description": "Close-up shot of flowing, semi-transparent golden fabric with light shining through.",
+      "tags": [
+        "fabric",
+        "golden",
+        "sheer",
+        "abstract",
+        "soft"
+      ]
+    },
+    {
+      "id": 37,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606319/wall_pix_9_16_light_91_janjh1.jpg",
+      "category": "light",
+      "description": "A neatly made bed with neutral-toned linens is positioned against a white paneled wall with a vase of white flowers.",
+      "tags": [
+        "bed",
+        "linens",
+        "white",
+        "flowers",
+        "bedroom"
+      ]
+    },
+    {
+      "id": 38,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606318/wall_pix_9_16_light_90_vckytb.jpg",
+      "category": "light",
+      "description": "A bright living room features a white couch, wooden table, and a modern black fireplace with a view of a lake.",
+      "tags": [
+        "living room",
+        "fireplace",
+        "white couch",
+        "wood table",
+        "lake view"
+      ]
+    },
+    {
+      "id": 39,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606315/wall_pix_9_16_light_9_lbhxdz.jpg",
+      "category": "light",
+      "description": "A bright living room features a large white sofa with pillows, a round coffee table, and a framed line art print on the wall.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "coffee table",
+        "line art",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 40,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606313/wall_pix_9_16_light_89_kz7jin.jpg",
+      "category": "light",
+      "description": "A minimalist interior with a sofa, armchair, vases with branches, and large windows with blinds.",
+      "tags": [
+        "interior",
+        "minimalist",
+        "neutral",
+        "armchair",
+        "daylight"
+      ]
+    },
+    {
+      "id": 41,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606312/wall_pix_9_16_light_88_s4micd.jpg",
+      "category": "light",
+      "description": "A bright, neutral living room features a sofa with a throw blanket, a wooden coffee table, and a dining area in the background.",
+      "tags": [
+        "living room",
+        "neutral",
+        "sofa",
+        "interior",
+        "daylight"
+      ]
+    },
+    {
+      "id": 42,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606309/wall_pix_9_16_light_86_axvdef.jpg",
+      "category": "light",
+      "description": "A bright dining room features a wooden table set for a meal, illuminated by a modern pendant light and natural sunlight.",
+      "tags": [
+        "dining room",
+        "wooden table",
+        "pendant light",
+        "natural light",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 43,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606309/wall_pix_9_16_light_87_mxobgj.jpg",
+      "category": "light",
+      "description": "A close-up shot of a bed with white linens and pillows, with a bouquet of white flowers on the headboard.",
+      "tags": [
+        "bed",
+        "linens",
+        "pillows",
+        "white",
+        "flowers"
+      ]
+    },
+    {
+      "id": 44,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606305/wall_pix_9_16_light_85_uwdmpk.jpg",
+      "category": "light",
+      "description": "A woman in a brown dress sits on a beige sofa in a room with arched windows and a built-in shelf.",
+      "tags": [
+        "woman",
+        "sofa",
+        "dress",
+        "interior",
+        "neutral"
+      ]
+    },
+    {
+      "id": 45,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606303/wall_pix_9_16_light_84_pwph4r.jpg",
+      "category": "light",
+      "description": "A bright, modern living room features two sofas, a dining table, and a geometric rug on a glossy tiled floor.",
+      "tags": [
+        "living room",
+        "modern",
+        "bright",
+        "furniture",
+        "interior"
+      ]
+    },
+    {
+      "id": 46,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606301/wall_pix_9_16_light_83_mahctx.jpg",
+      "category": "light",
+      "description": "A bedroom scene shows a bed with white linens, a bedside table, a lamp, a plant, and a window with curtains.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "plant",
+        "window",
+        "minimal"
+      ]
+    },
+    {
+      "id": 47,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606299/wall_pix_9_16_light_82_gn8pd7.jpg",
+      "category": "light",
+      "description": "A bright living room features a sectional sofa, a coffee table with books and decorative objects, and built-in shelving.",
+      "tags": [
+        "living room",
+        "sectional",
+        "neutral tones",
+        "modern",
+        "interior"
+      ]
+    },
+    {
+      "id": 48,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606297/wall_pix_9_16_light_81_zacpaa.jpg",
+      "category": "light",
+      "description": "A bright living room features a light-colored sofa, ottoman, side table, and various potted plants, with a tree growing towards a skylight.",
+      "tags": [
+        "living room",
+        "indoor plants",
+        "minimalist",
+        "daylight",
+        "beige"
+      ]
+    },
+    {
+      "id": 49,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606295/wall_pix_9_16_light_80_i2igcp.jpg",
+      "category": "light",
+      "description": "A bright living room features two gray sofas with green pillows, a jute rug, and a large window overlooking the ocean.",
+      "tags": [
+        "living room",
+        "gray sofa",
+        "jute rug",
+        "natural light",
+        "coastal"
+      ]
+    },
+    {
+      "id": 50,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606292/wall_pix_9_16_light_8_j3jwcg.jpg",
+      "category": "light",
+      "description": "A modern living room features a large, light-colored sectional sofa bathed in sunlight from a large window.",
+      "tags": [
+        "living room",
+        "modern",
+        "sectional sofa",
+        "sunlight",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 51,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606291/wall_pix_9_16_light_79_xaqjco.jpg",
+      "category": "light",
+      "description": "A living room scene features a white sofa with pastel pillows, a wooden coffee table with flowers, and a window.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "coffee table",
+        "pastel",
+        "flowers"
+      ]
+    },
+    {
+      "id": 52,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606289/wall_pix_9_16_light_78_to6eb6.jpg",
+      "category": "light",
+      "description": "A cozy window seat with pillows is nestled into a corner with large windows overlooking trees.",
+      "tags": [
+        "window seat",
+        "pillows",
+        "natural light",
+        "wood frame",
+        "interior"
+      ]
+    },
+    {
+      "id": 53,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606287/wall_pix_9_16_light_77_oluikz.jpg",
+      "category": "light",
+      "description": "A tranquil beach scene with calm waters reflecting the golden light of the setting sun, with an island visible in the distance.",
+      "tags": [
+        "beach",
+        "sunset",
+        "ocean",
+        "clouds",
+        "island"
+      ]
+    },
+    {
+      "id": 54,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606284/wall_pix_9_16_light_76_nbxkpu.jpg",
+      "category": "light",
+      "description": "A modern bathroom features white tiles, gold fixtures, a built-in shelf with bottles, and a hanging plant.",
+      "tags": [
+        "bathroom",
+        "modern",
+        "tiles",
+        "gold fixtures",
+        "plant"
+      ]
+    },
+    {
+      "id": 55,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606284/wall_pix_9_16_light_75_rx79jp.jpg",
+      "category": "light",
+      "description": "A bright living room features a gray sectional sofa, a wooden coffee table, and a fiddle-leaf fig tree.",
+      "tags": [
+        "living room",
+        "sectional sofa",
+        "coffee table",
+        "fiddle-leaf fig",
+        "modern"
+      ]
+    },
+    {
+      "id": 56,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606281/wall_pix_9_16_light_74_xxu9ah.jpg",
+      "category": "light",
+      "description": "A woman is lying in bed covered by a white blanket, with sunlight streaming in from a window.",
+      "tags": [
+        "woman",
+        "bed",
+        "sunlight",
+        "indoor",
+        "plant"
+      ]
+    },
+    {
+      "id": 57,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606280/wall_pix_9_16_light_73_j6jnqy.jpg",
+      "category": "light",
+      "description": "A minimalist bedroom features a low platform bed with gray linens, bathed in sunlight filtering through sheer white curtains.",
+      "tags": [
+        "bedroom",
+        "minimalist",
+        "bed",
+        "sunlight",
+        "curtains"
+      ]
+    },
+    {
+      "id": 58,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606279/wall_pix_9_16_light_72_ko1dim.jpg",
+      "category": "light",
+      "description": "A green lawn with people relaxing under trees, framed by buildings and foliage.",
+      "tags": [
+        "green lawn",
+        "city park",
+        "urban",
+        "trees",
+        "buildings"
+      ]
+    },
+    {
+      "id": 59,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606275/wall_pix_9_16_light_71_azffrb.jpg",
+      "category": "light",
+      "description": "An interior space with light wooden floors, large windows, and potted plants, with a mirror reflecting the scene.",
+      "tags": [
+        "interior",
+        "plants",
+        "mirror",
+        "windows",
+        "light"
+      ]
+    },
+    {
+      "id": 60,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606274/wall_pix_9_16_light_70_wmhfdx.jpg",
+      "category": "light",
+      "description": "A chair sits on a rug next to a table with a vase, with sunlight streaming through a window.",
+      "tags": [
+        "chair",
+        "vase",
+        "rug",
+        "sunlight",
+        "interior"
+      ]
+    },
+    {
+      "id": 61,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606270/wall_pix_9_16_light_7_mx9k3v.jpg",
+      "category": "light",
+      "description": "Bright sunroom with wicker furniture, white cushions, blankets, and plants, illuminated by natural light from windows and skylights.",
+      "tags": [
+        "sunroom",
+        "wicker",
+        "furniture",
+        "bright",
+        "interior"
+      ]
+    },
+    {
+      "id": 62,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606269/wall_pix_9_16_light_69_wxrd50.jpg",
+      "category": "light",
+      "description": "A bedroom scene features a bed with white linens, a gray knit blanket, a wooden nightstand, and a black lamp against a teal wall.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "lamp",
+        "nightstand",
+        "curtains"
+      ]
+    },
+    {
+      "id": 63,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606267/wall_pix_9_16_light_67_nawizh.jpg",
+      "category": "light",
+      "description": "A bright workspace with a wooden desk, chair, lamp, and books, set against a backdrop of large windows overlooking greenery.",
+      "tags": [
+        "workspace",
+        "natural light",
+        "desk",
+        "chair",
+        "minimal"
+      ]
+    },
+    {
+      "id": 64,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606267/wall_pix_9_16_light_68_pknzrf.jpg",
+      "category": "light",
+      "description": "A bright living room features a modular sofa, round coffee tables, and modern lighting fixtures.",
+      "tags": [
+        "living room",
+        "modern",
+        "lighting",
+        "sofa",
+        "interior"
+      ]
+    },
+    {
+      "id": 65,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606262/wall_pix_9_16_light_66_sffran.jpg",
+      "category": "light",
+      "description": "An all-white room features a round table with flowers, a curved bench with pillows, and arched windows framed by climbing roses.",
+      "tags": [
+        "white room",
+        "arched windows",
+        "flower arrangement",
+        "climbing roses",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 66,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606261/wall_pix_9_16_light_65_uzjsf9.jpg",
+      "category": "light",
+      "description": "A bright room features a beige sofa, three pendant lights, and a window with sunlight casting shadows on the wall.",
+      "tags": [
+        "living room",
+        "pendant lights",
+        "beige sofa",
+        "window light",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 67,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606258/wall_pix_9_16_light_64_b7uzk6.jpg",
+      "category": "light",
+      "description": "A bright room with light wood floors and white walls is illuminated by sunlight streaming in from a window.",
+      "tags": [
+        "bright",
+        "room",
+        "wood floor",
+        "white walls",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 68,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606256/wall_pix_9_16_light_63_t9ewar.jpg",
+      "category": "light",
+      "description": "A bright living room features a beige sofa, wooden table, and a view of a green backyard through sliding glass doors.",
+      "tags": [
+        "living room",
+        "beige",
+        "modern",
+        "backyard",
+        "interior"
+      ]
+    },
+    {
+      "id": 69,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606256/wall_pix_9_16_light_62_pf5ytr.jpg",
+      "category": "light",
+      "description": "A hallway with herringbone wood floors, a gold console table with a vase, and three pendant lights.",
+      "tags": [
+        "hallway",
+        "interior",
+        "herringbone",
+        "lighting",
+        "modern"
+      ]
+    },
+    {
+      "id": 70,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606253/wall_pix_9_16_light_61_ie7erg.jpg",
+      "category": "light",
+      "description": "A bright living room with a white couch, ottoman, plants, and a woven light fixture, illuminated by sunlight through a window.",
+      "tags": [
+        "living room",
+        "interior",
+        "plants",
+        "sunlight",
+        "beige"
+      ]
+    },
+    {
+      "id": 71,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606251/wall_pix_9_16_light_60_rj6wsf.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with a white textured blanket, two windows with plants, and botanical prints on a gray wall.",
+      "tags": [
+        "bedroom",
+        "plants",
+        "natural light",
+        "bed",
+        "botanical"
+      ]
+    },
+    {
+      "id": 72,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606249/wall_pix_9_16_light_6_aj80dj.jpg",
+      "category": "light",
+      "description": "A bright, minimalist apartment features a kitchen, dining area, and living room with neutral tones and natural light.",
+      "tags": [
+        "apartment",
+        "minimalist",
+        "interior",
+        "neutral tones",
+        "natural light"
+      ]
+    },
+    {
+      "id": 73,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606247/wall_pix_9_16_light_38_cfzn36.jpg",
+      "category": "light",
+      "description": "A dining room setting with a light wood table, two blue chairs, and a framed abstract painting on a light green wall.",
+      "tags": [
+        "dining room",
+        "modern",
+        "table",
+        "chairs",
+        "artwork"
+      ]
+    },
+    {
+      "id": 74,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606246/wall_pix_9_16_light_352_w02qrh.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sofa, round wooden table with vases, and a potted tree.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "round table",
+        "vases",
+        "potted tree"
+      ]
+    },
+    {
+      "id": 75,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606246/wall_pix_9_16_light_36_iyhdo4.jpg",
+      "category": "light",
+      "description": "A chunky knit blanket is draped over a gray sofa next to a side table with a candle and vase.",
+      "tags": [
+        "blanket",
+        "sofa",
+        "candle",
+        "vase",
+        "minimal"
+      ]
+    },
+    {
+      "id": 76,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606246/wall_pix_9_16_light_59_ollhtl.jpg",
+      "category": "light",
+      "description": "A cozy living room featuring a white sofa with orange pillows, a dark coffee table, and abstract art on the wall.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "orange pillows",
+        "abstract art",
+        "modern interior"
+      ]
+    },
+    {
+      "id": 77,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606245/wall_pix_9_16_light_37_nqjzuk.jpg",
+      "category": "light",
+      "description": "A light green home office space with a built-in desk, shelves, a laptop, a lamp, and a chair.",
+      "tags": [
+        "home office",
+        "desk",
+        "shelves",
+        "chair",
+        "interior"
+      ]
+    },
+    {
+      "id": 78,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606244/wall_pix_9_16_light_57_hzfkgf.jpg",
+      "category": "light",
+      "description": "A gray couch is draped with a chunky knit blanket, with a side table holding a candle and vase of dried flowers.",
+      "tags": [
+        "couch",
+        "blanket",
+        "candle",
+        "flowers",
+        "indoor"
+      ]
+    },
+    {
+      "id": 79,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606243/wall_pix_9_16_light_58_vabdb4.jpg",
+      "category": "light",
+      "description": "A bright room features a light-colored chair, a potted plant, a cabinet, and an ottoman bathed in sunlight.",
+      "tags": [
+        "bright room",
+        "chair",
+        "plant",
+        "cabinet",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 80,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606243/wall_pix_9_16_light_330_oxo4w6.jpg",
+      "category": "light",
+      "description": "Close-up of overlapping, light pink leaves with visible veins and soft shadows.",
+      "tags": [
+        "leaves",
+        "pink",
+        "soft light",
+        "abstract",
+        "veins"
+      ]
+    },
+    {
+      "id": 81,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606243/wall_pix_9_16_light_56_fb4qsk.jpg",
+      "category": "light",
+      "description": "A bright living room features a sectional sofa, large windows, and various plants.",
+      "tags": [
+        "living room",
+        "sectional",
+        "plants",
+        "natural light",
+        "neutral"
+      ]
+    },
+    {
+      "id": 82,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606242/wall_pix_9_16_light_333_yqyalx.jpg",
+      "category": "light",
+      "description": "Bright living room with white walls, light wood floors, neutral curtains, and a white sofa with a bouquet of pink flowers on the coffee table.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "flower bouquet",
+        "neutral tones",
+        "natural light"
+      ]
+    },
+    {
+      "id": 83,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606242/wall_pix_9_16_light_332_iwta61.jpg",
+      "category": "light",
+      "description": "A modern house with wooden siding and large windows is surrounded by lush green plants and trees.",
+      "tags": [
+        "modern house",
+        "wood siding",
+        "large windows",
+        "green plants",
+        "lush"
+      ]
+    },
+    {
+      "id": 84,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606241/wall_pix_9_16_light_331_pf3qab.jpg",
+      "category": "light",
+      "description": "A vase with branches sits on a wooden floor near a window with light filtering through curtains.",
+      "tags": [
+        "vase",
+        "branches",
+        "curtains",
+        "window",
+        "interior"
+      ]
+    },
+    {
+      "id": 85,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606239/wall_pix_9_16_light_33_mxsbta.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sofa, a round jute rug, a wooden coffee table, and several potted plants.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "jute rug",
+        "houseplant",
+        "beige"
+      ]
+    },
+    {
+      "id": 86,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606239/wall_pix_9_16_light_314_afr47y.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with white bedding, gray walls, two windows with gray curtains, and hanging plants.",
+      "tags": [
+        "bedroom",
+        "white bedding",
+        "gray walls",
+        "hanging plants",
+        "natural light"
+      ]
+    },
+    {
+      "id": 87,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606238/wall_pix_9_16_light_329_pisu0i.jpg",
+      "category": "light",
+      "description": "A bright living room features three gray sofas with green pillows, a jute rug, and a large window.",
+      "tags": [
+        "living room",
+        "gray sofa",
+        "jute rug",
+        "natural light",
+        "interior"
+      ]
+    },
+    {
+      "id": 88,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606238/wall_pix_9_16_light_328_duxtvx.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with floral quilt, pillows, and vases of tulips and flowering branches near a large window.",
+      "tags": [
+        "bedroom",
+        "floral",
+        "quilt",
+        "tulips",
+        "window"
+      ]
+    },
+    {
+      "id": 89,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606237/wall_pix_9_16_light_326_zhyj1l.jpg",
+      "category": "light",
+      "description": "A bright room features two potted plants near a window and a mirror reflecting one of the plants.",
+      "tags": [
+        "indoor",
+        "plants",
+        "window",
+        "mirror",
+        "minimal"
+      ]
+    },
+    {
+      "id": 90,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606237/wall_pix_9_16_light_320_dvk8of.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with a floral quilt, pillows, and vases of tulips and flowering branches.",
+      "tags": [
+        "bedroom",
+        "floral",
+        "quilt",
+        "tulips",
+        "windows"
+      ]
+    },
+    {
+      "id": 91,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606237/wall_pix_9_16_light_319_ybvgvf.jpg",
+      "category": "light",
+      "description": "A bright, modern living space with a large sofa, kitchen island, and floor-to-ceiling windows.",
+      "tags": [
+        "modern",
+        "interior",
+        "bright",
+        "minimalist",
+        "living room"
+      ]
+    },
+    {
+      "id": 92,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606236/wall_pix_9_16_light_324_cidqjc.jpg",
+      "category": "light",
+      "description": "A modern living room features a Christmas tree with presents, a gray sectional sofa, and large windows.",
+      "tags": [
+        "living room",
+        "christmas tree",
+        "modern",
+        "interior",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 93,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606235/wall_pix_9_16_light_323_totpub.jpg",
+      "category": "light",
+      "description": "A modern living room with neutral tones, featuring large windows, a sofa, armchairs, and a coffee table with decorative items.",
+      "tags": [
+        "living room",
+        "modern",
+        "neutral tones",
+        "interior",
+        "furniture"
+      ]
+    },
+    {
+      "id": 94,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606235/wall_pix_9_16_light_322_nhd7rd.jpg",
+      "category": "light",
+      "description": "A modern living room with neutral tones, large windows, and minimalist decor, showcasing a serene and elegant interior design.",
+      "tags": [
+        "living room",
+        "modern",
+        "interior",
+        "neutral",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 95,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606234/wall_pix_9_16_light_316_emneks.jpg",
+      "category": "light",
+      "description": "A young girl in a blue dress stands on a stone path in front of a modern building surrounded by trees.",
+      "tags": [
+        "girl",
+        "path",
+        "modern",
+        "trees",
+        "exterior"
+      ]
+    },
+    {
+      "id": 96,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606233/wall_pix_9_16_light_318_mqs5hd.jpg",
+      "category": "light",
+      "description": "A white vase with bare branches sits on a floor in front of beige curtains and a window.",
+      "tags": [
+        "vase",
+        "branches",
+        "curtains",
+        "window",
+        "interior"
+      ]
+    },
+    {
+      "id": 97,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606232/wall_pix_9_16_light_317_klnu7c.jpg",
+      "category": "light",
+      "description": "A living room scene features a neutral-toned sofa with pillows, a coffee table with books, and a potted plant, all bathed in soft light.",
+      "tags": [
+        "living room",
+        "beige",
+        "furniture",
+        "plant",
+        "interior"
+      ]
+    },
+    {
+      "id": 98,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606231/wall_pix_9_16_light_313_xcgyd2.jpg",
+      "category": "light",
+      "description": "A living room with a large window overlooking the ocean, featuring a couch, pillows, and a wooden coffee table.",
+      "tags": [
+        "living room",
+        "ocean view",
+        "large windows",
+        "couch",
+        "interior"
+      ]
+    },
+    {
+      "id": 99,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606229/wall_pix_9_16_light_54_nujdm1.jpg",
+      "category": "light",
+      "description": "A sunlit living room features a modular sofa, ottoman, round table, and potted plants, casting shadows on the wall.",
+      "tags": [
+        "living room",
+        "interior",
+        "daylight",
+        "furniture",
+        "plants"
+      ]
+    },
+    {
+      "id": 100,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606229/wall_pix_9_16_light_315_zl6gup.jpg",
+      "category": "light",
+      "description": "A close-up of large, light-colored leaves with prominent veins, bathed in soft, diffused light.",
+      "tags": [
+        "leaves",
+        "botanical",
+        "neutral",
+        "soft light",
+        "close-up"
+      ]
+    },
+    {
+      "id": 101,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606229/wall_pix_9_16_light_312_itj6qg.jpg",
+      "category": "light",
+      "description": "A modern white house with a pool reflecting the building's lights and the sky.",
+      "tags": [
+        "modern",
+        "house",
+        "pool",
+        "reflection",
+        "exterior"
+      ]
+    },
+    {
+      "id": 102,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606228/wall_pix_9_16_light_51_fz8wvt.jpg",
+      "category": "light",
+      "description": "A woman sits on a bed in a sunlit room with plants near a window.",
+      "tags": [
+        "bedroom",
+        "woman",
+        "plants",
+        "window",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 103,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606227/wall_pix_9_16_light_55_qfveje.jpg",
+      "category": "light",
+      "description": "A bedroom with a bed, a window with curtains, and a fluffy rug is bathed in sunlight.",
+      "tags": [
+        "bedroom",
+        "sunlight",
+        "bed",
+        "curtains",
+        "rug"
+      ]
+    },
+    {
+      "id": 104,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606226/wall_pix_9_16_light_53_lmlnq4.jpg",
+      "category": "light",
+      "description": "Sunlight streams through an open glass door with curtains in a bedroom, illuminating the bed and rug.",
+      "tags": [
+        "bedroom",
+        "sunlight",
+        "open door",
+        "curtains",
+        "warm light"
+      ]
+    },
+    {
+      "id": 105,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606225/wall_pix_9_16_light_52_txlvjv.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with white linens and a plant near a large window.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "plant",
+        "window",
+        "minimal"
+      ]
+    },
+    {
+      "id": 106,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606224/wall_pix_9_16_light_50_cd2vqv.jpg",
+      "category": "light",
+      "description": "Living room with a white sofa, jute rug, and a coffee table with a vase of pink flowers.",
+      "tags": [
+        "living room",
+        "interior",
+        "flowers",
+        "jute rug",
+        "natural light"
+      ]
+    },
+    {
+      "id": 107,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606224/wall_pix_9_16_light_49_imajof.jpg",
+      "category": "light",
+      "description": "A patio with outdoor furniture is illuminated by warm and cool lighting at dusk.",
+      "tags": [
+        "patio",
+        "furniture",
+        "lighting",
+        "outdoor",
+        "dusk"
+      ]
+    },
+    {
+      "id": 108,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606223/wall_pix_9_16_light_5_wyvwpx.jpg",
+      "category": "light",
+      "description": "A bright, plant-filled workspace features a white desk with a laptop and lamps, complemented by a woven chair.",
+      "tags": [
+        "workspace",
+        "plants",
+        "desk",
+        "chair",
+        "laptop"
+      ]
+    },
+    {
+      "id": 109,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606222/wall_pix_9_16_light_48_npdxno.jpg",
+      "category": "light",
+      "description": "A bathroom features a marble countertop sink, a towel hanging near a window, and a mirror reflecting an orange doorway.",
+      "tags": [
+        "bathroom",
+        "marble",
+        "sink",
+        "towel",
+        "window"
+      ]
+    },
+    {
+      "id": 110,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606222/wall_pix_9_16_light_43_aly7qk.jpg",
+      "category": "light",
+      "description": "A bright living room features a striped sofa with pillows, a round wicker table, and a framed blank canvas on the wall.",
+      "tags": [
+        "living room",
+        "sofa",
+        "wicker",
+        "neutral",
+        "minimal"
+      ]
+    },
+    {
+      "id": 111,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606222/wall_pix_9_16_light_47_mvkz5h.jpg",
+      "category": "light",
+      "description": "A dining table is set with a floral arrangement, candles, and chairs in a warmly lit room.",
+      "tags": [
+        "dining table",
+        "flowers",
+        "candles",
+        "warm light",
+        "interior"
+      ]
+    },
+    {
+      "id": 112,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606222/wall_pix_9_16_light_45_ak2vv1.jpg",
+      "category": "light",
+      "description": "A bright living room features neutral sofas, wooden tables, a textured rug, and various potted plants.",
+      "tags": [
+        "living room",
+        "modern",
+        "neutral",
+        "plants",
+        "interior"
+      ]
+    },
+    {
+      "id": 113,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606219/wall_pix_9_16_light_46_f5kxmj.jpg",
+      "category": "light",
+      "description": "A cozy interior scene with a bed, pillows, candles on a wooden table, and shadows of leaves on the wall.",
+      "tags": [
+        "interior",
+        "candles",
+        "shadows",
+        "pillows",
+        "beige"
+      ]
+    },
+    {
+      "id": 114,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606218/wall_pix_9_16_light_44_ixkoyi.jpg",
+      "category": "light",
+      "description": "A modern interior scene features a white armchair, a black side table with books, and a vase of flowers by a window.",
+      "tags": [
+        "armchair",
+        "interior",
+        "modern",
+        "flowers",
+        "window"
+      ]
+    },
+    {
+      "id": 115,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606218/wall_pix_9_16_light_42_odh38r.jpg",
+      "category": "light",
+      "description": "A bright bathroom features a toilet, vanity, and green tiled walls with a window and potted plants.",
+      "tags": [
+        "bathroom",
+        "toilet",
+        "tiles",
+        "plants",
+        "window"
+      ]
+    },
+    {
+      "id": 116,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606217/wall_pix_9_16_light_41_gqgbfm.jpg",
+      "category": "light",
+      "description": "A bright living room features a beige sectional sofa with decorative pillows, a round wooden coffee table, and a patterned rug.",
+      "tags": [
+        "living room",
+        "sectional sofa",
+        "round table",
+        "neutral tones",
+        "cozy"
+      ]
+    },
+    {
+      "id": 117,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606216/wall_pix_9_16_light_4_qmamwf.jpg",
+      "category": "light",
+      "description": "A neutral-toned living room features a plush sofa, ottoman with a vase of flowers, and a large window with curtains.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "modern",
+        "window light",
+        "furniture"
+      ]
+    },
+    {
+      "id": 118,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606214/wall_pix_9_16_light_40_sqwmzy.jpg",
+      "category": "light",
+      "description": "A living room features a sofa, armchair, coffee table, and large windows with a view of trees.",
+      "tags": [
+        "living room",
+        "interior",
+        "minimalist",
+        "neutral",
+        "daylight"
+      ]
+    },
+    {
+      "id": 119,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606212/wall_pix_9_16_light_350_ohhjlz.jpg",
+      "category": "light",
+      "description": "A woman in a white dress stands by a sofa in a modern living room with large windows.",
+      "tags": [
+        "living room",
+        "modern",
+        "sofa",
+        "woman",
+        "interior"
+      ]
+    },
+    {
+      "id": 120,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606208/wall_pix_9_16_light_35_bojssn.jpg",
+      "category": "light",
+      "description": "A view of wooden stairs leading up to a bright living room with a sofa and plants.",
+      "tags": [
+        "stairs",
+        "living room",
+        "interior",
+        "plants",
+        "modern"
+      ]
+    },
+    {
+      "id": 121,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606208/wall_pix_9_16_light_343_dvib1b.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with peach linens and a blue throw, with natural light streaming through a window.",
+      "tags": [
+        "bedroom",
+        "peach",
+        "blue",
+        "natural light",
+        "minimal"
+      ]
+    },
+    {
+      "id": 122,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606207/wall_pix_9_16_light_349_icgdwc.jpg",
+      "category": "light",
+      "description": "A modern, minimalist kitchen with white cabinets, a central island, and large windows overlooking the ocean.",
+      "tags": [
+        "kitchen",
+        "modern",
+        "minimalist",
+        "ocean view",
+        "interior"
+      ]
+    },
+    {
+      "id": 123,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606205/wall_pix_9_16_light_346_vm6efx.jpg",
+      "category": "light",
+      "description": "A bright sunroom features a wooden desk with a lamp, books, and an open notebook, accompanied by a wicker chair.",
+      "tags": [
+        "sunroom",
+        "desk",
+        "lamp",
+        "wicker chair",
+        "natural light"
+      ]
+    },
+    {
+      "id": 124,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606205/wall_pix_9_16_light_348_lok7l6.jpg",
+      "category": "light",
+      "description": "Interior view with a round window overlooking the ocean and sheer curtains blowing in the breeze.",
+      "tags": [
+        "window",
+        "curtains",
+        "ocean view",
+        "minimal",
+        "warm light"
+      ]
+    },
+    {
+      "id": 125,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606204/wall_pix_9_16_light_344_vhh34t.jpg",
+      "category": "light",
+      "description": "A well-lit kitchen features white cabinets, a wooden countertop, and a window overlooking a mountain landscape.",
+      "tags": [
+        "kitchen",
+        "cabinets",
+        "window view",
+        "wood countertop",
+        "interior"
+      ]
+    },
+    {
+      "id": 126,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606203/wall_pix_9_16_light_345_xurbex.jpg",
+      "category": "light",
+      "description": "A modern living room with cream sofas and a view of the ocean through large windows.",
+      "tags": [
+        "living room",
+        "modern",
+        "ocean view",
+        "cream sofa",
+        "interior"
+      ]
+    },
+    {
+      "id": 127,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606202/wall_pix_9_16_light_342_a4ovxi.jpg",
+      "category": "light",
+      "description": "A modern bathroom shower area with white tiles, gold fixtures, and a plant.",
+      "tags": [
+        "bathroom",
+        "shower",
+        "tiles",
+        "gold",
+        "plant"
+      ]
+    },
+    {
+      "id": 128,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606202/wall_pix_9_16_light_341_xyyvo8.jpg",
+      "category": "light",
+      "description": "An interior view of a living room with a sofa, wooden cabinets, a window to a garden, and a skylight.",
+      "tags": [
+        "living room",
+        "interior",
+        "modern",
+        "minimalist",
+        "daylight"
+      ]
+    },
+    {
+      "id": 129,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606198/wall_pix_9_16_light_309_ngxvo0.jpg",
+      "category": "light",
+      "description": "A living room with a gray sofa, pink and green curtains, and monstera plants.",
+      "tags": [
+        "living room",
+        "sofa",
+        "monstera",
+        "curtains",
+        "plants"
+      ]
+    },
+    {
+      "id": 130,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606197/wall_pix_9_16_light_340_pthcmb.jpg",
+      "category": "light",
+      "description": "A living room features a teal sectional sofa with patterned pillows, a geometric rug, and neutral walls with decorative molding.",
+      "tags": [
+        "living room",
+        "teal sofa",
+        "geometric rug",
+        "modern",
+        "interior"
+      ]
+    },
+    {
+      "id": 131,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606195/wall_pix_9_16_light_339_mdppgd.jpg",
+      "category": "light",
+      "description": "A bright living room features a gray sofa with pastel pillows, colorful curtains, and monstera plant decorations.",
+      "tags": [
+        "living room",
+        "pastel",
+        "monstera",
+        "curtains",
+        "indoor"
+      ]
+    },
+    {
+      "id": 132,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606195/wall_pix_9_16_light_34_n9c2h4.jpg",
+      "category": "light",
+      "description": "A bright living room features a beige sectional sofa with throw blankets, a round wooden coffee table, and a large window with sheer curtains.",
+      "tags": [
+        "living room",
+        "beige sofa",
+        "throw blanket",
+        "round table",
+        "sheer curtains"
+      ]
+    },
+    {
+      "id": 133,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606195/wall_pix_9_16_light_338_ljua3z.jpg",
+      "category": "light",
+      "description": "A bright living room features a large sectional sofa, a clear coffee table with books, and light wood floors.",
+      "tags": [
+        "living room",
+        "sectional sofa",
+        "clear table",
+        "books",
+        "bright"
+      ]
+    },
+    {
+      "id": 134,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606194/wall_pix_9_16_light_336_vyurd9.jpg",
+      "category": "light",
+      "description": "Bright living room featuring a white sofa with pillows, a wooden coffee table, and a blue striped rug.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "natural light",
+        "striped rug",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 135,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606192/wall_pix_9_16_light_337_up5ual.jpg",
+      "category": "light",
+      "description": "Sunlight streams through tall trees in a forest, illuminating a path on the ground.",
+      "tags": [
+        "forest",
+        "sunlight",
+        "trees",
+        "path",
+        "nature"
+      ]
+    },
+    {
+      "id": 136,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606191/wall_pix_9_16_light_335_l7bnjc.jpg",
+      "category": "light",
+      "description": "A modern bedroom features a bed with a rounded headboard, pendant lights, a nightstand, and a potted olive tree.",
+      "tags": [
+        "bedroom",
+        "modern",
+        "minimalist",
+        "neutral tones",
+        "interior"
+      ]
+    },
+    {
+      "id": 137,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606191/wall_pix_9_16_light_327_hydl2p.jpg",
+      "category": "light",
+      "description": "A window with sheer white curtains and heavier beige drapes pulled back with fabric ties, next to a wooden side table and sofa.",
+      "tags": [
+        "window",
+        "curtains",
+        "beige",
+        "sheer",
+        "interior"
+      ]
+    },
+    {
+      "id": 138,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606188/wall_pix_9_16_light_334_lyjmu8.jpg",
+      "category": "light",
+      "description": "A modern kitchen features light wood cabinets, a marble island, and two upholstered bar stools.",
+      "tags": [
+        "kitchen",
+        "modern",
+        "island",
+        "marble",
+        "stools"
+      ]
+    },
+    {
+      "id": 139,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606187/wall_pix_9_16_light_39_odngqy.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with peach linens and a blue throw, with peach curtains and a matching light fixture.",
+      "tags": [
+        "bedroom",
+        "peach",
+        "blue",
+        "curtains",
+        "bed"
+      ]
+    },
+    {
+      "id": 140,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606185/wall_pix_9_16_light_325_tsl2hr.jpg",
+      "category": "light",
+      "description": "A hallway features a herringbone wood floor, a floating shelf with a vase, a round mirror, and three pendant lights.",
+      "tags": [
+        "hallway",
+        "interior",
+        "lighting",
+        "minimal",
+        "wood floor"
+      ]
+    },
+    {
+      "id": 141,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606185/wall_pix_9_16_light_311_bbv8sp.jpg",
+      "category": "light",
+      "description": "The image shows a bright, modern kitchen with an island, dining table, and a view of the ocean and pool.",
+      "tags": [
+        "kitchen",
+        "modern",
+        "island",
+        "ocean view",
+        "dining table"
+      ]
+    },
+    {
+      "id": 142,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606184/wall_pix_9_16_light_310_mn5z3i.jpg",
+      "category": "light",
+      "description": "A bright living room features a white couch with pillows, a woven coffee table, and a blank framed picture hanging on the wall.",
+      "tags": [
+        "living room",
+        "white couch",
+        "woven table",
+        "minimalist",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 143,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606176/wall_pix_9_16_light_351_oq55bc.jpg",
+      "category": "light",
+      "description": "A bright, white room features a round table, built-in seating, arched windows, and floral arrangements.",
+      "tags": [
+        "white room",
+        "floral",
+        "arched windows",
+        "minimalist",
+        "bright"
+      ]
+    },
+    {
+      "id": 144,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606170/wall_pix_9_16_light_321_gsz93i.jpg",
+      "category": "light",
+      "description": "A cozy living room setup with a beige couch, a glass-top coffee table, and a woven rug.",
+      "tags": [
+        "living room",
+        "beige",
+        "couch",
+        "indoor",
+        "plant"
+      ]
+    },
+    {
+      "id": 145,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606167/wall_pix_9_16_light_305_xir2ak.jpg",
+      "category": "light",
+      "description": "A modern living room features a gray sofa with green accents, a knitted pouf, and botanical wall art.",
+      "tags": [
+        "living room",
+        "modern",
+        "gray sofa",
+        "green",
+        "botanical art"
+      ]
+    },
+    {
+      "id": 146,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606167/wall_pix_9_16_light_307_s53fnv.jpg",
+      "category": "light",
+      "description": "Bright living room with a white sofa, wooden coffee table, plants, and large windows with curtains.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "plants",
+        "wood table",
+        "modern"
+      ]
+    },
+    {
+      "id": 147,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606165/wall_pix_9_16_light_347_lyqhtc.jpg",
+      "category": "light",
+      "description": "A modern house with stone walls and large windows is surrounded by trees and a green lawn.",
+      "tags": [
+        "modern house",
+        "stone wall",
+        "large windows",
+        "green lawn",
+        "trees"
+      ]
+    },
+    {
+      "id": 148,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606155/wall_pix_9_16_light_301_mquqyq.jpg",
+      "category": "light",
+      "description": "A bright living room features a sofa, a wooden coffee table with books and decorative items, and a large window with a view of greenery.",
+      "tags": [
+        "living room",
+        "sofa",
+        "coffee table",
+        "natural light",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 149,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606152/wall_pix_9_16_light_32_v4bjjg.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sofa with pillows, a light wood coffee table, and a striped rug.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "wood table",
+        "striped rug",
+        "natural light"
+      ]
+    },
+    {
+      "id": 150,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606088/wall_pix_9_16_light_311_fyega6.jpg",
+      "category": "light",
+      "description": "A bright, modern kitchen with a large island, dining table, and a view of the ocean and swimming pool.",
+      "tags": [
+        "kitchen",
+        "modern",
+        "island",
+        "ocean view",
+        "dining table"
+      ]
+    },
+    {
+      "id": 151,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606086/wall_pix_9_16_light_31_cjjvu7.jpg",
+      "category": "light",
+      "description": "A bedroom featuring a bed with a gray blanket, pillows, a bedside table, and curtains.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "curtains",
+        "lamp",
+        "gray"
+      ]
+    },
+    {
+      "id": 152,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606080/wall_pix_9_16_light_308_lki4rc.jpg",
+      "category": "light",
+      "description": "A bright living room features a wooden coffee table, blue sofa, and open doors to a balcony with tropical views.",
+      "tags": [
+        "living room",
+        "interior",
+        "balcony",
+        "tropical",
+        "furniture"
+      ]
+    },
+    {
+      "id": 153,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606077/wall_pix_9_16_light_306_citaab.jpg",
+      "category": "light",
+      "description": "A bright, modern interior with a white sofa, light wood floors, and a view through a hallway to a window.",
+      "tags": [
+        "interior",
+        "modern",
+        "bright",
+        "living room",
+        "minimal"
+      ]
+    },
+    {
+      "id": 154,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606073/wall_pix_9_16_light_304_ihhd2q.jpg",
+      "category": "light",
+      "description": "A cream-colored armchair sits in front of a window with light curtains in an arched doorway.",
+      "tags": [
+        "armchair",
+        "curtains",
+        "window",
+        "interior",
+        "neutral"
+      ]
+    },
+    {
+      "id": 155,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606070/wall_pix_9_16_light_302_rfgpqz.jpg",
+      "category": "light",
+      "description": "A cozy living room scene with a sofa, armchair, coffee table, and a potted plant, bathed in warm sunlight.",
+      "tags": [
+        "living room",
+        "interior",
+        "furniture",
+        "plant",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 156,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606069/wall_pix_9_16_light_300_yvqail.jpg",
+      "category": "light",
+      "description": "Bright living room with white furniture, a wooden coffee table, and a large window overlooking greenery.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "wood table",
+        "large window",
+        "indoor plants"
+      ]
+    },
+    {
+      "id": 157,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606063/wall_pix_9_16_light_30_sjk52f.jpg",
+      "category": "light",
+      "description": "A bright, airy living room features a white sofa, woven rug, and natural light streaming through a window.",
+      "tags": [
+        "living room",
+        "natural light",
+        "white sofa",
+        "woven rug",
+        "beige"
+      ]
+    },
+    {
+      "id": 158,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606061/wall_pix_9_16_light_299_gd3sw7.jpg",
+      "category": "light",
+      "description": "A bright, modern living space features a light gray sofa with large pillows and a view into a white kitchen area.",
+      "tags": [
+        "living room",
+        "modern",
+        "sofa",
+        "white",
+        "interior"
+      ]
+    },
+    {
+      "id": 159,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606060/wall_pix_9_16_light_3_xmmsta.jpg",
+      "category": "light",
+      "description": "A bright living room features a white leather sofa and armchair, a glass coffee table, and large windows.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "armchair",
+        "bright",
+        "interior"
+      ]
+    },
+    {
+      "id": 160,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606058/wall_pix_9_16_light_298_bdgtyj.jpg",
+      "category": "light",
+      "description": "A bright, modern living space with sofas, a wooden slat wall, and a dining area visible in the background.",
+      "tags": [
+        "living room",
+        "modern",
+        "interior",
+        "wood",
+        "lighting"
+      ]
+    },
+    {
+      "id": 161,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606055/wall_pix_9_16_light_297_vsld6o.jpg",
+      "category": "light",
+      "description": "A living room scene features a neutral-toned sofa with pillows, a wooden coffee table, and a large window overlooking lush greenery.",
+      "tags": [
+        "living room",
+        "sofa",
+        "window view",
+        "natural light",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 162,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606052/wall_pix_9_16_light_296_d53qqk.jpg",
+      "category": "light",
+      "description": "A modern house with stone and wood accents is illuminated at dusk, with a car parked in the garage.",
+      "tags": [
+        "modern house",
+        "architecture",
+        "exterior",
+        "wood",
+        "stone"
+      ]
+    },
+    {
+      "id": 163,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606052/wall_pix_9_16_light_294_siy48g.jpg",
+      "category": "light",
+      "description": "A bright living room with sunlight streaming through a window with sheer curtains, illuminating the chairs and rug.",
+      "tags": [
+        "living room",
+        "window",
+        "curtains",
+        "armchairs",
+        "daylight"
+      ]
+    },
+    {
+      "id": 164,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606051/wall_pix_9_16_light_295_mdioas.jpg",
+      "category": "light",
+      "description": "A bedroom scene with a bed partially visible, featuring a window covered by a white curtain with leaf shadows.",
+      "tags": [
+        "bedroom",
+        "curtain",
+        "shadows",
+        "window",
+        "daylight"
+      ]
+    },
+    {
+      "id": 165,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606046/wall_pix_9_16_light_293_ijlebk.jpg",
+      "category": "light",
+      "description": "A bright living room features a gray sectional sofa with pillows and a large window.",
+      "tags": [
+        "living room",
+        "sectional sofa",
+        "wood frame",
+        "white walls",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 166,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606045/wall_pix_9_16_light_292_cqgw9e.jpg",
+      "category": "light",
+      "description": "A view of a blue sky framed by fluffy, pink-tinged clouds.",
+      "tags": [
+        "clouds",
+        "sky",
+        "fluffy",
+        "pink",
+        "daytime"
+      ]
+    },
+    {
+      "id": 167,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606044/wall_pix_9_16_light_291_mg1grl.jpg",
+      "category": "light",
+      "description": "A bright bedroom features a bed with white linens, a round mirror, and a window with white curtains.",
+      "tags": [
+        "bedroom",
+        "white",
+        "minimal",
+        "bed",
+        "window"
+      ]
+    },
+    {
+      "id": 168,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606042/wall_pix_9_16_light_29_d3pxrg.jpg",
+      "category": "light",
+      "description": "A bright kitchen features white cabinets, granite countertops, and a vase of sunflowers near a stainless steel stove.",
+      "tags": [
+        "kitchen",
+        "sunflowers",
+        "cabinets",
+        "granite",
+        "bright"
+      ]
+    },
+    {
+      "id": 169,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606040/wall_pix_9_16_light_290_i9nixp.jpg",
+      "category": "light",
+      "description": "An empty room with light wood floors and white walls, with sunlight streaming in.",
+      "tags": [
+        "empty room",
+        "wood floor",
+        "white walls",
+        "sunlight",
+        "minimal"
+      ]
+    },
+    {
+      "id": 170,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606038/wall_pix_9_16_light_289_khguuo.jpg",
+      "category": "light",
+      "description": "A bright, modern living room with a marble coffee table, large windows, and neutral tones.",
+      "tags": [
+        "living room",
+        "modern",
+        "marble table",
+        "neutral tones",
+        "indoor plant"
+      ]
+    },
+    {
+      "id": 171,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606034/wall_pix_9_16_light_288_ybro5e.jpg",
+      "category": "light",
+      "description": "A modern kitchen features light beige cabinets, a central island with a sink, and neutral-toned curtains.",
+      "tags": [
+        "kitchen",
+        "modern",
+        "beige",
+        "island",
+        "sink"
+      ]
+    },
+    {
+      "id": 172,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606032/wall_pix_9_16_light_287_hroetu.jpg",
+      "category": "light",
+      "description": "A modern kitchen features gray cabinets, white countertops, and stainless steel appliances.",
+      "tags": [
+        "kitchen",
+        "gray cabinets",
+        "modern",
+        "countertop",
+        "appliances"
+      ]
+    },
+    {
+      "id": 173,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606031/wall_pix_9_16_light_286_lqbnry.jpg",
+      "category": "light",
+      "description": "A bedroom features a tufted headboard, a botanical print, and a crystal chandelier.",
+      "tags": [
+        "bedroom",
+        "chandelier",
+        "bed",
+        "botanical",
+        "neutral"
+      ]
+    },
+    {
+      "id": 174,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606029/wall_pix_9_16_light_285_oxe7dv.jpg",
+      "category": "light",
+      "description": "A bright, airy living room features a woven coffee table, white sofa, and an open kitchen in the background.",
+      "tags": [
+        "living room",
+        "white",
+        "minimalist",
+        "interior",
+        "neutral"
+      ]
+    },
+    {
+      "id": 175,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606027/wall_pix_9_16_light_284_wqbj7p.jpg",
+      "category": "light",
+      "description": "A living room scene features a white sofa with patterned pillows, a dark wood coffee table, and a framed art piece on the wall.",
+      "tags": [
+        "living room",
+        "modern",
+        "sofa",
+        "pillows",
+        "art"
+      ]
+    },
+    {
+      "id": 176,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606025/wall_pix_9_16_light_283_irwer0.jpg",
+      "category": "light",
+      "description": "A bright living room features a large sectional sofa, a glass coffee table with books, and natural light from multiple windows.",
+      "tags": [
+        "living room",
+        "sectional sofa",
+        "glass table",
+        "books",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 177,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606024/wall_pix_9_16_light_282_ujkwle.jpg",
+      "category": "light",
+      "description": "A bright living room features a large gray sectional sofa, a wooden coffee table, and large windows with sheer white curtains.",
+      "tags": [
+        "living room",
+        "gray sofa",
+        "coffee table",
+        "sheer curtains",
+        "plants"
+      ]
+    },
+    {
+      "id": 178,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606022/wall_pix_9_16_light_281_robbes.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sectional sofa, a light-colored rug, and a white coffee table with books and plants.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "modern",
+        "interior",
+        "daylight"
+      ]
+    },
+    {
+      "id": 179,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606020/wall_pix_9_16_light_280_gvszeq.jpg",
+      "category": "light",
+      "description": "A modern bedroom features a bed with neutral linens, a bedside table with a vase, and a large window with curtains.",
+      "tags": [
+        "bedroom",
+        "modern",
+        "neutral",
+        "bed",
+        "window"
+      ]
+    },
+    {
+      "id": 180,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606018/wall_pix_9_16_light_28_djtova.jpg",
+      "category": "light",
+      "description": "A neutral-toned living room features a sectional sofa, armchair, coffee table, and built-in shelves.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "sectional sofa",
+        "modern",
+        "interior"
+      ]
+    },
+    {
+      "id": 181,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606016/wall_pix_9_16_light_279_unjthj.jpg",
+      "category": "light",
+      "description": "A modern living room features a large sectional sofa, wooden floors, and exposed wooden beams.",
+      "tags": [
+        "living room",
+        "modern",
+        "sectional",
+        "wood beams",
+        "interior"
+      ]
+    },
+    {
+      "id": 182,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606016/wall_pix_9_16_light_277_v24sui.jpg",
+      "category": "light",
+      "description": "A neutral-toned living room is seen through a wooden doorway, featuring a sectional sofa and light wood floors.",
+      "tags": [
+        "living room",
+        "sectional",
+        "neutral",
+        "minimal",
+        "doorway"
+      ]
+    },
+    {
+      "id": 183,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606014/wall_pix_9_16_light_278_vymyhs.jpg",
+      "category": "light",
+      "description": "A cozy room features a large window with a city view, plants, books, and a wooden chair.",
+      "tags": [
+        "indoor",
+        "plants",
+        "window",
+        "books",
+        "chair"
+      ]
+    },
+    {
+      "id": 184,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606010/wall_pix_9_16_light_276_tsqznp.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sofa, marble coffee table, and a view of a green garden through a large window.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "marble table",
+        "indoor plant",
+        "natural light"
+      ]
+    },
+    {
+      "id": 185,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606008/wall_pix_9_16_light_275_thushc.jpg",
+      "category": "light",
+      "description": "A modern kitchen with wooden cabinets, marble countertops, and natural light streaming through the windows.",
+      "tags": [
+        "kitchen",
+        "modern",
+        "wood",
+        "marble",
+        "light"
+      ]
+    },
+    {
+      "id": 186,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606006/wall_pix_9_16_light_274_mbalbl.jpg",
+      "category": "light",
+      "description": "Bright living room with a sofa, chair, table, and large windows, featuring modern light fixtures and shiny tile floors.",
+      "tags": [
+        "living room",
+        "modern",
+        "bright",
+        "interior",
+        "furniture"
+      ]
+    },
+    {
+      "id": 187,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606004/wall_pix_9_16_light_273_rajuge.jpg",
+      "category": "light",
+      "description": "A long hallway with large windows, chairs, and a Christmas tree at the end.",
+      "tags": [
+        "hallway",
+        "chairs",
+        "christmas tree",
+        "windows",
+        "interior"
+      ]
+    },
+    {
+      "id": 188,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606002/wall_pix_9_16_light_272_j6znyv.jpg",
+      "category": "light",
+      "description": "A minimalist interior scene with a light wood chair, a side table with a vase, and a woven rug, illuminated by sunlight.",
+      "tags": [
+        "interior",
+        "chair",
+        "vase",
+        "minimalist",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 189,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606000/wall_pix_9_16_light_271_zf4ovk.jpg",
+      "category": "light",
+      "description": "A bright, modern living room with a Christmas tree, white sofa, and a view of lush greenery through large sliding doors.",
+      "tags": [
+        "living room",
+        "modern",
+        "christmas tree",
+        "white sofa",
+        "tropical"
+      ]
+    },
+    {
+      "id": 190,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772606000/wall_pix_9_16_light_270_goc83n.jpg",
+      "category": "light",
+      "description": "A close-up shot of small white flowers in a field bathed in warm sunlight.",
+      "tags": [
+        "flowers",
+        "field",
+        "sunlight",
+        "warm",
+        "nature"
+      ]
+    },
+    {
+      "id": 191,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605996/wall_pix_9_16_light_27_hfopll.jpg",
+      "category": "light",
+      "description": "A bright living room features neutral tones, with a textured sofa, stone coffee table, and a modern chandelier.",
+      "tags": [
+        "living room",
+        "neutral",
+        "modern",
+        "interior",
+        "bright"
+      ]
+    },
+    {
+      "id": 192,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605994/wall_pix_9_16_light_269_pjywse.jpg",
+      "category": "light",
+      "description": "A well-lit home office space with a desk, chair, lamp, and bookshelf, rendered in a neutral color palette.",
+      "tags": [
+        "home office",
+        "desk",
+        "chair",
+        "bookshelf",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 193,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605992/wall_pix_9_16_light_268_fccpcl.jpg",
+      "category": "light",
+      "description": "A neutral-toned living room features a sofa with pillows, a wooden coffee table with books and a vase, and a floor lamp.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "modern",
+        "furniture",
+        "interior"
+      ]
+    },
+    {
+      "id": 194,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605990/wall_pix_9_16_light_267_oksinm.jpg",
+      "category": "light",
+      "description": "A close-up shot of delicate white flowers with green stems and buds against a blurred background.",
+      "tags": [
+        "white flowers",
+        "close-up",
+        "green stems",
+        "soft light",
+        "nature"
+      ]
+    },
+    {
+      "id": 195,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605988/wall_pix_9_16_light_266_mlkuqi.jpg",
+      "category": "light",
+      "description": "A bedroom with a bed, a window with curtains, and a rug on the floor.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "window",
+        "curtains",
+        "rug"
+      ]
+    },
+    {
+      "id": 196,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605986/wall_pix_9_16_light_265_twbkrw.jpg",
+      "category": "light",
+      "description": "A modern living room features a beige sofa with mustard pillows, a marble coffee table, and curtains.",
+      "tags": [
+        "living room",
+        "modern",
+        "sofa",
+        "marble table",
+        "curtains"
+      ]
+    },
+    {
+      "id": 197,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605984/wall_pix_9_16_light_264_zyrka6.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sofa, stone coffee table, and a modern chandelier.",
+      "tags": [
+        "living room",
+        "white",
+        "modern",
+        "interior",
+        "chandelier"
+      ]
+    },
+    {
+      "id": 198,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605983/wall_pix_9_16_light_263_d4xmnw.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with a neutral color scheme, a large window, and a plant in the foreground.",
+      "tags": [
+        "bedroom",
+        "window",
+        "plant",
+        "neutral",
+        "interior"
+      ]
+    },
+    {
+      "id": 199,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605980/wall_pix_9_16_light_262_hrsmby.jpg",
+      "category": "light",
+      "description": "A modern kitchen features a white island with a sink, stools, and a view of the ocean through large windows.",
+      "tags": [
+        "kitchen",
+        "modern",
+        "island",
+        "interior",
+        "minimal"
+      ]
+    },
+    {
+      "id": 200,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605978/wall_pix_9_16_light_261_gzv3b9.jpg",
+      "category": "light",
+      "description": "An empty room with sunlight streaming through a window, casting shadows on the floor.",
+      "tags": [
+        "empty room",
+        "sunlight",
+        "window",
+        "shadows",
+        "minimal"
+      ]
+    },
+    {
+      "id": 201,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605977/wall_pix_9_16_light_260_ccledo.jpg",
+      "category": "light",
+      "description": "A well-lit kitchen features gray cabinets, white countertops, and stainless steel appliances.",
+      "tags": [
+        "kitchen",
+        "gray cabinets",
+        "countertop",
+        "appliances",
+        "interior"
+      ]
+    },
+    {
+      "id": 202,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605975/wall_pix_9_16_light_26_yrsstt.jpg",
+      "category": "light",
+      "description": "A window with beige curtains tied back, revealing a sheer white curtain and bright light.",
+      "tags": [
+        "window",
+        "curtains",
+        "beige",
+        "sheer",
+        "light"
+      ]
+    },
+    {
+      "id": 203,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605973/wall_pix_9_16_light_259_zk83sh.jpg",
+      "category": "light",
+      "description": "A bright, modern interior with a kitchen, living area, and a patio visible through large sliding glass doors.",
+      "tags": [
+        "interior",
+        "modern",
+        "bright",
+        "minimalist",
+        "open space"
+      ]
+    },
+    {
+      "id": 204,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605971/wall_pix_9_16_light_258_ju9vbg.jpg",
+      "category": "light",
+      "description": "A bright hallway with wooden floors leads to a living room with large windows overlooking a forest.",
+      "tags": [
+        "hallway",
+        "interior",
+        "windows",
+        "wood floor",
+        "daylight"
+      ]
+    },
+    {
+      "id": 205,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605970/wall_pix_9_16_light_246_e8l81z.jpg",
+      "category": "light",
+      "description": "An open concept living space features a dining area, kitchen, and living room with neutral tones and natural light.",
+      "tags": [
+        "living space",
+        "open concept",
+        "neutral tones",
+        "dining area",
+        "natural light"
+      ]
+    },
+    {
+      "id": 206,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605969/wall_pix_9_16_light_257_yty1hn.jpg",
+      "category": "light",
+      "description": "A modern armchair sits beside a small table with a vase of pampas grass, framed by an arched doorway and sheer curtains.",
+      "tags": [
+        "armchair",
+        "minimalist",
+        "pampas grass",
+        "archway",
+        "interior"
+      ]
+    },
+    {
+      "id": 207,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605967/wall_pix_9_16_light_256_yzfvx5.jpg",
+      "category": "light",
+      "description": "A bright window with white curtains and flowering branches creates a soft, dreamy scene.",
+      "tags": [
+        "window",
+        "curtains",
+        "flowers",
+        "soft light",
+        "dreamy"
+      ]
+    },
+    {
+      "id": 208,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605965/wall_pix_9_16_light_255_skpebp.jpg",
+      "category": "light",
+      "description": "A modern living room features a white sectional sofa, a white coffee table, and neutral decor.",
+      "tags": [
+        "living room",
+        "modern",
+        "white sofa",
+        "coffee table",
+        "neutral"
+      ]
+    },
+    {
+      "id": 209,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605964/wall_pix_9_16_light_251_dre5wa.jpg",
+      "category": "light",
+      "description": "A living room with a view of the ocean through open doors, featuring a wooden coffee table and blue sofas.",
+      "tags": [
+        "living room",
+        "ocean view",
+        "blue sofa",
+        "wooden table",
+        "interior"
+      ]
+    },
+    {
+      "id": 210,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605964/wall_pix_9_16_light_254_v91xf2.jpg",
+      "category": "light",
+      "description": "A room with a round window overlooking the ocean and a sheer curtain.",
+      "tags": [
+        "window",
+        "curtain",
+        "minimal",
+        "ocean view",
+        "interior"
+      ]
+    },
+    {
+      "id": 211,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605962/wall_pix_9_16_light_253_skr7br.jpg",
+      "category": "light",
+      "description": "Three glass vases with dried flowers are displayed on stone pedestals against a textured wall with a shadow.",
+      "tags": [
+        "still life",
+        "dried flowers",
+        "stone",
+        "minimal",
+        "shadow"
+      ]
+    },
+    {
+      "id": 212,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605962/wall_pix_9_16_light_252_vyly7m.jpg",
+      "category": "light",
+      "description": "A bright living room features a light sofa with pillows, a wooden coffee table with a vase and candle, and a view of trees through a window.",
+      "tags": [
+        "living room",
+        "sofa",
+        "coffee table",
+        "vase",
+        "minimal"
+      ]
+    },
+    {
+      "id": 213,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605960/wall_pix_9_16_light_25_dohnkr.jpg",
+      "category": "light",
+      "description": "Sunlight streams through a window, creating bright beams and illuminating dust particles in the air.",
+      "tags": [
+        "sunlight",
+        "window",
+        "dust",
+        "curtain",
+        "golden"
+      ]
+    },
+    {
+      "id": 214,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605960/wall_pix_9_16_light_245_xbbtvh.jpg",
+      "category": "light",
+      "description": "A bright, minimalist living room features a white sofa, woven coffee table, and arched doorway.",
+      "tags": [
+        "living room",
+        "minimalist",
+        "white",
+        "woven",
+        "interior"
+      ]
+    },
+    {
+      "id": 215,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605959/wall_pix_9_16_light_250_se8jad.jpg",
+      "category": "light",
+      "description": "A modern kitchen features light beige cabinets, a large island, and a black linear pendant light.",
+      "tags": [
+        "kitchen",
+        "modern",
+        "beige",
+        "island",
+        "minimal"
+      ]
+    },
+    {
+      "id": 216,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605958/wall_pix_9_16_light_244_kg06um.jpg",
+      "category": "light",
+      "description": "A minimalist interior features a staircase, a sofa, and a round window showing a tree.",
+      "tags": [
+        "interior",
+        "minimalist",
+        "staircase",
+        "sofa",
+        "window"
+      ]
+    },
+    {
+      "id": 217,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605957/wall_pix_9_16_light_247_vbmebd.jpg",
+      "category": "light",
+      "description": "Sunlight streams through a window with a white frame and a white curtain partially drawn.",
+      "tags": [
+        "window",
+        "sunlight",
+        "curtain",
+        "light",
+        "bright"
+      ]
+    },
+    {
+      "id": 218,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605957/wall_pix_9_16_light_249_ktkvld.jpg",
+      "category": "light",
+      "description": "A bright, plant-filled workspace features a desk with a computer, lamps, and a woven chair, bathed in soft, natural light.",
+      "tags": [
+        "workspace",
+        "plants",
+        "desk",
+        "chair",
+        "window"
+      ]
+    },
+    {
+      "id": 219,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605956/wall_pix_9_16_light_248_lmujsp.jpg",
+      "category": "light",
+      "description": "A serene beach scene with a golden sunset reflecting on the calm water and a distant island.",
+      "tags": [
+        "beach",
+        "sunset",
+        "ocean",
+        "calm",
+        "golden hour"
+      ]
+    },
+    {
+      "id": 220,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605940/wall_pix_9_16_light_243_gxjiwd.jpg",
+      "category": "light",
+      "description": "Three cylindrical pedestals hold vases with dried flowers, bathed in sunlight against a textured wall.",
+      "tags": [
+        "still life",
+        "dried flowers",
+        "pedestals",
+        "sunlight",
+        "minimal"
+      ]
+    },
+    {
+      "id": 221,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605939/wall_pix_9_16_light_242_ri3m9p.jpg",
+      "category": "light",
+      "description": "A modern living room with floor-to-ceiling windows overlooking the ocean.",
+      "tags": [
+        "living room",
+        "modern",
+        "ocean view",
+        "windows",
+        "interior"
+      ]
+    },
+    {
+      "id": 222,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605936/wall_pix_9_16_light_241_iva8bu.jpg",
+      "category": "light",
+      "description": "Bright living room with white sofas, a wooden coffee table, round rugs, and a large window with plants.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "natural light",
+        "indoor plants",
+        "round rug"
+      ]
+    },
+    {
+      "id": 223,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605934/wall_pix_9_16_light_240_q66fom.jpg",
+      "category": "light",
+      "description": "A bright living room features a textured sofa and ottoman, with neutral-toned curtains framing a window.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "modern",
+        "window light",
+        "textiles"
+      ]
+    },
+    {
+      "id": 224,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605934/wall_pix_9_16_light_24_agnjin.jpg",
+      "category": "light",
+      "description": "A bright living room features white furniture, large windows, and indoor plants, illuminated by natural light.",
+      "tags": [
+        "living room",
+        "interior",
+        "white",
+        "plants",
+        "daylight"
+      ]
+    },
+    {
+      "id": 225,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605930/wall_pix_9_16_light_239_djjo2r.jpg",
+      "category": "light",
+      "description": "A neutral-toned living room features a sofa with a throw blanket, a wooden table with a vase of pampas grass, and a patterned rug.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "pampas grass",
+        "throw blanket",
+        "wooden table"
+      ]
+    },
+    {
+      "id": 226,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605929/wall_pix_9_16_light_238_prcybx.jpg",
+      "category": "light",
+      "description": "A sunlit room features sheer curtains partially obscuring a view of the ocean and distant land.",
+      "tags": [
+        "curtains",
+        "sheer",
+        "ocean view",
+        "daylight",
+        "minimal"
+      ]
+    },
+    {
+      "id": 227,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605928/wall_pix_9_16_light_236_mnu0js.jpg",
+      "category": "light",
+      "description": "A living room scene with a sofa, armchair, round coffee table, and a plant, bathed in sunlight.",
+      "tags": [
+        "living room",
+        "furniture",
+        "plant",
+        "sunlight",
+        "minimal"
+      ]
+    },
+    {
+      "id": 228,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605927/wall_pix_9_16_light_237_ocbyw1.jpg",
+      "category": "light",
+      "description": "A bright living room features a large white couch with pillows, a round coffee table, and a framed abstract art piece on the wall.",
+      "tags": [
+        "living room",
+        "white couch",
+        "round table",
+        "abstract art",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 229,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605925/wall_pix_9_16_light_235_tzq2nj.jpg",
+      "category": "light",
+      "description": "A bright living room features a neutral-toned sectional sofa, a woven side table with a vase, and large windows.",
+      "tags": [
+        "living room",
+        "sectional sofa",
+        "woven table",
+        "natural light",
+        "houseplants"
+      ]
+    },
+    {
+      "id": 230,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605921/wall_pix_9_16_light_234_jo9jbf.jpg",
+      "category": "light",
+      "description": "A bright kitchen features white cabinets, marble countertops, and a vase of sunflowers.",
+      "tags": [
+        "kitchen",
+        "sunflowers",
+        "cabinets",
+        "marble",
+        "bright"
+      ]
+    },
+    {
+      "id": 231,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605919/wall_pix_9_16_light_233_wlfhrd.jpg",
+      "category": "light",
+      "description": "A bright living room features a gray sofa, a wooden coffee table, and a potted plant near a window with sheer curtains.",
+      "tags": [
+        "living room",
+        "modern",
+        "sofa",
+        "coffee table",
+        "indoor plant"
+      ]
+    },
+    {
+      "id": 232,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605917/wall_pix_9_16_light_232_z9e1qc.jpg",
+      "category": "light",
+      "description": "A bright living room with two sofas facing each other, a glass coffee table, and large windows.",
+      "tags": [
+        "living room",
+        "interior",
+        "natural light",
+        "sofas",
+        "plants"
+      ]
+    },
+    {
+      "id": 233,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605915/wall_pix_9_16_light_231_ik0zul.jpg",
+      "category": "light",
+      "description": "Close-up of folded, light beige fabric with shadows, creating a textured and abstract pattern.",
+      "tags": [
+        "fabric",
+        "beige",
+        "folds",
+        "texture",
+        "shadows"
+      ]
+    },
+    {
+      "id": 234,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605913/wall_pix_9_16_light_230_ad8use.jpg",
+      "category": "light",
+      "description": "A bright bedroom features a bed with white linens and a beige throw, a round mirror, and a window with white curtains.",
+      "tags": [
+        "bedroom",
+        "white",
+        "minimalist",
+        "bed",
+        "window"
+      ]
+    },
+    {
+      "id": 235,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605911/wall_pix_9_16_light_23_zjqtxh.jpg",
+      "category": "light",
+      "description": "A bedroom with an open door leading to a garden, bathed in the warm light of the setting sun.",
+      "tags": [
+        "bedroom",
+        "open door",
+        "garden",
+        "sunlight",
+        "warm light"
+      ]
+    },
+    {
+      "id": 236,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605910/wall_pix_9_16_light_229_chm96n.jpg",
+      "category": "light",
+      "description": "A beige sofa and ottoman are centered in a bright room with a tree growing through a skylight, surrounded by potted plants.",
+      "tags": [
+        "living room",
+        "beige",
+        "tree",
+        "minimal",
+        "indoor plants"
+      ]
+    },
+    {
+      "id": 237,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605907/wall_pix_9_16_light_228_zkm9bb.jpg",
+      "category": "light",
+      "description": "A modern house with wood paneling is surrounded by lush green foliage and concrete steps.",
+      "tags": [
+        "modern house",
+        "wood panels",
+        "green foliage",
+        "concrete steps",
+        "architecture"
+      ]
+    },
+    {
+      "id": 238,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605905/wall_pix_9_16_light_227_qiqzac.jpg",
+      "category": "light",
+      "description": "A modern bathroom features a bathtub next to a large window with a view of a small garden.",
+      "tags": [
+        "bathroom",
+        "modern",
+        "garden",
+        "window",
+        "bathtub"
+      ]
+    },
+    {
+      "id": 239,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605903/wall_pix_9_16_light_226_nzvdcg.jpg",
+      "category": "light",
+      "description": "A modern living room features a gray sectional sofa with yellow pillows, a marble coffee table, and gray and white curtains.",
+      "tags": [
+        "living room",
+        "sectional sofa",
+        "marble table",
+        "gray curtains",
+        "modern"
+      ]
+    },
+    {
+      "id": 240,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605901/wall_pix_9_16_light_225_ide92s.jpg",
+      "category": "light",
+      "description": "A sunlit living room features a beige sofa, woven baskets, and pampas grass near a large window.",
+      "tags": [
+        "living room",
+        "beige",
+        "woven",
+        "pampas grass",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 241,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605899/wall_pix_9_16_light_224_vwqwxy.jpg",
+      "category": "light",
+      "description": "A bright living room features a sofa with pillows, a wooden coffee table with books and vases, and a neutral rug.",
+      "tags": [
+        "living room",
+        "sofa",
+        "coffee table",
+        "modern",
+        "interior"
+      ]
+    },
+    {
+      "id": 242,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605898/wall_pix_9_16_light_222_mw7hxn.jpg",
+      "category": "light",
+      "description": "A bright, modern living room features neutral sofas, wooden tables, and indoor plants, with natural light streaming through skylights.",
+      "tags": [
+        "living room",
+        "modern",
+        "neutral",
+        "plants",
+        "daylight"
+      ]
+    },
+    {
+      "id": 243,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605897/wall_pix_9_16_light_223_mzliy8.jpg",
+      "category": "light",
+      "description": "A white vase with a branch of green leaves sits on a windowsill in bright sunlight.",
+      "tags": [
+        "still life",
+        "vase",
+        "leaves",
+        "sunlight",
+        "minimal"
+      ]
+    },
+    {
+      "id": 244,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605895/wall_pix_9_16_light_221_a0nxs1.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sofa, wooden coffee table, and a view of mountains through large windows.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "natural light",
+        "mountain view",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 245,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605892/wall_pix_9_16_light_220_lfapn4.jpg",
+      "category": "light",
+      "description": "A field of dandelions is illuminated by the golden light of the setting sun.",
+      "tags": [
+        "dandelions",
+        "field",
+        "sunset",
+        "golden light",
+        "nature"
+      ]
+    },
+    {
+      "id": 246,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605889/wall_pix_9_16_light_22_fvgu6m.jpg",
+      "category": "light",
+      "description": "A dining room features a shiny wooden table with two vases of hydrangeas in the center.",
+      "tags": [
+        "dining room",
+        "hydrangeas",
+        "wooden table",
+        "interior",
+        "vases"
+      ]
+    },
+    {
+      "id": 247,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605888/wall_pix_9_16_light_219_dljpm3.jpg",
+      "category": "light",
+      "description": "A cozy living room scene with a sofa, throw blanket, wooden chair, and sheer curtains by a window.",
+      "tags": [
+        "living room",
+        "sofa",
+        "chair",
+        "curtains",
+        "interior"
+      ]
+    },
+    {
+      "id": 248,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605886/wall_pix_9_16_light_218_fvdo7f.jpg",
+      "category": "light",
+      "description": "A cozy room scene with a window view of city buildings, plants, books, and a chair bathed in sunlight.",
+      "tags": [
+        "cozy",
+        "books",
+        "plants",
+        "window view",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 249,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605884/wall_pix_9_16_light_217_i7ngam.jpg",
+      "category": "light",
+      "description": "A bright living room features a gray sofa with a green pillow and throw, a knitted pouf, and botanical prints.",
+      "tags": [
+        "living room",
+        "gray sofa",
+        "green pillow",
+        "botanical prints",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 250,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605882/wall_pix_9_16_light_216_yqu1bn.jpg",
+      "category": "light",
+      "description": "A living room is decorated in neutral tones with a sofa, round table, and textured rug.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "modern",
+        "interior",
+        "furniture"
+      ]
+    },
+    {
+      "id": 251,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605880/wall_pix_9_16_light_215_rwent9.jpg",
+      "category": "light",
+      "description": "A bedroom features a wooden bed with white linens and a brown knit blanket, with two windows providing natural light.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "windows",
+        "minimalist",
+        "interior"
+      ]
+    },
+    {
+      "id": 252,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605878/wall_pix_9_16_light_214_ltwfli.jpg",
+      "category": "light",
+      "description": "A modern living room features neutral tones, a fireplace, and minimalist decor.",
+      "tags": [
+        "living room",
+        "modern",
+        "interior",
+        "neutral",
+        "fireplace"
+      ]
+    },
+    {
+      "id": 253,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605876/wall_pix_9_16_light_213_ouhoin.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sectional sofa with accent pillows, a light-colored coffee table, and a textured rug.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "accent pillows",
+        "area rug",
+        "natural light"
+      ]
+    },
+    {
+      "id": 254,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605874/wall_pix_9_16_light_212_gz0qmy.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sofa, two chairs, a television, and large windows.",
+      "tags": [
+        "living room",
+        "modern",
+        "interior",
+        "daylight",
+        "plants"
+      ]
+    },
+    {
+      "id": 255,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605872/wall_pix_9_16_light_211_d0lcfi.jpg",
+      "category": "light",
+      "description": "A living room features a gray sofa, round coffee tables, a modern chandelier, and a window with curtains.",
+      "tags": [
+        "living room",
+        "chandelier",
+        "gray sofa",
+        "round tables",
+        "window"
+      ]
+    },
+    {
+      "id": 256,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605870/wall_pix_9_16_light_210_h9duwe.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sectional sofa, round coffee table, and neutral-toned decor.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "coffee table",
+        "modern",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 257,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605868/wall_pix_9_16_light_21_x39swy.jpg",
+      "category": "light",
+      "description": "A modern living room with neutral tones, featuring armchairs, a sofa, and a fireplace.",
+      "tags": [
+        "living room",
+        "modern",
+        "neutral",
+        "furniture",
+        "fireplace"
+      ]
+    },
+    {
+      "id": 258,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605867/wall_pix_9_16_light_209_v9hlgf.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with a chunky knit blanket, green walls, and hanging plants.",
+      "tags": [
+        "bedroom",
+        "plants",
+        "bed",
+        "green",
+        "interior"
+      ]
+    },
+    {
+      "id": 259,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605864/wall_pix_9_16_light_208_jlg1mf.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sofa, light wood coffee table, and soft green accents.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "light wood",
+        "soft green",
+        "modern"
+      ]
+    },
+    {
+      "id": 260,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605862/wall_pix_9_16_light_207_lb9xpt.jpg",
+      "category": "light",
+      "description": "A bright living room features a sofa with pillows, a wooden table with flowers, and a window with white curtains.",
+      "tags": [
+        "living room",
+        "sofa",
+        "flowers",
+        "window",
+        "interior"
+      ]
+    },
+    {
+      "id": 261,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605861/wall_pix_9_16_light_206_j3diz0.jpg",
+      "category": "light",
+      "description": "A woman's hand adorned with multiple gold bracelets and rings is captured in a close-up shot.",
+      "tags": [
+        "hand",
+        "jewelry",
+        "bracelets",
+        "rings",
+        "gold"
+      ]
+    },
+    {
+      "id": 262,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605859/wall_pix_9_16_light_205_zordqj.jpg",
+      "category": "light",
+      "description": "A bedroom features a wooden bed with white linens, a throw blanket, and a woven rug.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "minimal",
+        "neutral",
+        "interior"
+      ]
+    },
+    {
+      "id": 263,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605857/wall_pix_9_16_light_204_cahe60.jpg",
+      "category": "light",
+      "description": "A cozy living room scene with a sectional sofa, plants, and a woven pendant light.",
+      "tags": [
+        "living room",
+        "sectional sofa",
+        "woven light",
+        "house plants",
+        "natural light"
+      ]
+    },
+    {
+      "id": 264,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605855/wall_pix_9_16_light_203_votolo.jpg",
+      "category": "light",
+      "description": "A room with light wood floors, sheer curtains, a spotlight, and a small tree in a clear vase.",
+      "tags": [
+        "interior",
+        "minimal",
+        "light",
+        "tree",
+        "curtains"
+      ]
+    },
+    {
+      "id": 265,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605853/wall_pix_9_16_light_202_ab4nix.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with a tufted headboard, a green throw blanket, and a chandelier hanging from the ceiling.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "chandelier",
+        "neutral",
+        "interior"
+      ]
+    },
+    {
+      "id": 266,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605851/wall_pix_9_16_light_201_yopmjl.jpg",
+      "category": "light",
+      "description": "Bright living room with two sofas, a glass coffee table with flowers, and large windows overlooking greenery.",
+      "tags": [
+        "living room",
+        "bright",
+        "sofas",
+        "flowers",
+        "interior"
+      ]
+    },
+    {
+      "id": 267,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605849/wall_pix_9_16_light_200_vwldde.jpg",
+      "category": "light",
+      "description": "A bright living room with large windows overlooking the ocean at sunset, featuring a rustic wooden coffee table and white sofas.",
+      "tags": [
+        "living room",
+        "sunset",
+        "ocean view",
+        "rustic",
+        "coastal"
+      ]
+    },
+    {
+      "id": 268,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605847/wall_pix_9_16_light_20_w2godm.jpg",
+      "category": "light",
+      "description": "A modern kitchen features marble countertops and flooring, with pendant lights above the island.",
+      "tags": [
+        "kitchen",
+        "modern",
+        "marble",
+        "island",
+        "lighting"
+      ]
+    },
+    {
+      "id": 269,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605845/wall_pix_9_16_light_2_m03hld.jpg",
+      "category": "light",
+      "description": "A cozy interior scene with a white armchair, a black side table with books, and a vase of flowers by the window.",
+      "tags": [
+        "armchair",
+        "interior",
+        "flowers",
+        "minimal",
+        "window"
+      ]
+    },
+    {
+      "id": 270,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605844/wall_pix_9_16_light_199_xlraa1.jpg",
+      "category": "light",
+      "description": "A well-lit, neutral-toned living space features a wooden floor, a modern chandelier, and minimalist furniture.",
+      "tags": [
+        "living room",
+        "modern",
+        "neutral tones",
+        "wood floor",
+        "chandelier"
+      ]
+    },
+    {
+      "id": 271,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605842/wall_pix_9_16_light_198_vdog1n.jpg",
+      "category": "light",
+      "description": "A dining room features a wooden table with upholstered chairs, illuminated by globe pendant lights.",
+      "tags": [
+        "dining room",
+        "pendant lights",
+        "wooden table",
+        "upholstered chairs",
+        "interior"
+      ]
+    },
+    {
+      "id": 272,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605839/wall_pix_9_16_light_197_kacslr.jpg",
+      "category": "light",
+      "description": "A white vase with green leaves sits on a white surface, illuminated by sunlight casting shadows on the wall.",
+      "tags": [
+        "still life",
+        "vase",
+        "leaves",
+        "shadows",
+        "minimal"
+      ]
+    },
+    {
+      "id": 273,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605837/wall_pix_9_16_light_196_lwwg2l.jpg",
+      "category": "light",
+      "description": "A neutral-toned living room features a sofa, coffee table, side table with pampas grass, and a patterned rug.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "pampas grass",
+        "modern",
+        "interior"
+      ]
+    },
+    {
+      "id": 274,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605837/wall_pix_9_16_light_194_uopwz7.jpg",
+      "category": "light",
+      "description": "A modern house with stone walls and large windows sits on a green lawn with trees in the background.",
+      "tags": [
+        "modern house",
+        "stone wall",
+        "large windows",
+        "green lawn",
+        "trees"
+      ]
+    },
+    {
+      "id": 275,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605836/wall_pix_9_16_light_195_itfgrz.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with white linens, bedside tables with lamps, and a window with curtains.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "lamp",
+        "window",
+        "curtains"
+      ]
+    },
+    {
+      "id": 276,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605834/wall_pix_9_16_light_193_w0n9ze.jpg",
+      "category": "light",
+      "description": "A bedroom with a light green bedspread, a yellow ceiling, and a large mirror.",
+      "tags": [
+        "bedroom",
+        "minimalist",
+        "plant",
+        "mirror",
+        "yellow ceiling"
+      ]
+    },
+    {
+      "id": 277,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605834/wall_pix_9_16_light_176_pd3bms.jpg",
+      "category": "light",
+      "description": "A bright, airy room features a wooden desk and chair, with sunlight streaming through sheer curtains.",
+      "tags": [
+        "interior",
+        "desk",
+        "chair",
+        "sunlight",
+        "plant"
+      ]
+    },
+    {
+      "id": 278,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605776/wall_pix_9_16_light_167_ggfig0.jpg",
+      "category": "light",
+      "description": "A minimalist bedroom features a low platform bed with gray bedding, bathed in sunlight filtering through sheer curtains.",
+      "tags": [
+        "bedroom",
+        "minimalist",
+        "bed",
+        "sunlight",
+        "curtains"
+      ]
+    },
+    {
+      "id": 279,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605774/wall_pix_9_16_light_166_j1iz4r.jpg",
+      "category": "light",
+      "description": "A modern living room features a large sectional sofa, wooden accents, and a view of snow-covered mountains.",
+      "tags": [
+        "living room",
+        "modern",
+        "wood",
+        "sectional",
+        "interior"
+      ]
+    },
+    {
+      "id": 280,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605771/wall_pix_9_16_light_165_yvgi51.jpg",
+      "category": "light",
+      "description": "A neutral-toned living room features a sofa, ottoman, wooden furniture, and minimalist decor, creating a calm and inviting atmosphere.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "minimalist",
+        "furniture",
+        "interior"
+      ]
+    },
+    {
+      "id": 281,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605769/wall_pix_9_16_light_164_xqb7n6.jpg",
+      "category": "light",
+      "description": "A bed with pastel-colored linen bedding is illuminated by natural light from a nearby window.",
+      "tags": [
+        "bed",
+        "linen",
+        "pastel",
+        "bedroom",
+        "window"
+      ]
+    },
+    {
+      "id": 282,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605767/wall_pix_9_16_light_163_t8mqg8.jpg",
+      "category": "light",
+      "description": "A living room features a teal sectional sofa with decorative pillows, shelves with books and artwork, and a patterned rug.",
+      "tags": [
+        "living room",
+        "teal sofa",
+        "shelves",
+        "modern",
+        "interior"
+      ]
+    },
+    {
+      "id": 283,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605765/wall_pix_9_16_light_162_cdvso1.jpg",
+      "category": "light",
+      "description": "A modern living room features a beige sofa, a wooden cabinet with plants, and a large window overlooking a green garden.",
+      "tags": [
+        "living room",
+        "modern",
+        "beige sofa",
+        "indoor plants",
+        "garden view"
+      ]
+    },
+    {
+      "id": 284,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605763/wall_pix_9_16_light_161_r8i5dj.jpg",
+      "category": "light",
+      "description": "A bright living room features two white sofas, a wooden coffee table, and several potted monstera plants.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "indoor plants",
+        "natural light",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 285,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605761/wall_pix_9_16_light_160_c8dsb4.jpg",
+      "category": "light",
+      "description": "Bright living room with a white sofa, wooden coffee table, and several potted plants near large windows with sheer curtains.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "houseplants",
+        "sheer curtains",
+        "natural light"
+      ]
+    },
+    {
+      "id": 286,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605759/wall_pix_9_16_light_16_ghc6wp.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sofa, wooden coffee table, and a green rug under a skylight.",
+      "tags": [
+        "living room",
+        "interior",
+        "skylight",
+        "white sofa",
+        "green rug"
+      ]
+    },
+    {
+      "id": 287,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605757/wall_pix_9_16_light_159_swtsfh.jpg",
+      "category": "light",
+      "description": "A full-length mirror stands next to a basket with dried flowers and a draped cloth, bathed in sunlight.",
+      "tags": [
+        "mirror",
+        "flowers",
+        "basket",
+        "sunlight",
+        "still life"
+      ]
+    },
+    {
+      "id": 288,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605755/wall_pix_9_16_light_158_arunp1.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with a light green duvet, a large mirror, and a yellow ceiling.",
+      "tags": [
+        "bedroom",
+        "mirror",
+        "plant",
+        "bed",
+        "curtains"
+      ]
+    },
+    {
+      "id": 289,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605753/wall_pix_9_16_light_157_jylnhb.jpg",
+      "category": "light",
+      "description": "A modern kitchen features wood cabinets, marble countertops, and pendant lights, with sunlight and tree shadows casting patterns on the walls.",
+      "tags": [
+        "kitchen",
+        "modern",
+        "wood",
+        "marble",
+        "lighting"
+      ]
+    },
+    {
+      "id": 290,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605751/wall_pix_9_16_light_156_oqdvws.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with green linens, a white nightstand, a hanging light, and a window with green curtains.",
+      "tags": [
+        "bedroom",
+        "green",
+        "bed",
+        "curtains",
+        "window"
+      ]
+    },
+    {
+      "id": 291,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605750/wall_pix_9_16_light_155_y0mhep.jpg",
+      "category": "light",
+      "description": "A modern, white house is reflected in the still water of a swimming pool at dusk.",
+      "tags": [
+        "modern house",
+        "pool",
+        "reflection",
+        "exterior",
+        "dusk"
+      ]
+    },
+    {
+      "id": 292,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605747/wall_pix_9_16_light_154_bzgk2e.jpg",
+      "category": "light",
+      "description": "A modern kitchen features wood cabinets, marble countertops, and three upholstered bar stools.",
+      "tags": [
+        "kitchen",
+        "modern",
+        "marble",
+        "wood",
+        "stools"
+      ]
+    },
+    {
+      "id": 293,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605746/wall_pix_9_16_light_153_iopfw6.jpg",
+      "category": "light",
+      "description": "A woman in a white shirt sits on a bed in a sunlit room with plants.",
+      "tags": [
+        "bedroom",
+        "daylight",
+        "woman",
+        "plants",
+        "window"
+      ]
+    },
+    {
+      "id": 294,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605743/wall_pix_9_16_light_152_zwykbo.jpg",
+      "category": "light",
+      "description": "A black and white image shows a concrete wall with shadows and a blurred table leg in the foreground.",
+      "tags": [
+        "concrete wall",
+        "shadows",
+        "monochrome",
+        "interior",
+        "minimal"
+      ]
+    },
+    {
+      "id": 295,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605741/wall_pix_9_16_light_151_jq1wqc.jpg",
+      "category": "light",
+      "description": "A bright home office features a wooden desk, leather chair, and a view of greenery through a large window.",
+      "tags": [
+        "home office",
+        "wooden desk",
+        "leather chair",
+        "natural light",
+        "indoor plants"
+      ]
+    },
+    {
+      "id": 296,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605739/wall_pix_9_16_light_150_v9esj7.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with green bedding, a white bedside table, and a window with green curtains.",
+      "tags": [
+        "bedroom",
+        "green",
+        "bed",
+        "curtains",
+        "interior"
+      ]
+    },
+    {
+      "id": 297,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605737/wall_pix_9_16_light_15_u363hk.jpg",
+      "category": "light",
+      "description": "A bright kitchen with an open doorway leading to a patio and garden, featuring neutral tones and natural light.",
+      "tags": [
+        "kitchen",
+        "interior",
+        "garden",
+        "dining table",
+        "natural light"
+      ]
+    },
+    {
+      "id": 298,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605735/wall_pix_9_16_light_149_taatui.jpg",
+      "category": "light",
+      "description": "A walk-in closet with white shelves and a chair, opening to a view of a garden.",
+      "tags": [
+        "walk-in closet",
+        "garden view",
+        "chair",
+        "shelves",
+        "interior"
+      ]
+    },
+    {
+      "id": 299,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605733/wall_pix_9_16_light_148_npk7td.jpg",
+      "category": "light",
+      "description": "A bright living room features white sofas with light blue pillows, a ribbed coffee table with flowers, and blue and white curtains.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "blue curtains",
+        "coffee table",
+        "interior"
+      ]
+    },
+    {
+      "id": 300,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605731/wall_pix_9_16_light_147_wu6jbq.jpg",
+      "category": "light",
+      "description": "A bouquet of light pink and white flowers rests on a white satin fabric with lace.",
+      "tags": [
+        "bouquet",
+        "flowers",
+        "satin",
+        "lace",
+        "soft"
+      ]
+    },
+    {
+      "id": 301,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605729/wall_pix_9_16_light_146_jcet0h.jpg",
+      "category": "light",
+      "description": "A bright bedroom features a wooden bed with a knitted blanket, large windows, and a wooden dresser.",
+      "tags": [
+        "bedroom",
+        "interior",
+        "minimal",
+        "wooden bed",
+        "natural light"
+      ]
+    },
+    {
+      "id": 302,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605727/wall_pix_9_16_light_145_qyqzbw.jpg",
+      "category": "light",
+      "description": "Close-up of a hand wearing a ring and several gold bracelets against a blurred background.",
+      "tags": [
+        "hand",
+        "jewelry",
+        "ring",
+        "bracelets",
+        "gold"
+      ]
+    },
+    {
+      "id": 303,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605725/wall_pix_9_16_light_144_fvwfwq.jpg",
+      "category": "light",
+      "description": "A minimalist living room features a beige sofa, a wooden coffee table, a built-in bookshelf, and a window.",
+      "tags": [
+        "living room",
+        "minimalist",
+        "beige",
+        "bookshelf",
+        "window"
+      ]
+    },
+    {
+      "id": 304,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605723/wall_pix_9_16_light_143_pjen1c.jpg",
+      "category": "light",
+      "description": "A modern living room features a beige sectional sofa, a spherical floor lamp, and marble tile flooring.",
+      "tags": [
+        "living room",
+        "sectional",
+        "floor lamp",
+        "marble tile",
+        "modern"
+      ]
+    },
+    {
+      "id": 305,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605721/wall_pix_9_16_light_142_bg4div.jpg",
+      "category": "light",
+      "description": "A sunlit room with sheer curtains and a window, with blurred floral elements in the foreground.",
+      "tags": [
+        "window",
+        "curtains",
+        "sunlight",
+        "sheer",
+        "soft"
+      ]
+    },
+    {
+      "id": 306,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605719/wall_pix_9_16_light_141_nqkve8.jpg",
+      "category": "light",
+      "description": "A modern bathroom features a bathtub next to a glass door that opens to a small courtyard with trees.",
+      "tags": [
+        "bathroom",
+        "modern",
+        "bathtub",
+        "courtyard",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 307,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605717/wall_pix_9_16_light_140_zkj5nf.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sectional sofa with orange pillows, a light wood coffee table, and a woven rug.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "orange",
+        "woven rug",
+        "daylight"
+      ]
+    },
+    {
+      "id": 308,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605715/wall_pix_9_16_light_14_wapmw3.jpg",
+      "category": "light",
+      "description": "A living room features a white sofa, woven ottoman, plants, and a framed art print in a neutral color palette.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "plants",
+        "neutral",
+        "interior"
+      ]
+    },
+    {
+      "id": 309,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605713/wall_pix_9_16_light_139_ue5nif.jpg",
+      "category": "light",
+      "description": "A well-lit walk-in closet with white cabinets and a chair facing an open doorway to a garden.",
+      "tags": [
+        "walk-in closet",
+        "chair",
+        "garden",
+        "interior",
+        "modern"
+      ]
+    },
+    {
+      "id": 310,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605711/wall_pix_9_16_light_138_a9swtm.jpg",
+      "category": "light",
+      "description": "Bright living room with a large sectional sofa, neutral tones, and natural light from large windows.",
+      "tags": [
+        "living room",
+        "sectional sofa",
+        "neutral tones",
+        "natural light",
+        "interior"
+      ]
+    },
+    {
+      "id": 311,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605709/wall_pix_9_16_light_137_z7vs1u.jpg",
+      "category": "light",
+      "description": "A bright, open living space features a white sectional sofa, a Christmas tree, and large windows overlooking lush greenery.",
+      "tags": [
+        "living room",
+        "christmas tree",
+        "white sofa",
+        "modern",
+        "interior"
+      ]
+    },
+    {
+      "id": 312,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605707/wall_pix_9_16_light_136_e13vc3.jpg",
+      "category": "light",
+      "description": "A woman wearing jewelry, including bracelets and rings with pearls, poses in soft, golden light.",
+      "tags": [
+        "jewelry",
+        "pearls",
+        "golden light",
+        "portrait",
+        "fashion"
+      ]
+    },
+    {
+      "id": 313,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605705/wall_pix_9_16_light_135_epnyjm.jpg",
+      "category": "light",
+      "description": "A modern living room features a beige sofa, three pendant lights, and a window with sunlight streaming in.",
+      "tags": [
+        "living room",
+        "beige sofa",
+        "pendant lights",
+        "window",
+        "sunlight"
+      ]
+    },
+    {
+      "id": 314,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605703/wall_pix_9_16_light_134_a3cay6.jpg",
+      "category": "light",
+      "description": "A woman's hand adorned with gold rings and bracelets, partially veiled by a sheer white fabric.",
+      "tags": [
+        "jewelry",
+        "gold",
+        "rings",
+        "bracelets",
+        "pearls"
+      ]
+    },
+    {
+      "id": 315,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605701/wall_pix_9_16_light_133_tshajk.jpg",
+      "category": "light",
+      "description": "A bright living room features light blue walls, white sofas with blue pillows, and wooden and gold accents.",
+      "tags": [
+        "living room",
+        "interior",
+        "furniture",
+        "blue",
+        "modern"
+      ]
+    },
+    {
+      "id": 316,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605698/wall_pix_9_16_light_132_klbtdi.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with a throw blanket and a wooden bench in front of it.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "bench",
+        "throw",
+        "window"
+      ]
+    },
+    {
+      "id": 317,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605697/wall_pix_9_16_light_131_thotsc.jpg",
+      "category": "light",
+      "description": "A serene indoor garden with a water feature, surrounded by lush greenery and illuminated by natural light from a skylight.",
+      "tags": [
+        "indoor garden",
+        "water feature",
+        "lush",
+        "serene",
+        "skylight"
+      ]
+    },
+    {
+      "id": 318,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605695/wall_pix_9_16_light_130_dgzkm3.jpg",
+      "category": "light",
+      "description": "A home office area features a built-in desk and shelves painted in a soft green hue, complemented by a laptop, chair, and decorative items.",
+      "tags": [
+        "home office",
+        "built-in desk",
+        "soft green",
+        "shelves",
+        "laptop"
+      ]
+    },
+    {
+      "id": 319,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605693/wall_pix_9_16_light_13_qhaipe.jpg",
+      "category": "light",
+      "description": "A bouquet of light pink and peach roses with small white flowers rests on a white satin cloth with lace trim.",
+      "tags": [
+        "bouquet",
+        "roses",
+        "satin",
+        "lace",
+        "soft light"
+      ]
+    },
+    {
+      "id": 320,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605691/wall_pix_9_16_light_129_lgfbyw.jpg",
+      "category": "light",
+      "description": "Interior view of a room with stairs, a window showing a tree, and a sofa, all bathed in warm light.",
+      "tags": [
+        "interior",
+        "stairs",
+        "window",
+        "tree",
+        "minimal"
+      ]
+    },
+    {
+      "id": 321,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605688/wall_pix_9_16_light_128_hs8yym.jpg",
+      "category": "light",
+      "description": "A modern living room features neutral tones, natural light, and minimalist decor with views of lush greenery through the windows.",
+      "tags": [
+        "living room",
+        "modern",
+        "neutral tones",
+        "natural light",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 322,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605687/wall_pix_9_16_light_127_ejmpu5.jpg",
+      "category": "light",
+      "description": "A dining room features a wooden table with chairs, a modern light fixture, and a potted plant.",
+      "tags": [
+        "dining room",
+        "wooden table",
+        "modern",
+        "light fixture",
+        "potted plant"
+      ]
+    },
+    {
+      "id": 323,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605685/wall_pix_9_16_light_126_euvhqa.jpg",
+      "category": "light",
+      "description": "A bright living room features two white sofas, a wooden coffee table, and several potted plants.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "plants",
+        "neutral",
+        "interior"
+      ]
+    },
+    {
+      "id": 324,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605682/wall_pix_9_16_light_125_mwft2h.jpg",
+      "category": "light",
+      "description": "A living room scene featuring a white sectional sofa with decorative pillows, a wooden coffee table, and framed artwork on the wall.",
+      "tags": [
+        "living room",
+        "sectional sofa",
+        "coffee table",
+        "artwork",
+        "interior"
+      ]
+    },
+    {
+      "id": 325,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605680/wall_pix_9_16_light_124_yf6ab7.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with a beige comforter and a brown knitted blanket, accented by a potted tree and pendant lights.",
+      "tags": [
+        "bedroom",
+        "minimalist",
+        "beige",
+        "plant",
+        "lighting"
+      ]
+    },
+    {
+      "id": 326,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605678/wall_pix_9_16_light_123_hqo8sl.jpg",
+      "category": "light",
+      "description": "A modern outdoor patio at dusk features lounge furniture, ambient lighting, and manicured greenery.",
+      "tags": [
+        "patio",
+        "furniture",
+        "lighting",
+        "outdoor",
+        "modern"
+      ]
+    },
+    {
+      "id": 327,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605676/wall_pix_9_16_light_122_q48kpt.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with white linens, a bedside table with a lamp, and a window with curtains.",
+      "tags": [
+        "bedroom",
+        "bed",
+        "lamp",
+        "window",
+        "neutral"
+      ]
+    },
+    {
+      "id": 328,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605675/wall_pix_9_16_light_121_fikch4.jpg",
+      "category": "light",
+      "description": "A bedroom features a bed with a chunky knit blanket, sage green pillows, and a hanging plant.",
+      "tags": [
+        "bedroom",
+        "sage green",
+        "knit blanket",
+        "hanging plant",
+        "cozy"
+      ]
+    },
+    {
+      "id": 329,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605672/wall_pix_9_16_light_120_g12apd.jpg",
+      "category": "light",
+      "description": "A bright living room features two white sofas with blue pillows, a glass coffee table, and a fluffy gray rug on a dark wood floor.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "blue pillows",
+        "modern",
+        "interior"
+      ]
+    },
+    {
+      "id": 330,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605670/wall_pix_9_16_light_12_tlavtr.jpg",
+      "category": "light",
+      "description": "A park with a green lawn and trees, framed by buildings and tree branches.",
+      "tags": [
+        "park",
+        "lawn",
+        "trees",
+        "buildings",
+        "urban"
+      ]
+    },
+    {
+      "id": 331,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605668/wall_pix_9_16_light_119_ti77ts.jpg",
+      "category": "light",
+      "description": "A room with light streaming through a window, creating shadows on the floor.",
+      "tags": [
+        "window",
+        "light",
+        "shadow",
+        "room",
+        "empty"
+      ]
+    },
+    {
+      "id": 332,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605666/wall_pix_9_16_light_118_aisc3u.jpg",
+      "category": "light",
+      "description": "A bathroom features a window, a towel hanging on the wall, and a sink with a wooden cabinet.",
+      "tags": [
+        "bathroom",
+        "window",
+        "sink",
+        "towel",
+        "cabinet"
+      ]
+    },
+    {
+      "id": 333,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605664/wall_pix_9_16_light_117_wmagb6.jpg",
+      "category": "light",
+      "description": "A bright living room features a neutral sofa, a round woven coffee table, and large potted plants.",
+      "tags": [
+        "living room",
+        "beige",
+        "plants",
+        "woven",
+        "interior"
+      ]
+    },
+    {
+      "id": 334,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605662/wall_pix_9_16_light_116_slhap5.jpg",
+      "category": "light",
+      "description": "A view from the bottom of wooden stairs leading up to a bright, minimalist living room with plants and a light gray sofa.",
+      "tags": [
+        "stairs",
+        "living room",
+        "minimalist",
+        "plants",
+        "interior"
+      ]
+    },
+    {
+      "id": 335,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605660/wall_pix_9_16_light_115_depbh8.jpg",
+      "category": "light",
+      "description": "A dining room features a light gray table with six chairs, lit by three pendant lights and decorated with flowers and candles.",
+      "tags": [
+        "dining room",
+        "table",
+        "chairs",
+        "pendant lights",
+        "flowers"
+      ]
+    },
+    {
+      "id": 336,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605658/wall_pix_9_16_light_114_t0bmyc.jpg",
+      "category": "light",
+      "description": "A bright living room features a white sectional sofa, a round coffee table with books and bowls, and abstract art on the wall.",
+      "tags": [
+        "living room",
+        "white sofa",
+        "coffee table",
+        "abstract art",
+        "neutral tones"
+      ]
+    },
+    {
+      "id": 337,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605655/wall_pix_9_16_light_113_fi8x0k.jpg",
+      "category": "light",
+      "description": "A bright room features a light gray armchair, a potted plant, and a small cabinet with sunlight streaming in.",
+      "tags": [
+        "armchair",
+        "plant",
+        "interior",
+        "minimal",
+        "daylight"
+      ]
+    },
+    {
+      "id": 338,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605654/wall_pix_9_16_light_112_avuhvy.jpg",
+      "category": "light",
+      "description": "A bright living room features two sofas, a ribbed coffee table with flowers, and blue curtains.",
+      "tags": [
+        "living room",
+        "sofas",
+        "coffee table",
+        "flowers",
+        "curtains"
+      ]
+    },
+    {
+      "id": 339,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605653/wall_pix_9_16_light_111_e6kh5e.jpg",
+      "category": "light",
+      "description": "A well-lit kitchen features gray cabinets, a wooden countertop, and a large window with a view of mountains.",
+      "tags": [
+        "kitchen",
+        "cabinets",
+        "window view",
+        "wood countertop",
+        "interior"
+      ]
+    },
+    {
+      "id": 340,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605650/wall_pix_9_16_light_110_hub1tx.jpg",
+      "category": "light",
+      "description": "A neutral-toned living room features a sofa with pillows, a wooden coffee table, and light wooden flooring.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "sofa",
+        "wood floor",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 341,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605649/wall_pix_9_16_light_11_liwieh.jpg",
+      "category": "light",
+      "description": "A woman in a white robe stands between two chairs in a bright, modern living room with a view of a green backyard.",
+      "tags": [
+        "living room",
+        "modern",
+        "interior",
+        "woman",
+        "bright"
+      ]
+    },
+    {
+      "id": 342,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605645/wall_pix_9_16_light_109_krnmdw.jpg",
+      "category": "light",
+      "description": "A modern living room with white marble floors, a gray sofa, and a Christmas tree visible through a large window.",
+      "tags": [
+        "living room",
+        "modern",
+        "christmas tree",
+        "marble floor",
+        "gray sofa"
+      ]
+    },
+    {
+      "id": 343,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605644/wall_pix_9_16_light_108_ogr6tx.jpg",
+      "category": "light",
+      "description": "A modern house with a car parked in the driveway, illuminated by warm lights against a cool blue sky.",
+      "tags": [
+        "modern house",
+        "architecture",
+        "car",
+        "evening",
+        "exterior"
+      ]
+    },
+    {
+      "id": 344,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605642/wall_pix_9_16_light_107_eow5lo.jpg",
+      "category": "light",
+      "description": "Sunlight streams through the trees in a forest, illuminating a path.",
+      "tags": [
+        "forest",
+        "sunlight",
+        "path",
+        "trees",
+        "nature"
+      ]
+    },
+    {
+      "id": 345,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605640/wall_pix_9_16_light_106_wrt1ug.jpg",
+      "category": "light",
+      "description": "A bed with blue and pink linen sheets is illuminated by sunlight streaming through a window.",
+      "tags": [
+        "bed",
+        "linen",
+        "blue",
+        "pink",
+        "window"
+      ]
+    },
+    {
+      "id": 346,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605639/wall_pix_9_16_light_105_kvtrrz.jpg",
+      "category": "light",
+      "description": "A dining room setting features a wooden table with blue chairs, a vase of flowers, and an abstract painting on a light green wall.",
+      "tags": [
+        "dining room",
+        "modern",
+        "table",
+        "chairs",
+        "artwork"
+      ]
+    },
+    {
+      "id": 347,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605636/wall_pix_9_16_light_104_wqfve8.jpg",
+      "category": "light",
+      "description": "A bedroom scene with a bed, curtains, and a window showing a tree shadow.",
+      "tags": [
+        "bedroom",
+        "curtains",
+        "shadow",
+        "window",
+        "daylight"
+      ]
+    },
+    {
+      "id": 348,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605633/wall_pix_9_16_light_103_hndqll.jpg",
+      "category": "light",
+      "description": "A living room features a neutral color palette with a textured sofa, round coffee table, and a braided ottoman on a woven rug.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "modern",
+        "furniture",
+        "interior"
+      ]
+    },
+    {
+      "id": 349,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605632/wall_pix_9_16_light_100_jkjh2p.jpg",
+      "category": "light",
+      "description": "A young girl in a blue dress walks along a stone path in a lush, modern garden with trees and sunlight.",
+      "tags": [
+        "girl",
+        "garden",
+        "modern",
+        "path",
+        "trees"
+      ]
+    },
+    {
+      "id": 350,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605632/wall_pix_9_16_light_102_k8pxaf.jpg",
+      "category": "light",
+      "description": "A view looking up through a hole in the clouds, with light shining through the opening.",
+      "tags": [
+        "clouds",
+        "sky",
+        "light",
+        "heaven",
+        "celestial"
+      ]
+    },
+    {
+      "id": 351,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605632/wall_pix_9_16_light_101_qi5qwb.jpg",
+      "category": "light",
+      "description": "A neutral-toned living room features a sofa, ottoman with a blanket, wooden furniture, and a dining table in the background.",
+      "tags": [
+        "living room",
+        "neutral tones",
+        "furniture",
+        "interior",
+        "minimalist"
+      ]
+    },
+    {
+      "id": 352,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605627/wall_pix_9_16_light_10_jdbomm.jpg",
+      "category": "light",
+      "description": "A living room setting with a couch, pillows, a wooden table with flowers, and a window with sheer curtains.",
+      "tags": [
+        "living room",
+        "couch",
+        "flowers",
+        "window",
+        "interior"
+      ]
+    },
+    {
+      "id": 353,
+      "url": "https://res.cloudinary.com/di2jdiddr/image/upload/v1772605627/wall_pix_9_16_light_1_civldu.jpg",
+      "category": "light",
+      "description": "A modern living room features beige sofas, a blue ottoman, and a unique light fixture.",
+      "tags": [
+        "living room",
+        "modern",
+        "beige",
+        "ottoman",
+        "lighting"
+      ]
+    }
+  ]
+}
