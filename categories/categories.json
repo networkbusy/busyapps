@@ -1,5 +1,5 @@
 {
-    "updatedAt": "2026-01-28",
+    "updatedAt": "2026-03-04",
     "version": "2.0",
     "categories": [
         {
@@ -26,8 +26,8 @@
             "description": "Original, imaginative wallpapers with unique concepts and designs.",
             "img": "assets/categories/thumbnails/creative.png",
             "jpath": "assets/categories/json/creative.json",
-            "show": true,
-            "pos": "4"
+            "show": false,
+            "pos": ""
         },
         {
             "id": "4",
@@ -36,7 +36,7 @@
             "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/cute.png",
             "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/cute.json",
             "show": true,
-            "pos": "1"
+            "pos": "6"
         },
         {
             "id": "5",
@@ -80,8 +80,8 @@
             "description": "Trendy, aesthetic designs with a fashionable and premium feel.",
             "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/stylish.png",
             "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/stylish.json",
-            "show": true,
-            "pos": "2"
+            "show": false,
+            "pos": ""
         },
         {
             "id": "10",
@@ -89,8 +89,53 @@
             "description": "Mood-based wallpapers that match feelings like chill, dark, cozy, or hype.",
             "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/vibe.png",
             "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/vibe.json",
+            "show": false,
+            "pos": ""
+        },
+        {
+            "id": "11",
+            "name": "Lucky",
+            "description": "Good-luck wallpapers with lucky symbols and positive themes.",
+            "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/lucky.png",
+            "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/lucky.json",
+            "show": true,
+            "pos": "5"
+        },
+        {
+            "id": "12",
+            "name": "Light",
+            "description": "Bright, light-toned wallpapers with a clean and airy feel.",
+            "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/light.png",
+            "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/light.json",
             "show": true,
             "pos": "3"
+        },
+        {
+            "id": "13",
+            "name": "Forests",
+            "description": "Forest wallpapers with trees, woods, and peaceful outdoor scenes.",
+            "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/forests.png",
+            "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/forests.json",
+            "show": true,
+            "pos": "4"
+        },
+        {
+            "id": "14",
+            "name": "Floral",
+            "description": "Flower wallpapers with floral patterns and botanical designs.",
+            "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/floral.png",
+            "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/floral.json",
+            "show": true,
+            "pos": "2"
+        },
+        {
+            "id": "15",
+            "name": "Cosy",
+            "description": "Warm, cozy wallpapers with comforting colors and relaxed vibes.",
+            "img": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/thumbnails/cosy.png",
+            "jpath": "https://raw.githubusercontent.com/networkbusy/busyapps/refs/heads/main/categories/json/cosy.json",
+            "show": true,
+            "pos": "1"
         }
     ]
 }
